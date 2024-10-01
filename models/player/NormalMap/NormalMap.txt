@@ -1,0 +1,47 @@
+Half-Life Modder's Perspective
+
+I remember back in the days when I started doing mods for Half-Life (somewhere around 2005 I think), 
+I was amazed how collection of dots can be turned into polygons and how then you can skin them to get something that will be rendered as a "real" thing in the game engine. 
+The revelation was an eyeopener. 
+
+Some times afterwards, I was thinking about making a pack of models to show how a real Half-Life Mod maker actually sees the 3D models... 
+
+So... many years later, this pack will be finally unleashed to the Half-Life Community. 
+
+
+
+In this pack you will find 5 models alongside 5 Preview images:
+
+Bipped - Representation of the Half-Life "skeleton" used for animating the players.
+
+FlatShade - Well just like the name suggest that's a FlatShaded view of a player model, for extra effect I added red wireframe overlay. 
+
+HitBox - Well, this is a representation of the Half-Life Player model's hitboxes. 
+That's what causes the engine to register ballet hits and what causes you to take "damage" when hit in the game. 
+
+NormalMap - Well, this is how the player model would have looked like if the Normal maps for the model were used for Diffuse maps...
+
+WireFrame - Well, this is a wireframe render mode of the player model, for added effect I included the skeleton to show up. 
+
+This pack is compiled for Half-Life and for SvenCoop. 
+Make sure to download the correct one, depending on what you plan to use it for. 
+The player models in the Half-Life version of the pack will also work in Opposing Force.
+
+So go grab them, and play the game from the Modder's Perspective...
+
+Credits:
+
+Models: Napoleon, Ambient Impact
+Textures: Napoleon
+Animations: Valve SvenCoop, Napoleon
+
+                                                                               
+    ███▄    █  ▄▄▄       ██▓███   ▒█████   ██▓    ▓█████  ▒█████   ███▄    █   
+    ██ ▀█   █ ▒████▄    ▓██░  ██▒▒██▒  ██▒▓██▒    ▓█   ▀ ▒██▒  ██▒ ██ ▀█   █   
+   ▓██  ▀█ ██▒▒██  ▀█▄  ▓██░ ██▓▒▒██░  ██▒▒██░    ▒███   ▒██░  ██▒▓██  ▀█ ██▒  
+   ▓██▒  ▐▌██▒░██▄▄▄▄██ ▒██▄█▓▒ ▒▒██   ██░▒██░    ▒▓█  ▄ ▒██   ██░▓██▒  ▐▌██▒  
+   ▒██░   ▓██░ ▓█   ▓██▒▒██▒ ░  ░░ ████▓▒░░██████▒░▒████▒░ ████▓▒░▒██░   ▓██░  
+   ░ ▒░   ▒ ▒  ▒▒   ▓▒█░▒▓▒░ ░  ░░ ▒░▒░▒░ ░ ▒░▓  ░░░ ▒░ ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒   
+   ░ ░░   ░ ▒░  ▒   ▒▒ ░░▒ ░       ░ ▒ ▒░ ░ ░ ▒  ░ ░ ░  ░  ░ ▒ ▒░ ░ ░░   ░ ▒░  
+      ░   ░ ░   ░   ▒   ░░       ░ ░ ░ ▒    ░ ░      ░   ░ ░ ░ ▒     ░   ░ ░   
+            ░       ░  ░             ░ ░      ░  ░   ░  ░    ░ ░           ░    
