@@ -1,0 +1,205 @@
+hlcsg v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:/Program Files/J.A.C.K./halflife/hlcsg.exe" Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat 
+Arguments: Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat -low -wadautodetect 
+Entering Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [      20 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+reset logfile         [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 33554432 ] [ 33554432 ]
+max lighting memory   [ 50331648 ] [ 50331648 ]
+priority              [     Low ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [     off ] [     off ]
+clip hull type        [  simple ] [  simple ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+wad configuration file[    None ] [    None ]
+wad.cfg group name    [    None ] [    None ]
+nullfile              [    None ] [    None ]
+nullify trigger       [      on ] [      on ]
+min surface area      [   0.000 ] [   0.000 ]
+brush union threshold [   0.000 ] [   0.000 ]
+map scaling           [    None ] [    None ]
+light name optimize   [      on ] [      on ]
+convert game_text     [      on ] [      on ]
+
+Using mapfile wad configuration
+Wadfiles not in use by the map will be excluded
+Wadinclude list :
+[zhlt.wad]
+
+CreateBrush:
+ (0.03 seconds)
+CSGBrush:
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+Warning: Entity 0, Brush 0: Malformed texture alignment (texture !RADIO): Texture axis perpendicular to face.
+ (0.02 seconds)
+
+Using Wadfile: /home/glitch/.steam/debian-installation/steamapps/common/Half-Life/valve/halflife.wad
+ - Contains 1 used texture, 50.00 percent of map (3120 textures in wad)
+Using Wadfile: /home/glitch/.steam/debian-installation/steamapps/common/Half-Life/valve/liquids.wad
+ - Contains 1 used texture, 50.00 percent of map (32 textures in wad)
+
+Wad files required to run the map: "halflife.wad;liquids.wad;"
+Texture usage is at 0.02 mb (of 32.00 mb MAX)
+0.06 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:/Program Files/J.A.C.K./halflife/hlbsp.exe" Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat 
+Arguments: Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat -low -chart 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [      20 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [      on ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 33554432 ] [ 33554432 ]
+priority            [     Low ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noinsidefill        [     off ] [     off ]
+noopt               [     off ] [     off ]
+no clipnode merging [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+nobrink             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 65536)
+remove hull 2       [     off ] [     off ]
+
+
+SolidBSP [hull 0] 35 (0.00 seconds)
+Warning: === LEAK in hull 0 ===
+Entity info_player_start @ ( 192,-3936,  32)
+Error: 
+  A LEAK is a hole in the map, where the inside of it is exposed to the
+(unwanted) outside region.  The entity listed in the error is just a helpful
+indication of where the beginning of the leak pointfile starts, so the
+beginning of the line can be quickly found and traced to until reaching the
+outside. Unless this entity is accidentally on the outside of the map, it
+probably should not be deleted.  Some complex rotating objects entities need
+their origins outside the map.  To deal with these, just enclose the origin
+brush with a solid world brush
+
+Leak pointfile generated
+
+SolidBSP [hull 1] 30 (0.00 seconds)
+SolidBSP [hull 2] 30 (0.00 seconds)
+SolidBSP [hull 3] 30 (0.00 seconds)
+Reduced 21 clipnodes to 21
+Reduced 8 texinfos to 8
+Reduced 2 texdatas to 2 (92 bytes to 92)
+Reduced 132 planes to 34
+FixBrinks:
+Increased 21 clipnodes to 21.
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models              1/512           64/32768    ( 0.2%)
+planes             34/32768        680/655360   ( 0.1%)
+vertexes           56/65535        672/786420   ( 0.1%)
+nodes              34/32767        816/786408   ( 0.1%)
+texinfos            8/32767        320/1310680  ( 0.0%)
+faces              76/65535       1520/1310700  ( 0.1%)
+* worldfaces       76/32768          0/0        ( 0.2%)
+clipnodes          21/32767        168/262136   ( 0.1%)
+leaves             36/32760       1008/917280   ( 0.1%)
+* worldleaves      35/8192           0/0        ( 0.4%)
+marksurfaces       92/65535        184/131070   ( 0.1%)
+surfedges         360/512000      1440/2048000  ( 0.1%)
+edges             193/256000       772/1024000  ( 0.1%)
+texdata          [variable]         92/33554432 ( 0.0%)
+lightdata        [variable]          0/50331648 ( 0.0%)
+visdata          [variable]          0/8388608  ( 0.0%)
+entdata          [variable]       8994/2097152  ( 0.4%)
+* AllocBlock        0/64             0/0        ( 0.0%)
+2 textures referenced
+=== Total BSP file data space used: 16730 bytes ===
+Wad files required to run the map: "halflife.wad;liquids.wad;"
+0.15 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlvis -----
+Command line: "C:/Program Files/J.A.C.K./halflife/hlvis.exe" Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat 
+Arguments: Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat -low 
+>> There was a problem compiling the map.
+>> Check the file Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 VL34 64-bit (Aug 17 2015)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlrad -----
+Command line: "C:/Program Files/J.A.C.K./halflife/hlrad.exe" Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat 
+Arguments: Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat -low 
+>> There was a problem compiling the map.
+>> Check the file Z:\home\glitch\.steam\debian-installation\steamapps\common\Half-Life\valve\maps\flat.log for the cause.
+
+-----   END   hlrad -----
+
+
+

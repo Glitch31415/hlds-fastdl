@@ -1,0 +1,15 @@
+// saw
+
+12 // number of sprites
+weapon          320 320hudof01 0   120   80  20
+weapon_s        320 320hudof01 0   140  80  20
+ammo		320 320hud2	0	16	18	18
+crosshair	320 crosshairs	24	24	24	24
+weapon_sil      320 320hudof01 0   120   80  20
+weapon_sil_s    320 320hudof01 0   140  80  20
+weapon          640 640hud10 0   135  170 45
+weapon_s        640 640hud11 0   135  170 45
+ammo		640 640hud7    0	 72	24	24
+crosshair	640 crosshairs 24	24	24	24
+weapon_sil      640 640hud10 0   135  170 45
+weapon_sil_s    640 640hud11 0   135  170 45
