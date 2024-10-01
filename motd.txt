@@ -1,0 +1,27 @@
+This server has cheats enabled!
+Here are some commands for you to try:
+
+impulse 101
+Gives you all weapons and ammo for those weapons
+
+god
+Prevents you from losing health and/or being killed
+
+noclip
+Allows you to clip through things (useful when stuck)
+
+impulse 203
+Deletes the entity you are pointing at
+
+impulse 76 ; restart ; impulse 76
+Spawns a human grunt on your crosshair
+
+give
+List of possible entries:
+https://twhl.info/wiki/page/category%3APoint_Entities
+
+All commands:
+https://developer.valvesoftware.com/wiki/Console_Command_List
+
+-----
+Because of a GoldSrc limitation, I'm unable to load all of Sevenkewp+Half Life's assets on every map. Some lesser-spawned monsters may not have precached models.
