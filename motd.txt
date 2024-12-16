@@ -1,27 +1,18 @@
 This server has cheats enabled!
 Here are some commands for you to try:
 
-impulse 101
-Gives you all weapons and ammo for those weapons
+impulse 101: Gives you all weapons and ammo for those weapons
+god: Prevents you from losing health and/or being killed
+noclip: Allows you to clip through things (useful when stuck)
+notarget: Causes hostile entities to not attack you
+impulse 203: Deletes the entity you are pointing at
+impulse 76: Spawns a human grunt on your crosshair (command doesn't work the first time; run it twice)
+give, list of possible entries: https://twhl.info/wiki/page/category%3APoint_Entities and https://www.svenmanor.com/entity-guide
 
-god
-Prevents you from losing health and/or being killed
+All commands: https://developer.valvesoftware.com/wiki/Console_Command_List
 
-noclip
-Allows you to clip through things (useful when stuck)
+Use 'rtv' to change map if desired. Say '/blocks' to open the block menu.
 
-impulse 203
-Deletes the entity you are pointing at
+Because of a GoldSrc limitation, I'm unable to load all of Sevenkewp+Half Life's assets on every map. Some lesser-spawned monsters may not have precached models or sounds. (This is also why the same sound is used repetitively, like the zombie moan)
 
-impulse 76 ; restart ; impulse 76
-Spawns a human grunt on your crosshair
-
-give
-List of possible entries:
-https://twhl.info/wiki/page/category%3APoint_Entities
-
-All commands:
-https://developer.valvesoftware.com/wiki/Console_Command_List
-
------
-Because of a GoldSrc limitation, I'm unable to load all of Sevenkewp+Half Life's assets on every map. Some lesser-spawned monsters may not have precached models.
+IF YOU ARE UNABLE TO USE THE NUMBERED MENUS PAST THE NUMBER 5, you need to bind your 6-0 keys like so: bind 6 "slot6", bind 7 "slot7", etc until bind 0 "slot10", then it should work.

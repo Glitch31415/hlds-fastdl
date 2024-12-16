@@ -1,0 +1,60 @@
+L 11/02/2024 - 14:18:58: -------- Mapchange to sandbox --------
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] items/smallmedkit1.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] player/pl_wade1.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] player/pl_wade2.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] /hl2/cscanner/scanner_scan_loop2.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] /hl2/cscanner/scanner_photo1.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 11/02/2024 - 14:18:59: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:18:59: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 11/02/2024 - 14:19:00: -------- Mapchange to sandbox --------
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] items/smallmedkit1.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] player/pl_wade1.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] player/pl_wade2.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] /hl2/cscanner/scanner_scan_loop2.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] /hl2/cscanner/scanner_photo1.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 11/02/2024 - 14:19:00: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:00: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 11/02/2024 - 14:19:00: [galileo.amxx] 
+L 11/02/2024 - 14:19:00: [galileo.amxx] The server is jumping to the next map after the current map due more than 1 restarts on the map "sandbox"
+L 11/02/2024 - 14:19:00: [galileo.amxx] 
+L 11/02/2024 - 14:19:02: -------- Mapchange to d1_trainstation_02 --------
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] items/smallmedkit1.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] player/pl_wade1.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] player/pl_wade2.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] /hl2/cscanner/scanner_scan_loop2.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] /hl2/cscanner/scanner_photo1.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 11/02/2024 - 14:19:02: [testprecache.amxx] precaching file
+L 11/02/2024 - 14:19:02: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav

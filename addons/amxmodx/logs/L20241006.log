@@ -1,0 +1,405 @@
+L 10/06/2024 - 00:12:23: -------- Mapchange to sandbox --------
+L 10/06/2024 - 00:12:23: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:23: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 00:12:23: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:23: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 00:12:23: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:23: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 00:12:23: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:23: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 00:12:23: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:23: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:12:23: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:23: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:12:23: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:23: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:12:26: -------- Mapchange to boot_camp --------
+L 10/06/2024 - 00:12:26: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:26: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 00:12:26: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:26: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 00:12:26: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:26: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 00:12:26: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:26: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 00:12:26: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:26: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:12:26: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:26: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:12:26: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:12:26: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:23:25: -------- Mapchange to sandbox --------
+L 10/06/2024 - 00:23:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:25: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 00:23:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:25: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 00:23:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:25: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 00:23:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:25: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 00:23:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:25: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:23:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:25: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:23:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:25: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:23:28: -------- Mapchange to boot_camp --------
+L 10/06/2024 - 00:23:28: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:28: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 00:23:28: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:28: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 00:23:28: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:28: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 00:23:28: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:28: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 00:23:28: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:28: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:23:28: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:28: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 00:23:28: [testprecache.amxx] precaching file
+L 10/06/2024 - 00:23:28: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:02:22: -------- Mapchange to sc_test --------
+L 10/06/2024 - 01:02:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:02:22: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 01:02:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:02:22: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 01:02:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:02:22: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 01:02:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:02:22: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 01:02:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:02:22: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:02:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:02:22: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:02:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:02:22: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:31:33: -------- Mapchange to sandbox --------
+L 10/06/2024 - 01:31:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:33: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 01:31:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:33: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 01:31:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:33: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 01:31:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:33: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 01:31:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:33: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:31:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:33: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:31:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:33: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:31:36: -------- Mapchange to sc_test --------
+L 10/06/2024 - 01:31:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:36: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 01:31:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:36: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 01:31:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:36: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 01:31:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:36: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 01:31:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:36: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:31:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:36: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:31:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:31:36: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:41:32: -------- Mapchange to e1m1 --------
+L 10/06/2024 - 01:41:32: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:41:32: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 01:41:32: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:41:32: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 01:41:32: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:41:32: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 01:41:32: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:41:32: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 01:41:32: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:41:32: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:41:32: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:41:32: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:41:32: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:41:32: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:43:08: -------- Mapchange to sandbox --------
+L 10/06/2024 - 01:43:08: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:43:08: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 01:43:08: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:43:08: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 01:43:08: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:43:08: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 01:43:08: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:43:08: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 01:43:08: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:43:08: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:43:08: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:43:08: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 01:43:08: [testprecache.amxx] precaching file
+L 10/06/2024 - 01:43:08: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 02:22:53: -------- Mapchange to sandbox --------
+L 10/06/2024 - 02:22:53: [testprecache.amxx] precaching file
+L 10/06/2024 - 02:22:53: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 02:22:53: [testprecache.amxx] precaching file
+L 10/06/2024 - 02:22:53: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 02:22:53: [testprecache.amxx] precaching file
+L 10/06/2024 - 02:22:53: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 02:22:53: [testprecache.amxx] precaching file
+L 10/06/2024 - 02:22:53: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 02:22:53: [testprecache.amxx] precaching file
+L 10/06/2024 - 02:22:53: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 02:22:53: [testprecache.amxx] precaching file
+L 10/06/2024 - 02:22:53: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 02:22:53: [testprecache.amxx] precaching file
+L 10/06/2024 - 02:22:53: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:23:12: -------- Mapchange to sandbox --------
+L 10/06/2024 - 03:23:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:23:12: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 03:23:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:23:12: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 03:23:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:23:12: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 03:23:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:23:12: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 03:23:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:23:12: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:23:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:23:12: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:23:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:23:12: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:24:04: -------- Mapchange to d1_trainstation_02 --------
+L 10/06/2024 - 03:24:04: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:24:04: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 03:24:04: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:24:04: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 03:24:04: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:24:04: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 03:24:04: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:24:04: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 03:24:04: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:24:04: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:24:04: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:24:04: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:24:04: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:24:04: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:47:27: -------- Mapchange to sandbox --------
+L 10/06/2024 - 03:47:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:27: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 03:47:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:27: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 03:47:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:27: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 03:47:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:27: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 03:47:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:47:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:47:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:47:30: -------- Mapchange to d1_trainstation_02 --------
+L 10/06/2024 - 03:47:30: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:30: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 03:47:30: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:30: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 03:47:30: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:30: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 03:47:30: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:30: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 03:47:30: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:30: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:47:30: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:30: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 03:47:30: [testprecache.amxx] precaching file
+L 10/06/2024 - 03:47:30: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 12:56:56: -------- Mapchange to sandbox --------
+L 10/06/2024 - 12:56:56: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:56: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 12:56:56: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:56: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 12:56:56: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:56: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 12:56:56: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:56: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 12:56:56: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:56: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 12:56:56: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:56: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 12:56:56: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:56: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 12:56:59: -------- Mapchange to d1_trainstation_02 --------
+L 10/06/2024 - 12:56:59: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:59: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 12:56:59: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:59: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 12:56:59: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:59: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 12:56:59: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:59: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 12:56:59: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:59: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 12:56:59: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:59: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 12:56:59: [testprecache.amxx] precaching file
+L 10/06/2024 - 12:56:59: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 14:56:33: -------- Mapchange to d1_town_01 --------
+L 10/06/2024 - 14:56:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 14:56:33: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 14:56:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 14:56:33: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 14:56:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 14:56:33: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 14:56:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 14:56:33: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 14:56:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 14:56:33: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 14:56:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 14:56:33: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 14:56:33: [testprecache.amxx] precaching file
+L 10/06/2024 - 14:56:33: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:04:24: -------- Mapchange to sandbox --------
+L 10/06/2024 - 20:04:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:24: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 20:04:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:24: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 20:04:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:24: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 20:04:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:24: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 20:04:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:24: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:04:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:24: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:04:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:24: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:04:27: -------- Mapchange to d1_town_01 --------
+L 10/06/2024 - 20:04:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:27: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 20:04:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:27: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 20:04:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:27: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 20:04:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:27: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 20:04:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:04:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:04:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:04:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:37:25: -------- Mapchange to sandbox --------
+L 10/06/2024 - 20:37:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:25: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 20:37:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:25: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 20:37:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:25: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 20:37:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:25: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 20:37:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:25: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:37:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:25: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:37:25: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:25: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:37:27: -------- Mapchange to d1_town_01 --------
+L 10/06/2024 - 20:37:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:27: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 20:37:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:27: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 20:37:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:27: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 20:37:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:27: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 20:37:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:37:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 20:37:27: [testprecache.amxx] precaching file
+L 10/06/2024 - 20:37:27: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:00:24: -------- Mapchange to crossfireXL --------
+L 10/06/2024 - 21:00:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:00:24: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 21:00:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:00:24: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 21:00:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:00:24: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 21:00:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:00:24: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 21:00:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:00:24: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:00:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:00:24: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:00:24: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:00:24: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:02:36: -------- Mapchange to sc_test --------
+L 10/06/2024 - 21:02:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:36: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 21:02:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:36: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 21:02:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:36: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 21:02:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:36: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 21:02:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:36: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:02:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:36: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:02:36: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:36: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:02:49: -------- Mapchange to sandbox --------
+L 10/06/2024 - 21:02:49: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:49: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 21:02:49: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:49: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 21:02:49: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:49: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 21:02:49: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:49: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 21:02:49: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:49: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:02:49: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:49: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:02:49: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:02:49: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:20:12: -------- Mapchange to sandbox --------
+L 10/06/2024 - 21:20:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:20:12: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 21:20:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:20:12: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 21:20:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:20:12: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 21:20:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:20:12: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 21:20:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:20:12: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:20:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:20:12: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:20:12: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:20:12: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:23:15: -------- Mapchange to sandbox --------
+L 10/06/2024 - 21:23:15: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:23:15: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 21:23:15: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:23:15: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 21:23:15: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:23:15: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 21:23:15: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:23:15: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 21:23:15: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:23:15: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:23:15: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:23:15: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:23:15: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:23:15: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:31:22: -------- Mapchange to d1_trainstation_02 --------
+L 10/06/2024 - 21:31:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:31:22: [testprecache.amxx] items/smallmedkit1.wav
+L 10/06/2024 - 21:31:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:31:22: [testprecache.amxx] player/pl_wade1.wav
+L 10/06/2024 - 21:31:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:31:22: [testprecache.amxx] player/pl_wade2.wav
+L 10/06/2024 - 21:31:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:31:22: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 10/06/2024 - 21:31:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:31:22: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:31:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:31:22: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 10/06/2024 - 21:31:22: [testprecache.amxx] precaching file
+L 10/06/2024 - 21:31:22: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav

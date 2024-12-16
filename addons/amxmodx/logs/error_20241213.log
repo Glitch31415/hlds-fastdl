@@ -1,0 +1,8 @@
+L 12/13/2024 - 11:31:12: Start of error session.
+L 12/13/2024 - 11:31:12: Info (map "d1_town_01") (file "addons/amxmodx/logs/error_20241213.log")
+L 12/13/2024 - 11:31:12: [FUN] Invalid player 4
+L 12/13/2024 - 11:31:12: [AMXX] Run time error 10 (plugin "blocks-patched.amxx") (native "set_user_noclip") - debug not enabled!
+L 12/13/2024 - 11:31:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/13/2024 - 11:51:59: [FUN] Invalid player 4
+L 12/13/2024 - 11:51:59: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 12/13/2024 - 11:51:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

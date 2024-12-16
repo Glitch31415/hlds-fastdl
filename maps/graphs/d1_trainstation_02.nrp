@@ -94,10 +94,10 @@ Walk Rejection:
 -------------------------------------------------------------------------------
 Node    0:
 
-NODE_LARGE_HULL step 0.000000
-NODE_SMALL_HULL step 0.000000
+NODE_LARGE_HULL step 48
+NODE_SMALL_HULL step 48
 Rejected Node   4 - Unreachable by Any Hull
-NODE_SMALL_HULL step 0.000000
+NODE_SMALL_HULL step 48
 Rejected Node   5 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node    1:
@@ -108,15 +108,16 @@ Node    2:
 -------------------------------------------------------------------------------
 Node    3:
 
-NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 160
 -------------------------------------------------------------------------------
 Node    4:
 
-NODE_HUMAN_HULL step 0.000000
+NODE_SMALL_HULL step 272
+Rejected Node   0 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node    5:
 
-NODE_SMALL_HULL step 0.000000
+NODE_SMALL_HULL step 368
 Rejected Node   0 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 
@@ -148,12 +149,13 @@ REJECTED NODE   3 through Node   4, Dot = 0.999911
 
 -------------------------------------------------------------------------------
 Link Pairings:
-WARNING: Node   0 does not connect back to Node   4
+
+All Connections are Paired!
 -------------------------------------------------------------------------------
 
 
 -------------------------------------------------------------------------------
-Total Number of Connections in Pool: 19
+Total Number of Connections in Pool: 18
 -------------------------------------------------------------------------------
-Connection Pool: 456 bytes
+Connection Pool: 432 bytes
 -------------------------------------------------------------------------------

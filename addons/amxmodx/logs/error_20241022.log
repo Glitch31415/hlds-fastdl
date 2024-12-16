@@ -1,0 +1,10 @@
+L 10/22/2024 - 01:31:06: Start of error session.
+L 10/22/2024 - 01:31:06: Info (map "c1a0") (file "addons/amxmodx/logs/error_20241022.log")
+L 10/22/2024 - 01:31:06: [FUN] Invalid player 4
+L 10/22/2024 - 01:31:06: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 10/22/2024 - 01:31:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/22/2024 - 15:40:20: Start of error session.
+L 10/22/2024 - 15:40:20: Info (map "d1_trainstation_02") (file "addons/amxmodx/logs/error_20241022.log")
+L 10/22/2024 - 15:40:20: [FUN] Invalid player 4
+L 10/22/2024 - 15:40:20: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 10/22/2024 - 15:40:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

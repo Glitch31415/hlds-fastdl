@@ -1,0 +1,201 @@
+L 09/27/2024 - 18:56:10: -------- Mapchange to start --------
+L 09/27/2024 - 18:56:10: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:00:24: -------- Mapchange to start --------
+L 09/27/2024 - 19:00:24: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:00:25: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:01:41: -------- Mapchange to start --------
+L 09/27/2024 - 19:01:41: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:01:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:03:24: -------- Mapchange to start --------
+L 09/27/2024 - 19:03:24: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:03:25: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:04:13: -------- Mapchange to start --------
+L 09/27/2024 - 19:04:13: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:04:13: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:07:58: -------- Mapchange to start --------
+L 09/27/2024 - 19:07:58: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:07:58: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:08:55: -------- Mapchange to start --------
+L 09/27/2024 - 19:08:55: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:08:55: Error:
+L 09/27/2024 - 19:08:55: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:08:55: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:08:55: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:10:11: -------- Mapchange to start --------
+L 09/27/2024 - 19:10:11: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:10:11: Error:
+L 09/27/2024 - 19:10:11: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:10:11: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:10:11: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:10:45: -------- Mapchange to sandbox --------
+L 09/27/2024 - 19:10:45: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:10:45: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:15:05: -------- Mapchange to start --------
+L 09/27/2024 - 19:15:05: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:15:05: Error:
+L 09/27/2024 - 19:15:05: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:15:05: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:15:05: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:18:56: -------- Mapchange to start --------
+L 09/27/2024 - 19:18:56: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:18:56: Error:
+L 09/27/2024 - 19:18:56: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:18:56: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:18:56: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:19:07: -------- Mapchange to start --------
+L 09/27/2024 - 19:19:07: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:19:07: Error:
+L 09/27/2024 - 19:19:07: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:19:07: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:19:07: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:20:10: -------- Mapchange to start --------
+L 09/27/2024 - 19:20:10: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:20:10: Error:
+L 09/27/2024 - 19:20:10: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:20:10: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:20:11: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:20:33: -------- Mapchange to sandbox --------
+L 09/27/2024 - 19:20:33: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:20:33: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:21:05: -------- Mapchange to sandbox --------
+L 09/27/2024 - 19:21:05: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:21:05: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:23:00: -------- Mapchange to start --------
+L 09/27/2024 - 19:23:00: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:23:00: Error:
+L 09/27/2024 - 19:23:00: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:23:00: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:23:00: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:23:50: -------- Mapchange to sandbox --------
+L 09/27/2024 - 19:23:50: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:23:50: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 19:36:06: -------- Mapchange to start --------
+L 09/27/2024 - 19:36:06: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 19:36:06: Error:
+L 09/27/2024 - 19:36:06: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 19:36:06: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 19:36:06: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 20:54:04: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 20:54:04: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 20:54:04: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 20:55:10: -------- Mapchange to c1a0d --------
+L 09/27/2024 - 20:55:10: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 20:55:10: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 20:56:54: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 20:56:54: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 20:56:54: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 20:58:49: -------- Mapchange to c1a0d --------
+L 09/27/2024 - 20:58:49: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 20:58:49: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:16:56: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 21:16:56: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:16:56: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:33:05: -------- Mapchange to c1a0d --------
+L 09/27/2024 - 21:33:05: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:33:05: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:34:50: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 21:34:50: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:34:50: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:40:54: -------- Mapchange to c1a0d --------
+L 09/27/2024 - 21:40:54: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:40:54: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:42:55: -------- Mapchange to start --------
+L 09/27/2024 - 21:42:55: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 21:42:55: Error:
+L 09/27/2024 - 21:42:55: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 21:42:55: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:42:55: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:43:13: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 21:43:13: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:43:13: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:46:19: -------- Mapchange to c1a0d --------
+L 09/27/2024 - 21:46:19: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:46:19: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 21:46:40: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 21:46:40: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 21:46:40: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:18:05: -------- Mapchange to start --------
+L 09/27/2024 - 22:18:05: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 22:18:05: Error:
+L 09/27/2024 - 22:18:05: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 22:18:05: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:18:05: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:18:41: -------- Mapchange to start --------
+L 09/27/2024 - 22:18:41: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 22:18:41: Error:
+L 09/27/2024 - 22:18:41: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 22:18:41: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:18:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:19:15: -------- Mapchange to start --------
+L 09/27/2024 - 22:19:15: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:19:15: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:19:25: -------- Mapchange to sandbox --------
+L 09/27/2024 - 22:19:25: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:19:25: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:34:26: -------- Mapchange to sandbox --------
+L 09/27/2024 - 22:34:26: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:34:26: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:37:44: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 22:37:44: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:37:44: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:44:07: -------- Mapchange to c1a0d --------
+L 09/27/2024 - 22:44:07: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:44:07: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:44:58: -------- Mapchange to c1a0a --------
+L 09/27/2024 - 22:44:58: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:44:58: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:45:48: -------- Mapchange to c1a0b --------
+L 09/27/2024 - 22:45:48: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:45:48: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 09/27/2024 - 22:50:14: -------- Mapchange to start --------
+L 09/27/2024 - 22:50:14: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 22:50:14: Error:
+L 09/27/2024 - 22:50:14: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 22:50:14: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:50:57: -------- Mapchange to e1m1 --------
+L 09/27/2024 - 22:50:57: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 22:55:58: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 22:55:58: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:00:59: -------- Mapchange to sandbox --------
+L 09/27/2024 - 23:00:59: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:06:01: -------- Mapchange to start --------
+L 09/27/2024 - 23:06:01: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:07:03: -------- Mapchange to base1 --------
+L 09/27/2024 - 23:07:03: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:10:18: -------- Mapchange to start --------
+L 09/27/2024 - 23:10:18: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:10:30: -------- Mapchange to q1_e1m1 --------
+L 09/27/2024 - 23:10:30: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:15:31: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 23:15:31: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:20:33: -------- Mapchange to sandbox --------
+L 09/27/2024 - 23:20:33: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:25:34: -------- Mapchange to start --------
+L 09/27/2024 - 23:25:34: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:30:35: -------- Mapchange to c1a0 --------
+L 09/27/2024 - 23:30:35: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:35:36: -------- Mapchange to sandbox --------
+L 09/27/2024 - 23:35:36: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:40:38: -------- Mapchange to start --------
+L 09/27/2024 - 23:40:38: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:42:37: -------- Mapchange to start --------
+L 09/27/2024 - 23:42:37: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 23:42:37: Error:
+L 09/27/2024 - 23:42:37: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 23:42:37: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:44:46: -------- Mapchange to c1a1 --------
+L 09/27/2024 - 23:44:46: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:45:26: -------- Mapchange to c1a1a --------
+L 09/27/2024 - 23:45:26: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:48:52: -------- Mapchange to c1a1f --------
+L 09/27/2024 - 23:48:52: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:49:59: -------- Mapchange to sandbox --------
+L 09/27/2024 - 23:49:59: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:55:21: -------- Mapchange to start --------
+L 09/27/2024 - 23:55:21: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" (version "1.8.2") reported that it cannot load on game "valve"
+L 09/27/2024 - 23:55:21: Error:
+L 09/27/2024 - 23:55:21: [AMXX] Module "valve/addons/amxmodx/modules/cstrike_amxx_i386.so" cannot load on game "valve"
+L 09/27/2024 - 23:55:21: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 09/27/2024 - 23:55:21: [galileo.amxx] ERROR, getRestartsOnTheCurrentMap: Couldn't open the file to read "addons/amxmodx/data/galileo/lastChangedMapName.dat"
+L 09/27/2024 - 23:55:23: -------- Mapchange to sandbox --------
+L 09/27/2024 - 23:55:23: [AMXX] Plugin "amx_adminpush.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.

@@ -1,0 +1,283 @@
+L 10/05/2024 - 03:11:22: Start of error session.
+L 10/05/2024 - 03:11:22: Info (map "c1a0") (file "addons/amxmodx/logs/error_20241005.log")
+L 10/05/2024 - 03:11:22: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:22: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:22: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:22: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:22: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:22: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:49: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:49: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:49: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:49: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:49: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:49: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:52: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:52: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:52: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:52: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:53: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:53: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:54: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:54: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:54: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:54: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:11:57: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:11:57: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:11:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:12:58: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:12:58: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:12:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:12:58: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:12:58: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:12:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:12:58: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:12:58: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:12:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:12:58: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:12:58: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:12:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:13:01: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:13:01: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:13:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:15:17: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:15:17: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:15:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:15:17: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:15:17: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:15:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:15:20: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:15:20: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:15:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:26: Start of error session.
+L 10/05/2024 - 03:18:26: Info (map "c1a0") (file "addons/amxmodx/logs/error_20241005.log")
+L 10/05/2024 - 03:18:26: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:26: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:31: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:31: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:34: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:34: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:34: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:34: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:34: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:34: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:37: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:37: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:38: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:38: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:39: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:39: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:39: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:39: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:42: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:42: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:45: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:45: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:45: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:45: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:45: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:45: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:47: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:47: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:47: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:47: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:48: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:48: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:50: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:50: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:52: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:52: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:53: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:53: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:53: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:53: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:18:56: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:18:56: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:18:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:09: Start of error session.
+L 10/05/2024 - 03:22:09: Info (map "c1a1") (file "addons/amxmodx/logs/error_20241005.log")
+L 10/05/2024 - 03:22:09: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:09: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:14: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:14: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:14: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:14: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:15: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:15: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:15: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:15: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:18: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:18: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:18: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:18: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:18: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:18: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:18: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:18: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:21: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:21: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:28: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:28: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:29: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:29: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:29: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:29: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:29: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:29: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:22:32: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:22:32: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:22:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:34: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:34: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:35: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:35: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:35: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:35: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:38: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:38: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:54: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:54: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:54: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:54: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:54: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:54: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:23:57: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:23:57: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:23:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:25:33: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:25:33: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:25:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:25:33: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:25:33: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:25:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:25:33: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:25:33: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:25:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:25:36: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:25:36: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:25:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:25:58: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:25:58: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:25:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:25:59: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:25:59: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:25:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:25:59: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:25:59: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:25:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:02: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:02: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:13: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:13: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:14: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:14: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:14: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:14: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:17: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:17: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:18: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:18: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:19: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:19: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 03:26:19: Plugin called message_begin with an invalid message id (0).
+L 10/05/2024 - 03:26:19: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "message_begin") - debug not enabled!
+L 10/05/2024 - 03:26:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:07:25: Start of error session.
+L 10/05/2024 - 22:07:25: Info (map "sandbox") (file "addons/amxmodx/logs/error_20241005.log")
+L 10/05/2024 - 22:07:25: [FUN] Invalid player 1
+L 10/05/2024 - 22:07:25: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 10/05/2024 - 22:07:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:29:14: Start of error session.
+L 10/05/2024 - 22:29:14: Info (map "sandbox") (file "addons/amxmodx/logs/error_20241005.log")
+L 10/05/2024 - 22:29:14: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:29:14: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:29:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:29:21: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:29:21: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:29:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:29:22: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:29:22: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:29:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:29:26: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:29:26: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:29:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:29:27: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:29:27: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:29:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:29:39: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:29:39: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:29:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:29:47: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:29:47: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:29:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:30:06: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:30:06: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:30:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:30:09: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:30:09: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:30:15: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:30:15: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:30:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/05/2024 - 22:30:39: [FUN] Item "weapon_9mmar" failed to create
+L 10/05/2024 - 22:30:39: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "give_item") - debug not enabled!
+L 10/05/2024 - 22:30:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

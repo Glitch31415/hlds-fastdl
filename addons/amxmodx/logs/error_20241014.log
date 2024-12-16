@@ -1,0 +1,10 @@
+L 10/14/2024 - 01:55:41: Start of error session.
+L 10/14/2024 - 01:55:41: Info (map "sandbox") (file "addons/amxmodx/logs/error_20241014.log")
+L 10/14/2024 - 01:55:41: [FUN] Invalid player 4
+L 10/14/2024 - 01:55:41: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 10/14/2024 - 01:55:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2024 - 21:24:55: Start of error session.
+L 10/14/2024 - 21:24:55: Info (map "crossfireXL") (file "addons/amxmodx/logs/error_20241014.log")
+L 10/14/2024 - 21:24:55: [FUN] Invalid player 1
+L 10/14/2024 - 21:24:55: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 10/14/2024 - 21:24:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

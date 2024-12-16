@@ -158,12 +158,12 @@ LinkVisibleNodes - Initial Connections
 ----------------------------------------------------------------------------
 Node #   0:
 
-   1  Entity on connection: func_door, name: lk1  Model: *5
+   1
    2
 ----------------------------------------------------------------------------
 Node #   1:
 
-   0  Entity on connection: func_door, name: lk1  Model: *5
+   0
    2
    5
 ----------------------------------------------------------------------------
@@ -222,9 +222,7 @@ Node #   9:
 
    3
   10
-  11
   12
-  13
   14
 ----------------------------------------------------------------------------
 Node #  10:
@@ -237,10 +235,8 @@ Node #  10:
 Node #  11:
 
    8
-   9
   12
   13
-  14
 ----------------------------------------------------------------------------
 Node #  12:
 
@@ -254,10 +250,8 @@ Node #  12:
 Node #  13:
 
    8
-   9
   11
   12
-  14
   15
 ----------------------------------------------------------------------------
 Node #  14:
@@ -265,9 +259,7 @@ Node #  14:
    3
    9
   10
-  11
   12
-  13
 ----------------------------------------------------------------------------
 Node #  15:
 
@@ -334,7 +326,7 @@ Node #  24:
   22
 ----------------------------------------------------------------------------
 
- 102 Total Initial Connections -    6 Maximum connections for a single node.
+  94 Total Initial Connections -    6 Maximum connections for a single node.
 ----------------------------------------------------------------------------
 
 
@@ -346,16 +338,16 @@ Node    0:
 -------------------------------------------------------------------------------
 Node    1:
 
-   4 NODE_SMALL_HULL step 128
+NODE_SMALL_HULL step 0.000000
 Rejected Node   5 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node    2:
 
-   9 NODE_LARGE_HULL step 112
+NODE_LARGE_HULL step 0.000000
 -------------------------------------------------------------------------------
 Node    3:
 
-  12 NODE_SMALL_HULL step 80
+NODE_SMALL_HULL step 0.000000
 Rejected Node  12 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node    4:
@@ -363,23 +355,23 @@ Node    4:
 -------------------------------------------------------------------------------
 Node    5:
 
-  18 NODE_SMALL_HULL step 112
+NODE_SMALL_HULL step 0.000000
 Rejected Node   1 - Unreachable by Any Hull
-  21 NODE_SMALL_HULL step 336
+NODE_SMALL_HULL step 0.000000
 Rejected Node   6 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node    6:
 
-  24 NODE_SMALL_HULL step 160
+NODE_SMALL_HULL step 0.000000
 Rejected Node   5 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node    7:
 
-  27 NODE_LARGE_HULL step 448
+NODE_LARGE_HULL step 0.000000
 -------------------------------------------------------------------------------
 Node    8:
 
-  32 NODE_SMALL_HULL step 208
+NODE_SMALL_HULL step 0.000000
 Rejected Node  11 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node    9:
@@ -387,18 +379,18 @@ Node    9:
 -------------------------------------------------------------------------------
 Node   10:
 
-  43 NODE_SMALL_HULL step 80
+NODE_SMALL_HULL step 0.000000
 Rejected Node  12 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node   11:
 
-  45 NODE_SMALL_HULL step 48
+NODE_SMALL_HULL step 0.000000
 Rejected Node   8 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node   12:
 
-  50 NODE_HUMAN_HULL step 192
-  52 NODE_SMALL_HULL step 176
+NODE_HUMAN_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
 Rejected Node  10 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node   13:
@@ -415,26 +407,30 @@ Node   16:
 -------------------------------------------------------------------------------
 Node   17:
 
-  74 NODE_LARGE_HULL step 16
-  75 NODE_LARGE_HULL step 16
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
 -------------------------------------------------------------------------------
 Node   18:
 
-  76 NODE_LARGE_HULL step 16
-  78 NODE_SMALL_HULL step 96
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  20 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node   19:
 
-  80 NODE_LARGE_HULL step 512
-  83 NODE_SMALL_HULL step 96
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  21 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node   20:
 
-  86 NODE_SMALL_HULL step 64
+NODE_SMALL_HULL step 0.000000
+Rejected Node  18 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node   21:
 
-  92 NODE_SMALL_HULL step 64
+NODE_SMALL_HULL step 0.000000
+Rejected Node  19 - Unreachable by Any Hull
 -------------------------------------------------------------------------------
 Node   22:
 
@@ -480,28 +476,24 @@ REJECTED NODE  15 through Node  13, Dot = 0.999525
 
 Node   9:
 REJECTED NODE  12 through Node  14, Dot = 1.000000
-REJECTED NODE  13 through Node  11, Dot = 0.999934
 ----------------------------------------------------------------------------
 
 Node  10:
 ----------------------------------------------------------------------------
 
 Node  11:
-REJECTED NODE   9 through Node  14, Dot = 0.999836
 ----------------------------------------------------------------------------
 
 Node  12:
 REJECTED NODE   9 through Node  14, Dot = 1.000000
-REJECTED NODE  13 through Node  11, Dot = 0.998733
+REJECTED NODE  13 through Node  11, Dot = 1.000000
 ----------------------------------------------------------------------------
 
 Node  13:
-REJECTED NODE   9 through Node  11, Dot = 0.998053
-REJECTED NODE  14 through Node  12, Dot = 0.999007
+REJECTED NODE  12 through Node  11, Dot = 1.000000
 ----------------------------------------------------------------------------
 
 Node  14:
-REJECTED NODE  13 through Node  11, Dot = 0.999852
 ----------------------------------------------------------------------------
 
 Node  15:
@@ -543,14 +535,12 @@ REJECTED NODE  22 through Node  20, Dot = 0.999379
 
 -------------------------------------------------------------------------------
 Link Pairings:
-WARNING: Node  13 does not connect back to Node   6
-WARNING: Node  14 does not connect back to Node  11
-WARNING: Node  12 does not connect back to Node  14
+WARNING: Node  12 does not connect back to Node  13
 -------------------------------------------------------------------------------
 
 
 -------------------------------------------------------------------------------
-Total Number of Connections in Pool: 79
+Total Number of Connections in Pool: 71
 -------------------------------------------------------------------------------
-Connection Pool: 2212 bytes
+Connection Pool: 1704 bytes
 -------------------------------------------------------------------------------

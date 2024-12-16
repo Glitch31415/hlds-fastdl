@@ -1,0 +1,593 @@
+{
+"classname" "worldspawn"
+"defaultteam" "0"
+"newunit" "0"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "2147483648"
+"sounds" "1"
+"message" "flat"
+"skyname" "sky_blu_"
+"mapversion" "220"
+"wad" "/home/glitch/.steam/debian-installation/steamapps/common/Half-Life/valve/halflife.wad;/home/glitch/.steam/debian-installation/steamapps/common/Half-Life/valve/liquids.wad;/home/glitch/.steam/debian-installation/steamapps/common/Half-Life/valve/xeno.wad;/home/glitch/.steam/debian-installation/steamapps/common/Half-Life/valve/decals.wad"
+"_generator" "J.A.C.K. 1.1.3773 Freeware (vpHalfLife)"
+{
+( -30400 -30400 0 ) ( -30400 -30400 -32 ) ( -30400 30400 0 ) !RADIO [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 475 475
+( 30400 30400 0 ) ( 30400 30400 -32 ) ( 30400 -30400 0 ) !RADIO [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 475 475
+( -30400 30400 0 ) ( -30400 30400 -32 ) ( 30400 30400 0 ) !RADIO [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 475 475
+( 30400 -30400 0 ) ( 30400 -30400 -32 ) ( -30400 -30400 0 ) !RADIO [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 475 475
+( -30400 30400 -32 ) ( -30400 -30400 -32 ) ( 30400 30400 -32 ) !RADIO [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 475 475
+( 30400 -30400 0 ) ( -30400 -30400 0 ) ( 30400 30400 0 ) !RADIO [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 950 950
+}
+{
+( -3300 -4096 4096 ) ( -3300 -4096 -128 ) ( -3300 4096 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 4096 4096 ) ( -3200 4096 -128 ) ( -3200 -4096 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( -3300 4096 -128 ) ( -3200 4096 -128 ) ( -3300 4096 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3300 -4096 4096 ) ( -3200 -4096 4096 ) ( -3300 -4096 -128 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3300 -4096 4096 ) ( -3300 4096 4096 ) ( -3200 -4096 4096 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+( -3300 4096 -128 ) ( -3300 -4096 -128 ) ( -3200 4096 -128 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+}
+{
+( 3300 4096 4096 ) ( 3300 4096 -128 ) ( 3300 -4096 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( 3200 -4096 4096 ) ( 3200 -4096 -128 ) ( 3200 4096 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( 3300 -4096 -128 ) ( 3200 -4096 -128 ) ( 3300 -4096 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 3300 4096 4096 ) ( 3200 4096 4096 ) ( 3300 4096 -128 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 3300 4096 -128 ) ( 3200 4096 -128 ) ( 3300 -4096 -128 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+( 3300 -4096 4096 ) ( 3200 -4096 4096 ) ( 3300 4096 4096 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+}
+{
+( 3200 4096 -128 ) ( 3200 3971.88 -128 ) ( 3200 4096 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 4096 4096 ) ( -3200 3971.88 4096 ) ( -3200 4096 -128 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 4096 4096 ) ( -3200 4096 -128 ) ( 3200 4096 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 3200 3971.88 4096 ) ( 3200 3971.88 -128 ) ( -3200 3971.88 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 3971.88 4096 ) ( -3200 4096 4096 ) ( 3200 3971.88 4096 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+( -3200 4096 -128 ) ( -3200 3971.88 -128 ) ( 3200 4096 -128 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+}
+{
+( -3200 -4096 -128 ) ( -3200 -3971.88 -128 ) ( -3200 -4096 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( 3200 -4096 4096 ) ( 3200 -3971.88 4096 ) ( 3200 -4096 -128 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( 3200 -4096 4096 ) ( 3200 -4096 -128 ) ( -3200 -4096 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 -3971.88 4096 ) ( -3200 -3971.88 -128 ) ( 3200 -3971.88 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 -3971.88 -128 ) ( -3200 -4096 -128 ) ( 3200 -3971.88 -128 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+( -3200 -4096 4096 ) ( -3200 -3971.88 4096 ) ( 3200 -4096 4096 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+}
+{
+( 3200 3971.88 4096 ) ( 3200 3971.88 4032 ) ( 3200 -3971.88 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 -3971.88 4096 ) ( -3200 -3971.88 4032 ) ( -3200 3971.88 4096 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( 3200 -3971.88 4096 ) ( 3200 -3971.88 4032 ) ( -3200 -3971.88 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 3971.88 4096 ) ( -3200 3971.88 4032 ) ( 3200 3971.88 4096 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 -3971.88 4096 ) ( -3200 3971.88 4096 ) ( 3200 -3971.88 4096 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+( -3200 3971.88 4032 ) ( -3200 -3971.88 4032 ) ( 3200 3971.88 4032 ) SKY [ -1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+}
+{
+( -3200 -3971.88 -64 ) ( -3200 -3971.88 -128 ) ( -3200 3971.88 -64 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( 3200 3971.88 -64 ) ( 3200 3971.88 -128 ) ( 3200 -3971.88 -64 ) SKY [ 0 1 0 4 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 3971.88 -64 ) ( -3200 3971.88 -128 ) ( 3200 3971.88 -64 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( 3200 -3971.88 -64 ) ( 3200 -3971.88 -128 ) ( -3200 -3971.88 -64 ) SKY [ 1 0 0 0 ] [ 0 0 -1 -12 ] 0 1 1
+( -3200 3971.88 -128 ) ( -3200 -3971.88 -128 ) ( 3200 3971.88 -128 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+( -3200 -3971.88 -64 ) ( -3200 3971.88 -64 ) ( 3200 -3971.88 -64 ) SKY [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
+}
+}
+{
+"classname" "weapon_tripmine"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "772 -3872 0"
+}
+{
+"classname" "weapon_snark"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "740 -3872 0"
+}
+{
+"classname" "weapon_shotgun"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "692 -3872 0"
+}
+{
+"classname" "weapon_satchel"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "639 -3872 0"
+}
+{
+"classname" "weapon_handgrenade"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "436 -3872 0"
+}
+{
+"classname" "weapon_rpg"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "550 -3872 9.53674e-07"
+}
+{
+"classname" "weapon_hornetgun"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "470 -3872 0"
+}
+{
+"classname" "weapon_gauss"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "375 -3872 0"
+}
+{
+"classname" "weapon_egon"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "301 -3872 -1.90735e-06"
+}
+{
+"classname" "weapon_crowbar"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "248 -3876 0"
+}
+{
+"classname" "weapon_9mmAR"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "102 -3872 0"
+}
+{
+"classname" "weapon_9mmhandgun"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "137 -3878 0"
+}
+{
+"classname" "weapon_crossbow"
+"sequence" "0"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "176 -3872 0"
+}
+{
+"classname" "weapon_357"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "68 -3870 0"
+}
+{
+"classname" "item_battery"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "-64 -3872 0"
+}
+{
+"classname" "item_antidote"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "-32 -3872 0"
+}
+{
+"classname" "item_airtank"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "1.90735e-06 -3872 9.53674e-07"
+}
+{
+"classname" "item_healthkit"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "-96 -3872 -4.76837e-07"
+}
+{
+"classname" "item_security"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "-160 -3872 0"
+}
+{
+"classname" "item_longjump"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "-128 -3872 0"
+}
+{
+"classname" "item_suit"
+"delay" "0"
+"angles" "0 0 0"
+"spawnflags" "0"
+"origin" "-192 -3872 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_hgrunt_dead"
+"origin" "-3136 -384 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_gman"
+"origin" "0 -3744 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_scientist"
+"origin" "64 -3808 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_cockroach"
+"origin" "64 -3744 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_barney"
+"origin" "-64 -3808 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_flyer_flock"
+"origin" "-64 -3744 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "2"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_apache"
+"origin" "-2560 -512 512"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_scientist_dead"
+"origin" "-3136 256 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_miniturret"
+"origin" "-3136 192 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_turret"
+"origin" "-3136 128 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_grunt_repel"
+"origin" "-3136 64 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_human_grunt"
+"origin" "-3136 0 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_human_assassin"
+"origin" "-3136 -64 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_tripmine"
+"origin" "-3136 -128 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_barney_dead"
+"origin" "-3136 -192 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_handgrenade"
+"origin" "-3136 -256 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_satchelcharge"
+"origin" "-3136 -448 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_tripmine"
+"origin" "-3136 320 0"
+}
+{
+"classname" "monster_barney"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-64 -3808 0"
+}
+{
+"classname" "monster_scientist"
+"sequence" "13"
+"body" "-1"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "64 -3808 0"
+}
+{
+"classname" "monster_gman"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "0 -3744 0"
+}
+{
+"classname" "monster_flyer_flock"
+"flFlockRadius" "128"
+"iFlockSize" "8"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-64 -3744 0"
+}
+{
+"classname" "monster_cockroach"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "64 -3744 0"
+}
+{
+"classname" "monster_apache"
+"spawnflags" "0"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-2560 -512 512"
+}
+{
+"classname" "monster_satchelcharge"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "-3136 -448 0"
+}
+{
+"classname" "monster_hgrunt_dead"
+"sequence" "44"
+"body" "0"
+"pose" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 -384 0"
+}
+{
+"classname" "monster_handgrenade"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"delay" "0"
+"angles" "0 0 0"
+"origin" "-3136 -256 0"
+}
+{
+"classname" "monster_barney_dead"
+"pose" "0"
+"sequence" "35"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 -192 0"
+}
+{
+"classname" "monster_tripmine"
+"spawnflags" "0"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 -128 0"
+}
+{
+"classname" "monster_human_assassin"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 -64 0"
+}
+{
+"classname" "monster_human_grunt"
+"sequence" "11"
+"weapons" "1"
+"spawnflags" "0"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 0 0"
+}
+{
+"classname" "monster_grunt_repel"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 64 0"
+}
+{
+"classname" "monster_turret"
+"orientation" "0"
+"spawnflags" "0"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 128 0"
+}
+{
+"classname" "monster_miniturret"
+"orientation" "0"
+"spawnflags" "0"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 192 0"
+}
+{
+"classname" "monster_scientist_dead"
+"sequence" "37"
+"pose" "0"
+"body" "-1"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "-3136 256 0"
+}
+{
+"classname" "monstermaker"
+"spawnflags" "1"
+"m_imaxlivechildren" "100"
+"delay" "1"
+"monstercount" "-1"
+"angles" "0 0 0"
+"monstertype" "monster_rat"
+"origin" "0 -3808 0"
+}
+{
+"classname" "monster_rat"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"origin" "0 -3808 0"
+}
+{
+"classname" "info_player_start"
+"angles" "0 90 0"
+"origin" "5.06385 -3936 32"
+}
+{
+"classname" "info_player_start"
+"angles" "0 90 0"
+"origin" "64 -3936 32"
+}
+{
+"classname" "info_player_start"
+"angles" "0 90 0"
+"origin" "128 -3936 32"
+}
+{
+"classname" "info_player_start"
+"angles" "0 90 0"
+"origin" "-64 -3936 32"
+}
+{
+"classname" "info_player_start"
+"angles" "0 90 0"
+"origin" "192 -3936 32"
+}

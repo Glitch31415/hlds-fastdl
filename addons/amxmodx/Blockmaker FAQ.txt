@@ -1,0 +1,36 @@
+////////////////////////////////
+//                                                  //
+//  Blockmaker FAQ by: Stewie!   //
+//                                                 //
+///////////////////////////////
+
+1)  When i type "/bm" in chat, the menu dosent come up?
+    Go to C:/Program Files/Steam/Steam apps/[ACCOUNT NAME]/dedicated server/cstrike/addons/amxmodx/plugins/
+    See if "Blockmaker_v3.60.amxx" is in there. If it is not, download it, and put it in this folder.
+
+
+2)  When i type "/bm" in chat, the menu comes up, but most of the options are greyed out?
+    Go to C:/Program Files/Steam/Steam apps/[ACCOUNT NAME]/dedicated server/cstrike/addons/amxmodx/configs/users.ini
+    Scroll to the bottom and type in ["STEAM_ID" "" "abcdefghijklmnopqrstu" "ce"] 
+    NOTE: Do not include the [ or ] but DO include the "
+    NOTE: Replace "STEAM_ID" with your personal Steam id. To find this, go to any CS 1.6 server and type "status" in your
+          user console. This will give you all the SteamID's of all the players in the server. It should look something 
+          like this: steam_0:0:0000
+
+
+3)  When i type amx_plugins in the console, i see "unknown unknown unknown"?
+    Go to C:/Program Files/Steam/Steam apps/[ACCOUNT NAME]/dedicated server/cstrike/addons/amxmodx/plugins/
+    Download "blockmaker_v3.60.amxx", and put it in this folder.
+
+
+4)  When i type amx_plugins in the console, There is nothing about blockmaker?
+    Download "blockmaker_v3.60.amxx", and put it in C:/Program Files/Steam/Steam apps/[ACCOUNT NAME]/dedicated server/cstrike/addons/amxmodx/plugins/
+
+
+5)  I need more blocks on my server, is this possible?
+    If you have lots of coding knowledge about amxx, then maybe, however it would be easier if you posted your ideas on the forum. If necro sees 
+    your idea and likes it, he might add it to the next version.
+    NOTE: Please dont presure people into coding for you, ASK them nicely and theres a much higher chance they'll do it for you.
+
+
+If you have any more questions email me at minimiller-cshelp@hotmail.co.uk Ill find the answers, and include them in this file.

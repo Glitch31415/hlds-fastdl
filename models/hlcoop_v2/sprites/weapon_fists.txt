@@ -1,0 +1,9 @@
+10
+weapon			320 320hud1	0	0	80	20
+weapon_s		320 320hud1	0	20	80	20
+weapon_sil			320 320hud1	0	0	80	20
+weapon_sil_s		320 320hud1	0	20	80	20
+weapon			640 640hud12	0	45	170	45
+weapon_s		640 640hud13	0	45	170	45
+weapon_sil		640 640hud12	0	45	170	45
+weapon_sil_s		640 640hud13	0	45	170	45

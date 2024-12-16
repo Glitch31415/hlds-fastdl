@@ -1,0 +1,5 @@
+L 10/28/2024 - 13:14:26: Start of error session.
+L 10/28/2024 - 13:14:26: Info (map "sandbox") (file "addons/amxmodx/logs/error_20241028.log")
+L 10/28/2024 - 13:14:26: [FUN] Invalid player 1
+L 10/28/2024 - 13:14:26: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 10/28/2024 - 13:14:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

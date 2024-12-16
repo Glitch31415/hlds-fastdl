@@ -1,0 +1,10 @@
+L 11/29/2024 - 03:31:37: Start of error session.
+L 11/29/2024 - 03:31:37: Info (map "coolrig") (file "addons/amxmodx/logs/error_20241129.log")
+L 11/29/2024 - 03:31:37: [FUN] Invalid player 5
+L 11/29/2024 - 03:31:37: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 11/29/2024 - 03:31:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/29/2024 - 03:54:44: Start of error session.
+L 11/29/2024 - 03:54:44: Info (map "coolrig") (file "addons/amxmodx/logs/error_20241129.log")
+L 11/29/2024 - 03:54:44: [FUN] Invalid player 5
+L 11/29/2024 - 03:54:44: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 11/29/2024 - 03:54:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

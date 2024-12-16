@@ -142,3 +142,123 @@ L 29/09/2024 - 03:46:58: (map "stadium4") TEX_InitFromWad: couldn't open stadium
 
 L 29/09/2024 - 03:48:49: (map "stadium4") CalcSurfaceExtents: Bad surface extents 32 on sc_wall01 at (1324 -768 288)
 L 29/09/2024 - 03:49:17: (map "stadium4") CalcSurfaceExtents: Bad surface extents 32 on sc_wall01 at (1324 -768 288)
+L 29/09/2024 - 04:09:19: (map "sc_commandandconquer") CalcSurfaceExtents: Bad surface extents 33 on cnc_sand2 at (10420 8301 -1798)
+L 29/09/2024 - 21:40:50: (map "d1_trainstation_01") SZ_GetSpace: tried to write to an uninitialized sizebuf_t: ???
+L 01/10/2024 - 15:15:35: (map "crossfireXL") ED_Alloc_internal: no free edicts
+L 01/10/2024 - 15:16:31: (map "crossfireXL") ED_Alloc_internal: no free edicts
+L 01/10/2024 - 16:44:53: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:45:03: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:45:13: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:45:23: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:45:34: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:45:44: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:45:54: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:46:04: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:46:14: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:46:24: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:46:34: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:46:44: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:46:54: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:47:05: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:47:15: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:47:25: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:47:35: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:47:45: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:47:55: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:48:05: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:48:15: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:48:25: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:48:36: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:48:46: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:48:53: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:49:03: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:49:13: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:49:23: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 16:49:33: (map "sandbox") Mod_LoadModel: models/blockmaker/bm_block_platform.mdl not found
+L 01/10/2024 - 17:02:25: (map "sandbox") Mod_LoadModel: models/bhopbox.mdl not found
+L 01/10/2024 - 17:02:35: (map "sandbox") Mod_LoadModel: models/bhopbox.mdl not found
+L 01/10/2024 - 17:02:45: (map "sandbox") Mod_LoadModel: models/bhopbox.mdl not found
+L 01/10/2024 - 17:02:55: (map "sandbox") Mod_LoadModel: models/bhopbox.mdl not found
+L 01/10/2024 - 17:03:05: (map "sandbox") Mod_LoadModel: models/pac_cube.mdl not found
+L 01/10/2024 - 22:12:51: (map "sandbox") Mod_LoadModel: models/swooper.mdl not found
+L 01/10/2024 - 22:13:01: (map "sandbox") Mod_LoadModel: models/swooper.mdl not found
+L 01/10/2024 - 22:13:11: (map "sandbox") Mod_LoadModel: models/swooper.mdl not found
+L 01/10/2024 - 22:14:32: (map "sandbox") Mod_LoadModel: models/swooper.mdl not found
+L 01/10/2024 - 22:14:43: (map "sandbox") Mod_LoadModel: models/swooper.mdl not found
+L 01/10/2024 - 22:14:53: (map "sandbox") Mod_LoadModel: models/swooper.mdl not found
+L 02/10/2024 - 02:12:40: (map "sandbox") Mod_LoadModel: models/player/pietrekcar/pietrekcar.mdl not found
+L 02/10/2024 - 02:12:50: (map "sandbox") Mod_LoadModel: models/player/pietrekcar/pietrekcar.mdl not found
+L 02/10/2024 - 02:13:00: (map "sandbox") Mod_LoadModel: models/player/pietrekcar/pietrekcar.mdl not found
+L 02/10/2024 - 02:13:10: (map "sandbox") Mod_LoadModel: models/player/pietrekcar/pietrekcar.mdl not found
+L 02/10/2024 - 02:13:20: (map "sandbox") Mod_LoadModel: models/player/pietrekcar/pietrekcar.mdl not found
+L 02/10/2024 - 02:13:30: (map "sandbox") Mod_LoadModel: models/player/pietrekcar/pietrekcar.mdl not found
+L 02/10/2024 - 02:13:40: (map "sandbox") Mod_LoadModel: models/player/pietrekcar/pietrekcar.mdl not found
+L 02/10/2024 - 16:53:10: (map "d1_trainstation_02") CreateNamedEntity: Spawned a NULL entity!
+L 03/10/2024 - 15:42:20: (map "d1_town_01") ED_Alloc_internal: no free edicts
+L 03/10/2024 - 18:06:16: (map "d1_town_01") SZ_GetSpace: tried to write to an uninitialized sizebuf_t: ???
+L 04/10/2024 - 02:28:04: (map "d1_town_01") PF_MessageEnd_I: User Msg 'ScreenFade': 11 bytes written, expected 10
+
+L 04/10/2024 - 20:12:30: (map "d1_town_03") ED_Alloc_internal: no free edicts
+L 04/10/2024 - 20:16:22: (map "sc_test") ED_Alloc_internal: no free edicts
+L 10/10/2024 - 14:48:02: (map "hl_c01_a1") Host_Error: PF_precache_model_I_internal: Model 'sprites/hlcoop/muzzle_shock.spr' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 15/10/2024 - 02:37:50: (map "tf_original") Host_Error: PF_precache_model_I_internal: Model 'models/hlcoop_v2/v_rpg.mdl' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 21/10/2024 - 15:48:28: (map "stadium4") CalcSurfaceExtents: Bad surface extents 32 on sc_wall01 at (1324 -768 288)
+L 22/10/2024 - 00:26:38: (map "hl_c01_a1") Host_Error: PF_precache_model_I_internal: Model 'sprites/hlcoop/muzzle_shock.spr' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/10/2024 - 02:25:59: (map "c1a4i") SZ_GetSpace: tried to write to an uninitialized sizebuf_t: ???
+L 26/10/2024 - 13:06:15: (map "hl_c01_a1") Host_Error: PF_precache_model_I_internal: Model 'sprites/hlcoop/muzzle_shock.spr' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 29/11/2024 - 03:49:09: (map "coolrig") CreateNamedEntity: Spawned a NULL entity!
+L 29/11/2024 - 03:50:28: (map "coolrig") CreateNamedEntity: Spawned a NULL entity!
+L 05/12/2024 - 11:07:13: (map "e1m1") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_wade3.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 05/12/2024 - 11:07:36: (map "e1m1") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_wade3.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 05/12/2024 - 11:07:59: (map "e1m1") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_wade3.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 05/12/2024 - 15:33:45: (map "infested") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_tile3.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 05/12/2024 - 15:34:17: (map "infested") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_tile3.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 05/12/2024 - 15:34:39: (map "e1m1") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_wade3.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 05/12/2024 - 15:35:02: (map "e1m1") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_wade3.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 05/12/2024 - 15:43:24: (map "infested") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_swim4.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 10/12/2024 - 18:53:59: (map "sc_subsurface") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_swim4.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 10/12/2024 - 19:04:08: (map "sc_subsurface") Host_Error: PF_precache_sound_I_internal: Sound 'player/pl_swim4.wav' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 15/12/2024 - 03:39:30: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/./valve_hd/../rcbot/dlls/rcbot.so!
+
+L 15/12/2024 - 03:39:40: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/./valve_hd/../rcbot/dlls/rcbot.so!
+
+L 15/12/2024 - 03:39:50: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/./valve_hd/../rcbot/dlls/rcbot.so!
+
+L 15/12/2024 - 03:40:00: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/./valve_hd/../rcbot/dlls/rcbot.so!
+
+L 15/12/2024 - 03:40:11: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/./valve_hd/../rcbot/dlls/rcbot.so!
+
+L 15/12/2024 - 03:40:13: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so!
+
+L 15/12/2024 - 03:40:24: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so!
+
+L 15/12/2024 - 03:40:34: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so!
+

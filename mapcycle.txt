@@ -1,6 +1,15 @@
-e1m1
 c1a0
+d1_trainstation_02
+d1_town_01
+e1m1
 sandbox
-sc_persia
 sc_test
 crossfireXL
+boot_camp
+d1_town_03
+d1_town_04
+stalkyard
+hldm_2fort
+dead-dust2
+lambda_bunker_extended
+coolrig

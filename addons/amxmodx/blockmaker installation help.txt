@@ -1,0 +1,112 @@
+This guide will help you to run Necro's blockmaker plugin on a dedicated server.
+
+PLEASE NOTE: THIS GUIDE WAS MADE USING A WIN32 OPERATING SYSTEM.
+
+
+1.  Firstly, u need to have the "dedicated server" installed on steam.
+2.  To do this, Open steam and click on the "tools" tab.
+3.  Double click on "Half life dedicated server".
+4.  This should bring up a new window about installing the half life dedicated server.
+5.  Follow the instructions to install the dedicated server onto your computer.
+6.  Now follow the link below and save it to your desktop (This is for AMXmodX)
+
+    http://www.amxmodx.org/dl.php?filename=amxmodx-installer-1.8.0.exe
+
+7.  Now go to the link below and save it to your desktop aswell. (This is all the files u need to make blockmaker work)
+
+    http://forums.alliedmods.net/showthread.php?t=62967
+    NOTE: You do not have to save these files to your desktop, but it will be easier to locate if they are in the same directory.
+
+8. There should now be 2 new icons on your desktop, on should be named "amxmodx-installer-1.8.0.exe"
+9. Double click on this icon, and a window should appear. Click "Run" then keep following the steps until you are told to click "Finish"
+10. The amxmodX installer should run now. Keep following the steps until you come to a window asking you to "Choose install method"
+11. If you are running on a dedicated server, you should choose the "dedicated server" option.
+    NOTE: Do not choose any other options, unless you know what you are doing. They are for more advanced users.
+
+12. Click next, and the installer will ask where you want to install amxmodx. Choose the directory you want to install to from the list.
+    NOTE: If your dedicated server is not on the list, go "Back" and choose "Select Mod Directory"
+    NOTE: "C:/Program Files/Steam/Steam Apps/[ACCOUNT NAME]/dedicated server/cstrike" is the default directory for where u want to install.
+    NOTE: Choose the "counter strike" addon from the drop down menu, otherwise your plugis will not work.
+
+13. When it has extracted all the files to the directory, the installer will end. Click Finish.
+14. It is advised to get a Hide N Seek mod aswel. Find one here : http://forums.alliedmods.net/attachment.php?attachmentid=23074&d=1201041609
+     NOTE: Download this to your desktop aswell.
+
+15. Ok now cos a slighlty difficult part, because if you put these files in the wrong place, it will all go wrong :(
+16. Right click on the blockmaker.zip, then paste it in : "C:/Program Files/Steam/Steam apps/[ACCOUNT NAME]/dedicated server/cstrike"
+17. Right click on it again, and choose "Extract here"
+18. Then copy the hide-n-seek.zip and paste it in "C:/Program Files/Steam/Steam apps/[ACCOUNT NAME]/dedicated server/"
+19. Right click on this and click "Extract here"
+    NOTE: If you do not have the option to "Extract here" you do not have winzip or winrar. Go to the bottom of this document where it will help u download and install WinRar
+    onto your computer.
+
+CONGRATULATIONS!
+You have successfully installed amxmodx, hide-n-seek, and blockmaker.
+However you cannot build blocks, or start a game of HnS, because you are not an admin.
+
+1. Go back to steam tools, and double click on "half life dedicated server".
+2. This should open another new window allowing you to change your options to make the server your own.
+3. Change everything to the options that suit you best.
+    NOTE: Make sure if u want a private game, select "LAN" Else select "Internet". This will allow any1 to join your server.
+
+4. When u have done this, click "Start server" and the window should close itself.
+5. Following this another new window should open with 6 different tabs: "Main" "Configure" "Statistics" "Players" "Bans" "Console".
+6. Click on the "console" (for future reference this will be called the "master console", and the ingame console will be "User console").
+7. If you know your STEAMiD, type in: "amx_addadmin <STEAMiD>".
+    EXAMPLE: amx_addadmin "STEAM_0:0:0000"
+
+8. If you do not know your STEAMiD, open CS 1.6, and conect to ANY server.
+9. When connected to a server open your user console with "`" (to the left of "1" on a standard keyboard) and type "status".
+10. Now find you name on the list, and highlight your STEAMiD.
+11. Right click on it and select copy.
+12. Go back to the master console, and type "amx_addadmin <STEAMiD>".
+13. Now close the window and go into: C:/Program Files/Steam/Steamapps/[STEAM ACCOUNT NAME]/dedicated server/cstrike/addons/amxmodx/configs/users.ini.
+14. Scroll to the bottom where the last line should say: "STEAMiD" "" "STEAMiD" "de"
+15. Edit this line to say: "STEAMiD" "" "abcdefghijklmnopqrstu" "ce"
+    NOTE: Include the " and, (if it hasn't allready) replace "STEAMiD" with the STEAMiD u got u copied earlier.
+    NOTE: Each letter gives the corresponding admin different accessto different plugins.
+    NOTE: The access flags are explained in "users.ini"
+
+16. When u have edited the file, go back into the master console, and type: "amx_reloadadmins".
+    NOTE: You can also close the window with the master console, go back into "tools" and double click "half life dedicated server".
+    NOTE: It might be easier if you RIGHT CLICK on the "half life dedicated server" and click "Create desktop shortcut" as it will be quicker and easier to start up.
+
+17. If restarting the whole server again, the options you chose earlier, should still be there so just click "start server".
+18. Now open CS 1.6 again, and connect to the server.
+    NOTE: If you do not know the server IP, open Internet Explorer and go to "http://www.whatsmyip.org". The IP of the server
+    will be the IP shown on that website, with the "port" you chose earlier in point 14 on the end (Default is 27015).
+
+    Alternatively you can use the name 'localhost', this represents YOUR computer on your local network.
+
+19. Type /bm in chat and the menu should come up.
+20. Build like there's no tomorow, and have fun.
+
+
+
+ADDITIONAL NOTES:
+/bm will open the blockmaker menu.
+hns_on <1|0> (in console) turns the HideNSeek mod on/off
+For more information about blockmaker, go here : http://forums.alliedmods.net/showthread.php?t=62967
+For more information about HideNSeek, go here : http://forums.alliedmods.net/showthread.php?t=65370
+
+
+
+//WinZip and WinRar Help.
+
+1.  Go to the address below and save the file to your desktop.
+    http://software-files.download.com/sd/SeLqAzLPQBlAe4ElNmImmlHuFiFjWrbxixwZu3gysFqrtcxFNsWk4h6Gf0zwOGPjWyNL343MQab5De4m_ONlJv9CXG-cXJbq/software/10745708/10007677/3/wrar371.exe?lop=link&ptype=3000&ontid=2250&siteId=4&edId=3&spi=72ab2a7e5e39c5a29108f54b65c29f11&pid=10745708&psid=10007677
+
+
+2.  Follow the instructions to install WinRar onto your computer.
+    NOTE: This will now let you extract zipped folders which will be needed to use blockmaker.
+
+
+
+
+//Credits
+Thanks to FatalisDK for the original idea of making blocks in a map.
+Thanks to necro for remaking a free version of Fatalis' plugin.
+Thanks to X-olent for his HnS plugin.
+This guide was made by Stewie!
+Contact me on: minimiller-cshelp@hotmail.co.uk if u have any problems.
+Next version will include how to make your own models (using v_3.60)
