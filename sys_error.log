@@ -262,3 +262,10 @@ L 15/12/2024 - 03:40:24: (map "(null)") Host_Error: Couldn't get DLL API from /h
 
 L 15/12/2024 - 03:40:34: (map "(null)") Host_Error: Couldn't get DLL API from /home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so!
 
+L 16/12/2024 - 14:56:48: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 16/12/2024 - 14:56:58: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 16/12/2024 - 14:57:08: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 16/12/2024 - 14:57:15: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 17/12/2024 - 01:07:54: (map "hl_c01_a1") Host_Error: PF_precache_model_I_internal: Model 'sprites/muzzleflash3.spr' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
