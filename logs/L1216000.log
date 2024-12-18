@@ -1,0 +1,18 @@
+L 12/16/2024 - 15:01:50: Log file started (file "logs/L1216000.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/16/2024 - 15:01:50: b>[META] dev: Set engine code range: start address = 0xf7256000, end address = 0xf730b7c8
+L 12/16/2024 - 15:01:50: [META] dev: called: GiveFnptrsToDll
+L 12/16/2024 - 15:01:50: [META] Metamod v1.20  2013-02-16
+L 12/16/2024 - 15:01:50: [META] by Will Day <willday@metamod.org>
+L 12/16/2024 - 15:01:50: [META]    http://www.metamod.org/
+L 12/16/2024 - 15:01:50: [META] compiled: Feb 16 2013, 17:11:35 +0100 (optimized)
+L 12/16/2024 - 15:01:50: [META] engine: i486
+L 12/16/2024 - 15:02:00: [META] (debug:3) set config int: debuglevel = 0
+L 12/16/2024 - 15:02:00: [META] (debug:3) set config path: plugins_file = /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 12/16/2024 - 15:02:00: [META] (debug:3) set config string: exec_cfg = addons/metamod/exec.cfg
+L 12/16/2024 - 15:02:00: [META] (debug:2) Loading from config file: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/config.ini
+L 12/16/2024 - 15:02:00: [META] (debug:3) set config path: gamedll = dlls/server.so
+L 12/16/2024 - 15:02:00: [META] (debug:3) Failed to install gamedll from cache: file dlls/server.so not found in cache.
+
+L 12/16/2024 - 15:02:00: [META] Overriding game 'valve' with dllfile 'server.so'
+L 12/16/2024 - 15:02:00: [META] ERROR: dll: Couldn't load game DLL dlls/server.so: dlls/server.so: cannot open shared object file: No such file or directory
+L 12/16/2024 - 15:02:00: [META] ERROR: Failure to load game DLL; exiting...

@@ -1,0 +1,194 @@
+L 12/16/2024 - 20:03:09: Log file started (file "logs/L1216030.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/16/2024 - 20:03:09: Loading map "infested"
+L 12/16/2024 - 20:03:09: Server cvar "mp_soundvariety" = "0"
+L 12/16/2024 - 20:03:09: Server cvar "mp_soundvariety" = "1"
+L 12/16/2024 - 20:03:09: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/16/2024 - 20:03:09: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/16/2024 - 20:03:09: Enemy stats: 41k health, 180+ npcs
+L 12/16/2024 - 20:03:09: Started map "infested" (CRC "1856797836")
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 20:03:09: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 20:03:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 20:03:11: Dropped glitch31415 from server
+L 12/16/2024 - 20:03:11: Reason:  Client sent 'drop'
+L 12/16/2024 - 20:03:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 20:03:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 20:03:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 20:03:11: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 20:03:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 20:03:12: "glitch31415<10><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/16/2024 - 20:03:12: \bot3\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 20:03:12: \bot3\BOT\ entered the game as ld_gordon(163,0)
+L 12/16/2024 - 20:03:12: \bot1\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 20:03:12: \bot1\BOT\ entered the game as ld_gordon(247,59)
+L 12/16/2024 - 20:03:12: \bot2\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 20:03:12: \bot2\BOT\ entered the game as ld_gordon(96,78)
+L 12/16/2024 - 20:03:13: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/16/2024 - 20:03:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 20:03:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/16/2024 - 20:03:13: \glitch31415\STEAM_0:0:743386914\ entered the game as scientist(76,76)
+L 12/16/2024 - 20:03:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 20:03:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 20:03:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 20:03:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 20:03:14: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/16/2024 - 20:04:08: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Gun" with "9mmAR"
+L 12/16/2024 - 20:04:39: \glitch31415\STEAM_0:0:743386914\ killed "Security Guard #1" with "gluon gun"
+L 12/16/2024 - 20:04:39: \glitch31415\STEAM_0:0:743386914\ killed "Security Guard #2" with "gluon gun"
+L 12/16/2024 - 20:04:51: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "9mmAR"
+L 12/16/2024 - 20:05:28: \glitch31415\STEAM_0:0:743386914\ killed "Enemy Medic" with "9mmAR"
+L 12/16/2024 - 20:05:34: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:05:37: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:05:41: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:05:51: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "9mmAR"
+L 12/16/2024 - 20:06:05: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:06:05: \glitch31415\STEAM_0:0:743386914\ killed "Heavy Weapons Grunt" with "grenade"
+L 12/16/2024 - 20:06:05: \glitch31415\STEAM_0:0:743386914\ killed "Heavy Weapons Grunt" with "grenade"
+L 12/16/2024 - 20:06:18: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:06:26: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Gun" with "9mmAR"
+L 12/16/2024 - 20:06:58: \glitch31415\STEAM_0:0:743386914\ killed "RPG Grunt" with "rpg_rocket"
+L 12/16/2024 - 20:07:08: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "grenade"
+L 12/16/2024 - 20:07:08: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "grenade"
+L 12/16/2024 - 20:07:09: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "tripmine"
+L 12/16/2024 - 20:07:17: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:07:17: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:07:21: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:07:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:07:33: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:07:33: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:07:59: \glitch31415\STEAM_0:0:743386914\ killed "Security Turret" with "9mmAR"
+L 12/16/2024 - 20:08:06: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:08:06: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:08:43: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:08:57: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:09:20: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:09:28: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "grenade"
+L 12/16/2024 - 20:09:28: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:09:28: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:09:35: \glitch31415\STEAM_0:0:743386914\ killed "Security Guard" with "9mmAR"
+L 12/16/2024 - 20:09:38: \glitch31415\STEAM_0:0:743386914\ killed "Heavy Weapons Grunt" with "9mmAR"
+L 12/16/2024 - 20:09:46: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:09:46: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:09:52: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "grenade"
+L 12/16/2024 - 20:10:08: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:10:14: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:10:14: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:10:14: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:10:22: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:10:22: \glitch31415\STEAM_0:0:743386914\ killed "Heavy Weapons Grunt" with "grenade"
+L 12/16/2024 - 20:10:31: \glitch31415\STEAM_0:0:743386914\ killed "Heavy Weapons Grunt" with "9mmAR"
+L 12/16/2024 - 20:10:49: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 20:11:04: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "shotgun"
+L 12/16/2024 - 20:11:05: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "shotgun"
+L 12/16/2024 - 20:11:14: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "shotgun"
+L 12/16/2024 - 20:11:16: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:11:17: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:11:25: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "shotgun"
+L 12/16/2024 - 20:11:29: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/16/2024 - 20:11:31: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "shotgun"
+L 12/16/2024 - 20:11:33: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:11:36: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:11:44: \glitch31415\STEAM_0:0:743386914\ killed "Voltigore" with "shotgun"
+L 12/16/2024 - 20:12:07: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "9mmAR"
+L 12/16/2024 - 20:12:09: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "9mmAR"
+L 12/16/2024 - 20:12:10: \glitch31415\STEAM_0:0:743386914\ killed "Gonome" with "9mmAR"
+L 12/16/2024 - 20:12:12: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:12:15: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:12:17: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:13:29: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "shotgun"
+L 12/16/2024 - 20:13:35: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "shotgun"
+L 12/16/2024 - 20:13:37: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "shotgun"
+L 12/16/2024 - 20:13:40: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "shotgun"
+L 12/16/2024 - 20:13:46: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/16/2024 - 20:13:47: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:13:50: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "shotgun"
+L 12/16/2024 - 20:13:51: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/16/2024 - 20:13:54: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:14:08: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/16/2024 - 20:14:11: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/16/2024 - 20:14:13: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/16/2024 - 20:14:16: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "9mmAR"
+L 12/16/2024 - 20:14:17: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "9mmAR"
+L 12/16/2024 - 20:14:21: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "grenade"
+L 12/16/2024 - 20:14:21: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "grenade"
+L 12/16/2024 - 20:14:21: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "grenade"
+L 12/16/2024 - 20:14:21: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "grenade"
+L 12/16/2024 - 20:14:27: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "grenade"
+L 12/16/2024 - 20:14:29: \glitch31415\STEAM_0:0:743386914\ killed "Big Momma" with "grenade"
+L 12/16/2024 - 20:14:41: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:14:42: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "shotgun"
+L 12/16/2024 - 20:15:02: \glitch31415\STEAM_0:0:743386914\ killed "Alien Grunt" with "shotgun"
+L 12/16/2024 - 20:15:05: \glitch31415\STEAM_0:0:743386914\ killed "Alien Grunt" with "shotgun"
+L 12/16/2024 - 20:15:09: \glitch31415\STEAM_0:0:743386914\ killed "Alien Grunt" with "shotgun"
+L 12/16/2024 - 20:15:15: \glitch31415\STEAM_0:0:743386914\ killed "Pit Drone" with "shotgun"
+L 12/16/2024 - 20:15:17: \glitch31415\STEAM_0:0:743386914\ killed "Pit Drone" with "shotgun"
+L 12/16/2024 - 20:15:22: \glitch31415\STEAM_0:0:743386914\ killed "Pit Drone" with "shotgun"
+L 12/16/2024 - 20:15:24: \glitch31415\STEAM_0:0:743386914\ killed "Pit Drone" with "shotgun"
+L 12/16/2024 - 20:15:35: \glitch31415\STEAM_0:0:743386914\ killed "Barnacle" with "9mmAR"
+L 12/16/2024 - 20:15:41: \glitch31415\STEAM_0:0:743386914\ killed "Barnacle" with "9mmAR"
+L 12/16/2024 - 20:15:41: \glitch31415\STEAM_0:0:743386914\ killed "Barnacle" with "9mmAR"
+L 12/16/2024 - 20:15:44: \glitch31415\STEAM_0:0:743386914\ killed "Barnacle" with "9mmAR"
+L 12/16/2024 - 20:15:47: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "9mmAR"
+L 12/16/2024 - 20:15:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:15:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:15:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:15:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:15:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:15:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:16:32: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:16:32: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:16:32: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 20:16:34: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 12/16/2024 - 20:16:44: Rcon: "rcon 141011494 "5pgW37D7ad" restart" from "127.0.0.1:27005"
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: \bot3\BOT\ disconnected
+L 12/16/2024 - 20:16:44: Dropped bot3 from server
+L 12/16/2024 - 20:16:44: Reason:  Dropping fakeclient on level change
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: \bot1\BOT\ disconnected
+L 12/16/2024 - 20:16:44: Dropped bot1 from server
+L 12/16/2024 - 20:16:44: Reason:  Dropping fakeclient on level change
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: \bot2\BOT\ disconnected
+L 12/16/2024 - 20:16:44: Dropped bot2 from server
+L 12/16/2024 - 20:16:44: Reason:  Dropping fakeclient on level change
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 12/16/2024 - 20:16:44: \glitch31415\STEAM_0:0:743386914\ 857 points, 1 deaths
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 12/16/2024 - 20:16:44: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 12/16/2024 - 20:16:44: [META] ini: Read plugin config for: AMX Mod X
+L 12/16/2024 - 20:16:44: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 12/16/2024 - 20:16:44: [META] dll: Updating plugins...
+L 12/16/2024 - 20:16:44: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 12/16/2024 - 20:16:44: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/16/2024 - 20:16:44: \glitch31415\STEAM_0:0:743386914\ disconnected with 857 points
+L 12/16/2024 - 20:16:44: Log file closed
+
+-------------------------------------------------------------------------------
+

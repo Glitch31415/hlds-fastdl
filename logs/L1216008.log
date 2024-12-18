@@ -1,0 +1,140 @@
+L 12/16/2024 - 19:10:59: Log file started (file "logs/L1216008.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/16/2024 - 19:10:59: Loading map "hldm_2fort"
+L 12/16/2024 - 19:10:59: Server cvar "mp_soundvariety" = "0"
+L 12/16/2024 - 19:10:59: Server cvar "mp_soundvariety" = "1"
+L 12/16/2024 - 19:10:59: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/16/2024 - 19:10:59: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/16/2024 - 19:10:59: Server cvar "mp_nextmap" = "dead-dust2"
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/16/2024 - 19:10:59: Server cvar "amx_nextmap" = "coolrig"
+L 12/16/2024 - 19:10:59: Enemy stats: 0k health, 0 npcs
+L 12/16/2024 - 19:10:59: Started map "hldm_2fort" (CRC "579208788")
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 19:10:59: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 19:11:01: Dropped glitch31415 from server
+L 12/16/2024 - 19:11:01: Reason:  Client sent 'drop'
+L 12/16/2024 - 19:11:04: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:11:04: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:11:04: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 19:11:04: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 19:11:04: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 19:11:04: "glitch31415<3><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/16/2024 - 19:11:06: \glitch31415\STEAM_0:0:743386914\ entered the game as scientist(76,76)
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:11:06: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:11:06: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/16/2024 - 19:13:27: \glitch31415\STEAM_0:0:743386914\ killed by "worldspawn"
+L 12/16/2024 - 19:14:02: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:14:02: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:14:02: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 19:14:02: \Women-R-TrashLoL\STEAM_0:1:837056284\ connected from address 83.136.182.147:58663
+L 12/16/2024 - 19:14:02: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 19:14:02: "Women-R-TrashLoL<4><STEAM_0:1:837056284><>" STEAM USERID validated
+L 12/16/2024 - 19:14:06: Dropped Women-R-TrashLoL from server
+L 12/16/2024 - 19:14:06: Reason:  Client sent 'drop'
+L 12/16/2024 - 19:14:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:14:28: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:14:28: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 19:14:28: \Women-R-TrashLoL\STEAM_0:1:837056284\ connected from address 83.136.182.147:58663
+L 12/16/2024 - 19:14:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 19:14:28: "Women-R-TrashLoL<5><STEAM_0:1:837056284><>" STEAM USERID validated
+L 12/16/2024 - 19:14:33: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/16/2024 - 19:14:33: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:14:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/16/2024 - 19:14:33: \Women-R-TrashLoL\STEAM_0:1:837056284\ entered the game as Hgrunt(30,6)
+L 12/16/2024 - 19:14:33: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:14:33: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:14:33: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:14:34: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:14:34: \Women-R-TrashLoL\STEAM_0:1:837056284\ Client version: Half-Life (OpenGL)
+L 12/16/2024 - 19:14:44: \glitch31415\STEAM_0:0:743386914\ killed by \Women-R-TrashLoL\STEAM_0:1:837056284\ with "shotgun"
+L 12/16/2024 - 19:15:00: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by \glitch31415\STEAM_0:0:743386914\ with "shotgun"
+L 12/16/2024 - 19:15:07: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by \glitch31415\STEAM_0:0:743386914\ with "shotgun"
+L 12/16/2024 - 19:15:25: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 12/16/2024 - 19:15:51: \glitch31415\STEAM_0:0:743386914\ killed by \Women-R-TrashLoL\STEAM_0:1:837056284\ with "9mmAR"
+L 12/16/2024 - 19:16:04: \Women-R-TrashLoL\STEAM_0:1:837056284\ committed suicide with "rpg_rocket"
+L 12/16/2024 - 19:16:10: \Women-R-TrashLoL\STEAM_0:1:837056284\ committed suicide with "rpg_rocket"
+L 12/16/2024 - 19:16:22: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by \glitch31415\STEAM_0:0:743386914\ with "bolt"
+L 12/16/2024 - 19:16:34: \glitch31415\STEAM_0:0:743386914\ killed by \Women-R-TrashLoL\STEAM_0:1:837056284\ with "rpg_rocket"
+L 12/16/2024 - 19:16:39: \glitch31415\STEAM_0:0:743386914\ killed by \Women-R-TrashLoL\STEAM_0:1:837056284\ with "shotgun"
+L 12/16/2024 - 19:16:50: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 12/16/2024 - 19:17:13: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by "Human Grunt"
+L 12/16/2024 - 19:17:17: \Women-R-TrashLoL\STEAM_0:1:837056284\ say "nice hax"
+L 12/16/2024 - 19:17:21: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 12/16/2024 - 19:17:23: \glitch31415\STEAM_0:0:743386914\ say "this is a sandbox server"
+L 12/16/2024 - 19:17:25: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by "Human Grunt"
+L 12/16/2024 - 19:17:27: \glitch31415\STEAM_0:0:743386914\ say "you can noclip and spawn them too"
+L 12/16/2024 - 19:17:33: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed "Human Grunt" with "shotgun"
+L 12/16/2024 - 19:17:34: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by "Human Grunt"
+L 12/16/2024 - 19:17:41: \Women-R-TrashLoL\STEAM_0:1:837056284\ killed by "Human Grunt"
+L 12/16/2024 - 19:17:43: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/16/2024 - 19:17:43: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/16/2024 - 19:17:43: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/16/2024 - 19:17:43: \Women-R-TrashLoL\STEAM_0:1:837056284\ disconnected
+L 12/16/2024 - 19:17:43: Dropped Women-R-TrashLoL from server
+L 12/16/2024 - 19:17:43: Reason:  Client sent 'drop'
+L 12/16/2024 - 19:17:48: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 19:17:49: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 19:17:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 19:17:54: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 19:17:54: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 19:17:54: \glitch31415\STEAM_0:0:743386914\ committed suicide with "grenade"
+L 12/16/2024 - 19:17:54: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 19:17:54: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 19:17:54: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 19:18:02: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 19:18:02: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 12/16/2024 - 19:18:02: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 12/16/2024 - 19:18:28: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/16/2024 - 19:18:32: Rcon: "rcon 1525650760 "5pgW37D7ad" restart" from "127.0.0.1:27005"
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 12/16/2024 - 19:18:32: \glitch31415\STEAM_0:0:743386914\ 17 points, 8 deaths
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 12/16/2024 - 19:18:32: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 12/16/2024 - 19:18:32: [META] ERROR: ini: Plugin '<rcbot.so>' has newer file, but unexpected status (badfile)
+L 12/16/2024 - 19:18:32: [META] ini: Read plugin config for: <rcbot.so>
+L 12/16/2024 - 19:18:32: [META] ini: Read plugin config for: AMX Mod X
+L 12/16/2024 - 19:18:32: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 2 plugins
+L 12/16/2024 - 19:18:32: [META] dll: Updating plugins...
+L 12/16/2024 - 19:18:32: [META] (debug:1) Loading plugin '<rcbot.so>'
+L 12/16/2024 - 19:18:32: [META] ERROR: dll: Failed query plugin '<rcbot.so>'; Couldn't open file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so': /home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so: undefined symbol: _Z14PRECACHE_MODELPKc
+L 12/16/2024 - 19:18:32: [META] ERROR: dll: Skipping plugin '<rcbot.so>'; couldn't query
+L 12/16/2024 - 19:18:32: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 12/16/2024 - 19:18:32: [META] dll: Finished updating 6 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/16/2024 - 19:18:32: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/16/2024 - 19:18:32: \glitch31415\STEAM_0:0:743386914\ disconnected with 17 points
+L 12/16/2024 - 19:18:32: Log file closed
+
+-------------------------------------------------------------------------------
+

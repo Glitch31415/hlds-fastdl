@@ -47,7 +47,7 @@ public plugin_init()
 
 	}
 	else {
-		console_cmd(0, "rcbot config dont_shoot 1");
+		//console_cmd(0, "rcbot config dont_shoot 1");
 	}
 	return 0;
 }
@@ -81,19 +81,19 @@ public hchange(id) {
 		new mapnamecheck[3];
 		get_mapname(mapnamecheck,3);
 		//if ( ( (equali(mapnamecheck[0], "c", 1) && equali(mapnamecheck[2], "a", 1)) ) && (is_user_bot( id ))) {
-		if ( is_user_bot( id ) ) {
-			set_user_maxspeed(id, 0.01);
-			set_pev(id, pev_solid, SOLID_NOT);
-			set_user_godmode( id, 1 );
-			new oa[3];
-			oa[0] = -9999999999999999999999999999;
-			oa[1] = -9999999999999999999999999999;
-			oa[2] = -9999999999999999999999999999;
-			set_user_origin( id, oa);
-		}
-		else {
+		//if ( is_user_bot( id ) ) {
+			//set_user_maxspeed(id, 0.01);
+			//set_pev(id, pev_solid, SOLID_NOT);
+			//set_user_godmode( id, 1 );
+			//new oa[3];
+			//oa[0] = -9999999999999999999999999999;
+			//oa[1] = -9999999999999999999999999999;
+			//oa[2] = -9999999999999999999999999999;
+			//set_user_origin( id, oa);
+		//}
+		//else {
 			set_user_maxspeed(id, (get_user_health( id )*3.2));
-		}
+		//}
 		message_begin(MSG_ONE, get_user_msgid("ScreenFade"), {0,0,0}, id)
         write_short(9999999999999999999999999)
         write_short(9999999999999999999999999)
@@ -133,7 +133,7 @@ public CTask__RegenerationHealth( pPlayer )
         pspeed = floatround(vector_length( fVelocity ));
 		pspeed = pspeed + 1;
 
-		if (get_user_armor( pPlayer ) < 500) {
+		if (get_user_armor( pPlayer ) < 999) {
 			set_user_armor(pPlayer, get_user_armor( pPlayer ) + 1); 
 		}
 			static float:chance;

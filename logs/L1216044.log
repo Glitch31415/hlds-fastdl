@@ -1,0 +1,48 @@
+L 12/16/2024 - 23:04:29: Log file started (file "logs/L1216044.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/16/2024 - 23:04:29: Loading map "e1m1"
+L 12/16/2024 - 23:04:29: Server cvar "mp_soundvariety" = "0"
+L 12/16/2024 - 23:04:29: Server cvar "mp_soundvariety" = "1"
+L 12/16/2024 - 23:04:29: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/16/2024 - 23:04:29: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/16/2024 - 23:04:29: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 12/16/2024 - 23:04:29: [META] ERROR: Couldn't find game entity 'weapon_plasmarifle' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: weapon_plasmarifle
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/16/2024 - 23:04:29: Server cvar "mp_nextmap" = "sandbox"
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/16/2024 - 23:04:29: Enemy stats: 5k health, 32 npcs
+L 12/16/2024 - 23:04:29: Started map "e1m1" (CRC "-1708525548")
+L 12/16/2024 - 23:04:29: "glitch31415<2><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 23:04:29: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 23:04:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 23:04:31: Dropped glitch31415 from server
+L 12/16/2024 - 23:04:31: Reason:  Client sent 'drop'
+L 12/16/2024 - 23:04:31: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 23:04:31: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 23:04:31: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 23:04:31: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 23:04:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 23:04:31: "glitch31415<3><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/16/2024 - 23:04:32: \bot2\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 23:04:32: \bot2\BOT\ entered the game as ld_gordon(126,188)
+L 12/16/2024 - 23:04:32: \bot3\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 23:04:32: \bot3\BOT\ entered the game as ld_gordon(34,197)
+L 12/16/2024 - 23:04:32: \bot1\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 23:04:32: \bot1\BOT\ entered the game as ld_gordon(132,208)
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/16/2024 - 23:04:33: \glitch31415\STEAM_0:0:743386914\ entered the game as scientist(76,76)
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 23:04:33: [META] (debug:3) Calling server.so:CvarValu

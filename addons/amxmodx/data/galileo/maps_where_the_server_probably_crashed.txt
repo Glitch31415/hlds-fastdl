@@ -278,3 +278,6 @@ stalkyard
 d1_trainstation_02
 d1_town_01
 d1_trainstation_02
+hldm_2fort
+hldm_2fort
+e1m1

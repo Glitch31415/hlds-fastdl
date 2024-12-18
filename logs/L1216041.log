@@ -1,0 +1,52 @@
+L 12/16/2024 - 21:31:45: Log file started (file "logs/L1216041.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/16/2024 - 21:31:45: Loading map "hldm_2fort"
+L 12/16/2024 - 21:31:45: Server cvar "mp_soundvariety" = "0"
+L 12/16/2024 - 21:31:45: Server cvar "mp_soundvariety" = "1"
+L 12/16/2024 - 21:31:45: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/16/2024 - 21:31:45: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/16/2024 - 21:31:45: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/16/2024 - 21:31:45: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 21:31:45: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 21:31:45: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/16/2024 - 21:31:45: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/16/2024 - 21:31:46: Enemy stats: 0k health, 0 npcs
+L 12/16/2024 - 21:31:46: Started map "hldm_2fort" (CRC "579208788")
+L 12/16/2024 - 21:31:46: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 21:31:46: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 21:31:46: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 21:31:46: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 21:31:46: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 21:31:46: Dropped glitch31415 from server
+L 12/16/2024 - 21:31:46: Reason:  Client sent 'drop'
+L 12/16/2024 - 21:31:49: \bot1\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 21:31:49: \bot1\BOT\ entered the game as ld_gordon(214,236)
+L 12/16/2024 - 21:31:49: \bot3\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 21:31:49: \bot3\BOT\ entered the game as ld_gordon(215,157)
+L 12/16/2024 - 21:31:49: \bot2\BOT\ connected from address 127.0.0.1
+L 12/16/2024 - 21:31:49: \bot2\BOT\ entered the game as ld_gordon(124,17)
+L 12/16/2024 - 22:53:31: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 22:53:31: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 22:53:31: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 22:53:31: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 22:53:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 22:53:31: "glitch31415<59><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/16/2024 - 22:53:32: Dropped glitch31415 from server
+L 12/16/2024 - 22:53:32: Reason:  Client sent 'drop'
+L 12/16/2024 - 22:53:33: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 22:53:33: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 22:53:33: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 22:53:33: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 22:53:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 22:53:33: "glitch31415<60><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/16/2024 - 22:53:35: \glitch31415\STEAM_0:0:743386914\ entered the game as scientist(76,76)
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 22:53:35: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 22:53:36: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 22:53:36:

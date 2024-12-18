@@ -1,0 +1,77 @@
+L 12/16/2024 - 19:07:30: Log file started (file "logs/L1216007.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/16/2024 - 19:07:30: Loading map "d1_trainstation_02"
+L 12/16/2024 - 19:07:30: Server cvar "mp_soundvariety" = "0"
+L 12/16/2024 - 19:07:30: Server cvar "mp_soundvariety" = "1"
+L 12/16/2024 - 19:07:30: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/16/2024 - 19:07:30: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/16/2024 - 19:07:30: [META] ERROR: Couldn't find game entity 'env_model' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: env_model
+L 12/16/2024 - 19:07:30: [META] ERROR: Couldn't find game entity 'motion_manager' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: motion_manager
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/16/2024 - 19:07:30: Server cvar "mp_nextmap" = "d1_town_01"
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/16/2024 - 19:07:30: Enemy stats: 0k health, 0 npcs
+L 12/16/2024 - 19:07:30: Started map "d1_trainstation_02" (CRC "652026196")
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 19:07:30: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 19:07:30: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 19:07:32: Dropped glitch31415 from server
+L 12/16/2024 - 19:07:32: Reason:  Client sent 'drop'
+L 12/16/2024 - 19:07:34: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:07:34: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/16/2024 - 19:07:34: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/16/2024 - 19:07:34: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/16/2024 - 19:07:34: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/16/2024 - 19:07:34: "glitch31415<2><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/16/2024 - 19:07:36: \glitch31415\STEAM_0:0:743386914\ entered the game as scientist(76,76)
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/16/2024 - 19:07:36: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/16/2024 - 19:07:36: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/16/2024 - 19:08:01: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 12/16/2024 - 19:08:11: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 12/16/2024 - 19:10:03: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmhandgun"
+L 12/16/2024 - 19:10:11: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmhandgun"
+L 12/16/2024 - 19:10:15: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmhandgun"
+L 12/16/2024 - 19:10:19: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmhandgun"
+L 12/16/2024 - 19:10:59: Rcon: "rcon 1525650760 "5pgW37D7ad" changelevel hldm_2fort" from "127.0.0.1:27005"
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 12/16/2024 - 19:10:59: \glitch31415\STEAM_0:0:743386914\ 30 points, 0 deaths
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 12/16/2024 - 19:10:59: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 12/16/2024 - 19:10:59: [META] ERROR: ini: Plugin '<rcbot.so>' has newer file, but unexpected status (badfile)
+L 12/16/2024 - 19:10:59: [META] ini: Read plugin config for: <rcbot.so>
+L 12/16/2024 - 19:10:59: [META] ini: Read plugin config for: AMX Mod X
+L 12/16/2024 - 19:10:59: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 2 plugins
+L 12/16/2024 - 19:10:59: [META] dll: Updating plugins...
+L 12/16/2024 - 19:10:59: [META] (debug:1) Loading plugin '<rcbot.so>'
+L 12/16/2024 - 19:10:59: [META] ERROR: dll: Failed query plugin '<rcbot.so>'; Couldn't open file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so': /home/glitch/.steam/debian-installation/steamapps/common/hlds/rcbot/dlls/rcbot.so: undefined symbol: _Z14PRECACHE_MODELPKc
+L 12/16/2024 - 19:10:59: [META] ERROR: dll: Skipping plugin '<rcbot.so>'; couldn't query
+L 12/16/2024 - 19:10:59: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 12/16/2024 - 19:10:59: [META] dll: Finished updating 6 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/16/2024 - 19:10:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/16/2024 - 19:10:59: \glitch31415\STEAM_0:0:743386914\ disconnected with 30 points
+L 12/16/2024 - 19:10:59: Log file closed
+
+-------------------------------------------------------------------------------
+
