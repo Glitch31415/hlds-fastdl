@@ -1,0 +1,85 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		     : Apex_v2
+Filename	     : apex_v2.bsp
+Author's	     : Jeff Meyer & [DRS]Orpheus
+Home page	     : www.drs.purespace.de
+Description	     : Half-Life DM map
+Previous Maps    : Jeff Meyers- Apex, Spider, Deathlab, Desolate, Dmjctrl, Dmjescap,Dmjfrazz,      
+                   Dante_1
+                 : [DRS]Orpheus- Apex, Deja_Vu_2, False_Accretion, Thrasher, Deja_Vu
+Email & ICQ      : orpheus@cswnet.com         34917705
+
+
+------Additional Information----------------------------------------
+First thing you may say is "Isn't this a recent release?" well sure it is but its first version was so new that all the reviewers haven't even gotten to it yet.
+Second since this contest wanted the "best" maps available i felt it prudent to revamp this fine map taking into account the few defects noticed in what reviews were out and submitting a second version for the world to see.
+Third in all the preceeding reviews of version one scary_1 is sited as an influence on this map, well yes he was but only in the capacity of the best "competition" out there at the time this map was created, since then several others have arrisen but at the time steve was the best, so once agian i thank him as a peer.
+Fourth this map contains "26" i say agian "twenty six" multiplayer starts but still i have had reports of spawn frags.. i don't know how many playerstarts halflife supports , but i don't know anyway to avoid this. 
+
+------Credits and Thanks---------------------------------------------
+                             This could be lengthy :-)
+Jeff Meyer for trusting me to finish this..
+Don "Sugarfoot" Rickenbacker for his input to the computer terminal.
+[DRS]Doomdog, [DRS]Reaper, [DRS]Misery, [DRS]Lazerus, [DRS]Zeddicus, [DRS]Alien_Sniper,    [DRS]Yak_Fighter, [DRS]Reedbeta, [DRS]LightBurner, [DRS]Ken_UK, [DRS]Aenima, [DRS]Karla,   [DRS]Darklight, [DRS]Ronin, [DRS]Panic[DRS]Tengil, Biomechanoid, Gustavo, Fargus, [TCW]Lucien, Smike, Andy Marshall, Darkdragon, Razor, ComaWhite
+                             Valve for making Half-Life and sponcering this contest
+                             Planethalflife.com for sponcering this contest
+                             Zoner and his killer tools
+                             Anti Elvis for HLCC
+                             Worldcraft, still the best overall mapping editor.
+                             everyone at   http://nin64.com/prefabland/forums/
+lastly but never least to my wife of 19 years for putting up with my grumpy ass..
+                             (please.....if i forgot to mention anyone dont take it personal i tryed to remember everyone)
+                             
+
+------Play Information-----------------------------------------------
+
+Deathmatch	      : Yup
+Single Player	: Nope..but contains 1 playerstart
+Map History	      : About 3 years ago i discovered "Half-Life", shortly after that i discovered "Worldcraft", i could say the rest is history  but its not..cause shortly after that i met two living legends.. Jeff Meyer "Jammer" and Steve Lyne "Scary 1".. Jeff took me under their wings and my lessons began.. shortly after that Jeff had to quit mapping due to personal reasons BUT he in his infinite wisdom sent me his last masterpiece "New 41"...which i am happy to say "I" have finally become skilled enuff to complete in his stead..
+How Many Players  : 10 to 15....has "26" Multi-player starts
+More map info     : This map is quite large, i suggest you play it offline, learn the layout and then play online.. Each area is distinct so you should have little or no problem distinguishing where you are..
+
+------Map Information------------------------------------------------
+
+New Textures	  : nope
+New Sounds	        : nada
+Contents & Items    : Multi-player starts-26 ,                                                                     
+                    : Ammo  357-6, 9mmbox-6, Ar gernades-6, buckshot-7, crossbow-6, guassclips-4, RPGclips-4       :Weapons 357-2, 9mmAR-6, Crossbow-1, Guass-1, Handgernade-2, Hornetgun-1, RPG-1,Satchel-3, Shotgun-5, Trip-2  Snarks-1
+                    :Items Batteries-4, Healthkits-3, Longjumps-2
+                    :Chargers Health-8, Suit-5
+                    :Prefabs used Rotating light- by Razor, Wall light- by Smike, Fountain- by                                                   
+                     [DRS]Ken_UK, Conelight- by Andy Marshall, Sirens- by [DRS]Doomdog
+------Construction---------------------------------------------------
+
+Base		      : From scratch
+Editor(s) used	: Wc 2.0 and 3.3
+Compile Machine	: AMD k62 400 96 ram 16 meg Voodoo Banshee
+Compile time	: HLcsg-223.05 seconds, HLbsp-94.36 seconds, HLvis-1458.27 seconds, HLrad-13225.45 seconds
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "apex_v2.bsp" in
+your half-life/valve/maps directory. 
+
+------Additional Info------------------------------------------------
+
+This template is "NO LONGER" available at The radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+------Copyright-Permissions------------------------------------------
+
+Authors "MAY NOT" use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+JaMMeR & Dirty Rotten Scoundrels- 19 JAN 2001

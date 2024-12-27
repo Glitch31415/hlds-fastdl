@@ -1,0 +1,106 @@
+=====================================================================
+   Half-Life Map Specification Sheet
+=====================================================================
+------ General Information --------------------------------------------
+
+Title		: GibcityDM8
+Release        	: Official release
+Date		: 12th June 2003
+Filename		: gibcitydm8.bsp
+Author		: Wayne W. Smith
+Email Address	: wsmith@gibcity.com
+Home page	: www.gibcity.com
+Description	: Arena/Killbox Level.
+Previous Maps	: Various Quake2, Half-Life & Daikatana maps.
+
+Credits/Thanks	: William Edward Smith - Play Tester/Design Helper
+                		: Julia Elizabeth Smith - Play Tester
+                		: John Romero - All around game developer "God"
+                 		  (John gave me the idea to release .map files)
+		: >>CreepItAll<<  Suggestions on how to improve the map
+                		: Pete Parisi - Building Textures - www.badmeat.com
+                		: Carl Johnson - Building Textures - www.carlsart.com
+                		: Valve Software - Half-Life
+                		: Prospect Vector - Tread3D Level Editor
+
+
+Special Notes   	: Special credit goes to my wife Jacalyn, son WES, and
+                  	  daughter JES for putting up with a 40+ obsessive map
+                  	  maker.
+
+                		: I have included the .map and .wad files in an effort
+                  	  to help and encourage other authors.  Use all or part
+                  	  as you wish.
+
+                                    : I wish to sincerely thank DocRock for making his map
+                                      cracker_killbox. After playing this map I decided to try
+                                      to make my own killbox map.
+
+
+------ Play Information -----------------------------------------------
+
+Game Version    	: Half-Life DM
+Deathmatch	: Yes - 8 starts provided
+Single Player	: No but one start is provided
+Map Description	: An Arena/Killbox level.
+
+
+------ Map Information ------------------------------------------------
+
+New Textures	: Yes
+New Sounds	: Yes
+
+
+------ Construction ---------------------------------------------------
+
+Base		: New
+Editor(s) used	: Tread3D
+Build Time      	: Way too long
+Known Bugs      	: None
+Compile Machine	: Dell 8250 2.4GHz
+   
+Compile times:
+                  Csg time               	:            .70 sec 
+                  Bsp time                	:            .75 sec
+                  Vis time                	:       17.92 sec
+                  Rad time               	:  3317.20 sec
+                  Total compile time    :  55 min 36 sec  (3336 sec)
+
+
+------ Map Instructions -----------------------------------------------
+
+Unzip the files in this archive to your valve directory:
+
+------ Additional Info ------------------------------------------------
+
+Map Construction/Layout :
+
+
+                  All the DM starts have a weapon and ammo near
+                  them.
+
+                  There are secrets in this map.
+
+                  There are custom textures in this map.  These
+                  textures were compiled into the .bsp and this
+                  was done to facilitate an easier download from
+                  a server during a game.
+
+                  If you do not like this map or any of the entity
+                  placements don't bother to tell me, just take the
+                  .map and/or .wad files provided and make your own
+                  version.
+
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY use this level as a base to build additional levels without
+giving me any credit. (Yes, this is not a misprint.) 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without permission from the author of the present work or works.

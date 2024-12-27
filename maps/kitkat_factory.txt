@@ -1,0 +1,349 @@
+=======================================================
+kitkat_factory   by DocRock
+=======================================================
+
+Map Name:      		kitkat_factory.bsp
+Filesize:           		5.66 mb .zip
+Author:            		DocRock
+Author email:  		docrock64@cox.net
+Homepage:      		www.planethalflife.com/docrocksmaps
+
+wadincluded in map:  	kk.wad and hh_singlemalt.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    		No
+Co-Op:                		No
+Deathmatch:     		Yes
+
+Suggested Players:  	12-20
+New Textures:   		Yes
+New Sounds:      		No
+New Models:		No
+
+Map description:  		A factory which makes the luscious kitkat candy bar, from
+			crispy wafer, through chocolate dipping, steaming, pressing,	
+			and packaging.  Plus a nice office area and security room.
+
+=======================================================
+CONSTRUCTION:
+
+base map:                	None
+prefabs:                   	cargo truck by [DRS]Yak Fighter
+editor used:             	Worldcraft 3.4 Hammer
+utilities used:          	Zoner's Half-Life compile tools, botman's bots, Paintshop Pro 7
+known bugs:            	None
+compile machine:    	AMD Athlon XP 1600  1.39 GHz  448 mb of RAM
+compile time:          	58 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip kitkat_factory.zip onto your desktop.  Open the kitkat_factory folder and place the kitkat_factory.bsp, kitkat_factory.res, and kitkat_factory.txt in your valve/maps folder.  Open the brooding folder and place the 6 (six) brooding.tga files into your valve/gfx/env folder.
+
+If you'd like a copy of the kk.wad, email me and I'll send it to you.  docrock64@cox.net
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+hardcore, kitkat_beach, kitkat_klub, Get_Shorty, Farmland2, Cliffside2, Tigger,
+Scooby_Doo, LOML_Palace, DepotArena, Conundrum, Conundrum 2, The Challenger Deep...etc
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My 
+#1 fan, thanks baby for playtesting and helping me with this awesome 
+map!  I DEDICATE THIS TO YOU!
+
+=======================================================
+MORE THANKS!
+ 
+babykitkat		beta tester
+[FF]Bearman		beta tester
+[A.S.S.]Murder-Inc		beta tester
+roger			beta tester
+[VDC]Voodoo Child		beta tester
+Edgar Allen Poe		beta tester
+
+QuIcKsIlVeR, rev.greenbud, some of the [USA] clan crew for running through the map and suggestions when it was having a strange "type" lag.  Also thanks to the fellas at the Snarkpit forums, to the beta testers, and some of the [FF] clan for suggestions and encouragement.
+
+[DRS]Yak Fighter			cargo truck prefab (slightly reworked)
+
+Gollum, jolly_roger, and Behelit	snarkpit forum func_train possibilty Q&A (thanks guys)
+banana, Jinx, and BunnyX		some textures from Action Half-Life deli map
+
+OTHER THANKS
+
+[WTF?]MoOg		brooding skybox
+=======================================================
+DOC'S NEXT MAP....COMING SOON!
+
+carnivalized
+ =======================================================
+COMPILE LOG INFORMATION
+
+
+** Executing...
+** Command: Change Directory
+** Parameters: "C:\Sierra\Half-Life"
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlcsg.exe
+** Parameters: -wadinclude kk.wad -wadinclude hh3_singlemalt.wad "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+hlcsg v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlcsg.exe -wadinclude kk.wad -wadinclude hh3_singlemalt.wad "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+-= Current hlcsg Settings =-
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Wadinclude list :
+[zhlt.wad]
+[kk.wad]
+[hh3_singlemalt.wad]
+
+
+entering c:\program files\valve hammer editor\maps\kitkat_factory.map
+CreateBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (30.60 seconds)
+SetModelCenters:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (0.00 seconds)
+CSGBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (5.08 seconds)
+Using WAD File: \sierra\half-life\valve\halflife.wad
+Using WAD File: \sierra\half-life\valve\liquids.wad
+Using WAD File: \sierra\half-life\valve\decals.wad
+Embedding textures from WAD File [\sierra\half-life\valve\kk.wad] into BSP
+Embedding textures from WAD File [\sierra\half-life\valve\hh3_singlemalt.wad] into BSP
+added 29 additional animating textures.
+Texture usage is at 3.42 mb (of 4.00 mb MAX)
+37.04 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlbsp.exe
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+hlbsp v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlbsp.exe "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+-= Current hlbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 240)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'c:\program files\valve hammer editor\maps\kitkat_factory.prt'
+13.35 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlvis.exe
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+hlvis v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlvis -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlvis.exe "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+2825 portalleafs
+9907 numportals
+BasePortalVis:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (116.31 seconds)
+LeafThread:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (2746.72 seconds)
+average leafs visible: 284
+g_visdatasize:219273  compressed from 1000050
+2863.59 seconds elapsed [47m 43s]
+
+-----   END   hlvis -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlrad.exe
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+hlrad v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlrad -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlrad.exe "c:\program files\valve hammer editor\maps\kitkat_factory"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           256.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [             1.000 ] [             1.000 ]
+global gamma amount  [             0.500 ] [             0.500 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+
+[Reading texlights from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+[48 texlights parsed from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+
+10215 faces
+Create Patches : 40133 base patches
+0 opaque faces
+297016 square feet [42770336.00 square inches]
+600 direct lights
+
+BuildFacelights:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (121.47 seconds)
+visibility matrix   :  96.0 megs
+BuildVisLeafs:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (208.32 seconds)
+MakeScales:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (269.20 seconds)
+SwapTransfers:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (43.88 seconds)
+Transfer Lists : 35600510 transfers
+       Indices : 25685308 bytes
+          Data : 142402040 bytes
+Bounce 1 GatherLight:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (2.09 seconds)
+FinalLightFace:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (3.98 seconds)
+652.35 seconds elapsed [10m 52s]
+
+-----   END   hlrad -----
+
+
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_factory.bsp" "C:\Sierra\Half-Life\valve\maps\kitkat_factory.bsp"
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_factory.pts" "C:\Sierra\Half-Life\valve\maps\kitkat_factory.pts"
+
+
+** Executing...
+** Command: C:\Sierra\HALF-L~1\hl.exe
+** Parameters: +map "kitkat_factory" -dev -console
+
+
+===========================================================
+COPYRIGHT STUFF
+
+kitkat_factory.bsp  	copyright June 9, 2002 by DocRock	
+kk.wad		copyright June 9, 2002 by DocRock		
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.
+
