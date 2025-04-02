@@ -1,0 +1,198 @@
+L 03/28/2025 - 22:21:29: Log file started (file "logs/L0328003.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 03/28/2025 - 22:21:29: Loading map "chaos_sandbox"
+L 03/28/2025 - 22:21:29: Server cvar "mp_soundvariety" = "0"
+L 03/28/2025 - 22:21:29: Server cvar "mp_soundvariety" = "1"
+L 03/28/2025 - 22:21:29: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 03/28/2025 - 22:21:29: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling server.so:ServerActivate()
+L 03/28/2025 - 22:21:29: Server cvar "mp_nextmap" = "sc_test_sandbox"
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 03/28/2025 - 22:21:29: Server cvar "amx_nextmap" = "boot_camp_sandbox"
+L 03/28/2025 - 22:21:29: Enemy stats: 33k health, 46+ npcs
+L 03/28/2025 - 22:21:29: Started map "chaos_sandbox" (CRC "1323732680")
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:21:29: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:21:30: Dropped glitch31415 from server
+L 03/28/2025 - 22:21:30: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:21:31: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:21:31: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:21:31: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:21:31: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:21:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:21:31: "glitch31415<28><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:21:32: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/28/2025 - 22:21:32: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:21:32: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/28/2025 - 22:21:32: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 03/28/2025 - 22:21:32: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:21:32: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:21:32: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:21:32: \bot2\BOT\ connected from address 127.0.0.1
+L 03/28/2025 - 22:21:32: \bot2\BOT\ entered the game as ld_gordon(23,74)
+L 03/28/2025 - 22:21:32: \bot1\BOT\ connected from address 127.0.0.1
+L 03/28/2025 - 22:21:32: \bot1\BOT\ entered the game as ld_gordon(212,44)
+L 03/28/2025 - 22:21:32: \bot3\BOT\ connected from address 127.0.0.1
+L 03/28/2025 - 22:21:32: \bot3\BOT\ entered the game as ld_gordon(22,222)
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:21:33: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:21:33: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 03/28/2025 - 22:21:37: \glitch31415\STEAM_0:0:743386914\ killed by "Apache"
+L 03/28/2025 - 22:21:45: \glitch31415\STEAM_0:0:743386914\ killed "Ichthyosaur" with "shotgun"
+L 03/28/2025 - 22:21:55: \glitch31415\STEAM_0:0:743386914\ killed "Big Momma" with "shotgun"
+L 03/28/2025 - 22:21:59: \glitch31415\STEAM_0:0:743386914\ killed "Alien Grunt" with "shotgun"
+L 03/28/2025 - 22:22:00: \glitch31415\STEAM_0:0:743386914\ killed "Alien Controller" with "shotgun"
+L 03/28/2025 - 22:22:02: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:22:02: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:22:02: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:22:02: \Chilling\STEAM_0:0:17855204\ connected from address 47.150.237.140:27005
+L 03/28/2025 - 22:22:02: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:22:02: "Chilling<32><STEAM_0:0:17855204><>" STEAM USERID validated
+L 03/28/2025 - 22:22:04: Dropped Chilling from server
+L 03/28/2025 - 22:22:04: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:22:05: \glitch31415\STEAM_0:0:743386914\ killed "Big Momma" with "9mmAR"
+L 03/28/2025 - 22:22:08: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:22:08: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "grenade"
+L 03/28/2025 - 22:22:08: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "grenade"
+L 03/28/2025 - 22:22:08: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "grenade"
+L 03/28/2025 - 22:22:08: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "grenade"
+L 03/28/2025 - 22:22:10: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "grenade"
+L 03/28/2025 - 22:22:10: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "grenade"
+L 03/28/2025 - 22:22:10: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "grenade"
+L 03/28/2025 - 22:22:10: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "grenade"
+L 03/28/2025 - 22:22:10: \glitch31415\STEAM_0:0:743386914\ killed "Rat" with "grenade"
+L 03/28/2025 - 22:22:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:22:14: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:22:14: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:22:14: \Chilling\STEAM_0:0:17855204\ connected from address 47.150.237.140:27005
+L 03/28/2025 - 22:22:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:22:14: "Chilling<33><STEAM_0:0:17855204><>" STEAM USERID validated
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Gargantua" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "grenade"
+L 03/28/2025 - 22:22:14: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 03/28/2025 - 22:22:22: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:22: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:22: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 03/28/2025 - 22:22:22: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:22: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:22: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:22: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:23: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "gluon gun"
+L 03/28/2025 - 22:22:23: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:25: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:26: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "gluon gun"
+L 03/28/2025 - 22:22:27: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 03/28/2025 - 22:22:27: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:27: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:27: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:27: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:27: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "gluon gun"
+L 03/28/2025 - 22:22:27: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:28: \glitch31415\STEAM_0:0:743386914\ killed "Big Momma" with "gluon gun"
+L 03/28/2025 - 22:22:28: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:28: \glitch31415\STEAM_0:0:743386914\ killed "Alien Controller" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Rat" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "gluon gun"
+L 03/28/2025 - 22:22:29: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:30: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "gluon gun"
+L 03/28/2025 - 22:22:30: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "gluon gun"
+L 03/28/2025 - 22:22:30: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "gluon gun"
+L 03/28/2025 - 22:22:30: \glitch31415\STEAM_0:0:743386914\ killed "Alien Grunt" with "gluon gun"
+L 03/28/2025 - 22:22:31: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Alien Controller" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Gargantua" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Alien Controller" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:22:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 03/28/2025 - 22:23:07: Rcon: "rcon 2093540045 "5pgW37D7ad" changelevel hldm_2fort_sandbox" from "127.0.0.1:27005"
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: \bot2\BOT\ disconnected
+L 03/28/2025 - 22:23:07: Dropped bot2 from server
+L 03/28/2025 - 22:23:07: Reason:  Dropping fakeclient on level change
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: \bot1\BOT\ disconnected
+L 03/28/2025 - 22:23:07: Dropped bot1 from server
+L 03/28/2025 - 22:23:07: Reason:  Dropping fakeclient on level change
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: \bot3\BOT\ disconnected
+L 03/28/2025 - 22:23:07: Dropped bot3 from server
+L 03/28/2025 - 22:23:07: Reason:  Dropping fakeclient on level change
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 03/28/2025 - 22:23:07: \glitch31415\STEAM_0:0:743386914\ 307 points, 1 deaths
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 03/28/2025 - 22:23:07: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 03/28/2025 - 22:23:07: [META] ini: Read plugin config for: AMX Mod X
+L 03/28/2025 - 22:23:07: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 03/28/2025 - 22:23:07: [META] dll: Updating plugins...
+L 03/28/2025 - 22:23:07: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 03/28/2025 - 22:23:07: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:23:07: \glitch31415\STEAM_0:0:743386914\ disconnected with 307 points
+L 03/28/2025 - 22:23:07: Log file closed
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,67 @@
+L 01/14/2025 - 12:56:50: Log file started (file "logs/L0114000.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 01/14/2025 - 12:56:50: b>[META] dev: Set engine code range: start address = 0xf721f000, end address = 0xf72d47c8
+L 01/14/2025 - 12:56:50: [META] dev: called: GiveFnptrsToDll
+L 01/14/2025 - 12:56:50: [META] Metamod v1.20  2013-02-16
+L 01/14/2025 - 12:56:50: [META] by Will Day <willday@metamod.org>
+L 01/14/2025 - 12:56:50: [META]    http://www.metamod.org/
+L 01/14/2025 - 12:56:50: [META] compiled: Feb 16 2013, 17:11:35 +0100 (optimized)
+L 01/14/2025 - 12:56:50: [META] engine: i486
+L 01/14/2025 - 12:57:00: [META] (debug:3) set config int: debuglevel = 0
+L 01/14/2025 - 12:57:00: [META] (debug:3) set config path: plugins_file = /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 01/14/2025 - 12:57:00: [META] (debug:3) set config string: exec_cfg = addons/metamod/exec.cfg
+L 01/14/2025 - 12:57:00: [META] (debug:2) Loading from config file: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/config.ini
+L 01/14/2025 - 12:57:00: [META] (debug:3) set config path: gamedll = /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so
+L 01/14/2025 - 12:57:00: [META] Overriding game 'valve' with dllfile 'server.so'
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Game 'valve': Called GiveFnptrsToDll
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Game 'valve': Found GetNewDLLFunctions
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Game 'valve': Found GetEntityAPI2
+L 01/14/2025 - 12:57:00: [META] Game DLL for 'server.so (override)' loaded successfully
+L 01/14/2025 - 12:57:00: [META] ini: Begin reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 01/14/2025 - 12:57:00: [META] ini: Read plugin config for: <amxmodx_mm_i386.so>
+L 01/14/2025 - 12:57:00: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins to load
+L 01/14/2025 - 12:57:00: [META] dll: Loading plugins...
+L 01/14/2025 - 12:57:00: [META] (debug:2) Resolved 'addons/amxmodx/modules/hamsandwich_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/hamsandwich_amxx_i386.so'
+L 01/14/2025 - 12:57:00: [HAMSANDWICH] dev: called: Meta_Query; version=5:13, ours=5:13
+L 01/14/2025 - 12:57:00: [META] ERROR: Failed to find memloc for regcmd 'ham'
+L 01/14/2025 - 12:57:00: [HAMSANDWICH] dev: called: GetNewDLLFunctions; version=1
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'Ham Sandwich': Found GetNewDLLFunctions
+L 01/14/2025 - 12:57:00: [HAMSANDWICH] dev: called: GetNewDLLFunctions_Post; version=1
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'Ham Sandwich': Found GetNewDLLFunctions_Post
+L 01/14/2025 - 12:57:00: [HAMSANDWICH] dev: called: GetEntityAPI2; version=140
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'Ham Sandwich': Found GetEntityAPI2
+L 01/14/2025 - 12:57:00: [HAMSANDWICH] dev: called: GetEntityAPI2_Post; version=140
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'Ham Sandwich': Found GetEntityAPI2_Post
+L 01/14/2025 - 12:57:00: [HAMSANDWICH] dev: called: GetEngineFunctions; version=138
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'Ham Sandwich': Found GetEngineFunctions
+L 01/14/2025 - 12:57:00: [HAMSANDWICH] dev: called: GetEngineFunctions_Post; version=138
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'Ham Sandwich': Found GetEngineFunctions_Post
+L 01/14/2025 - 12:57:00: [META] dll: Loaded plugin 'Ham Sandwich': Ham Sandwich v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 01/14/2025 - 12:57:00: [META] (debug:1) Loaded plugin 'Ham Sandwich' successfully
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'AMX Mod X': Found GetNewDLLFunctions
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'AMX Mod X': Found GetEntityAPI2
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'AMX Mod X': Found GetEntityAPI2_Post
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'AMX Mod X': Found GetEngineFunctions
+L 01/14/2025 - 12:57:00: [META] (debug:3) dll: Plugin 'AMX Mod X': Found GetEngineFunctions_Post
+L 01/14/2025 - 12:57:00: [META] dll: Loaded plugin 'AMX Mod X': AMX Mod X v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 01/14/2025 - 12:57:00: [META] ERROR: dll: Not loading plugin 'Ham Sandwich'; already loaded (status=running)
+L 01/14/2025 - 12:57:00: [META] ERROR: dll: Failed to load plugin 'hamsandwich_amxx_i386.so'
+L 01/14/2025 - 12:57:00: [META] dll: Finished loading 1 plugins
+L 01/14/2025 - 12:57:00: [META] (debug:3) called: GetEntityAPI2; version=140
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling server.so:GameDLLInit()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/14/2025 - 12:57:00: Log file closed
+
+-------------------------------------------------------------------------------
+

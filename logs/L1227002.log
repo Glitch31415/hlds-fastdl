@@ -1,0 +1,249 @@
+L 12/27/2024 - 00:15:49: Log file started (file "logs/L1227002.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/27/2024 - 00:15:49: Loading map "d1_town_01"
+L 12/27/2024 - 00:15:49: Server cvar "mp_soundvariety" = "0"
+L 12/27/2024 - 00:15:49: Server cvar "mp_soundvariety" = "1"
+L 12/27/2024 - 00:15:49: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/27/2024 - 00:15:49: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/27/2024 - 00:15:49: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 12/27/2024 - 00:15:49: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/27/2024 - 00:15:49: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/27/2024 - 00:15:49: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/27/2024 - 00:15:49: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/27/2024 - 00:15:50: Server cvar "mp_nextmap" = "e1m1"
+L 12/27/2024 - 00:15:50: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/27/2024 - 00:15:50: Enemy stats: 34k health, 116 npcs
+L 12/27/2024 - 00:15:50: Started map "d1_town_01" (CRC "-1532292870")
+L 12/27/2024 - 00:15:53: \bot2\BOT\ connected from address 127.0.0.1
+L 12/27/2024 - 00:15:53: \bot2\BOT\ entered the game as ld_gordon(86,96)
+L 12/27/2024 - 00:15:53: \bot1\BOT\ connected from address 127.0.0.1
+L 12/27/2024 - 00:15:53: \bot1\BOT\ entered the game as ld_gordon(183,163)
+L 12/27/2024 - 00:15:53: \bot3\BOT\ connected from address 127.0.0.1
+L 12/27/2024 - 00:15:53: \bot3\BOT\ entered the game as ld_gordon(215,29)
+L 12/27/2024 - 06:57:15: "143.42.54.115:27012<4><STEAM_0:0:15832208><>" STEAM USERID validated
+L 12/27/2024 - 06:57:15: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 06:57:15: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 06:57:15: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 06:57:15: \143.42.54.115:27012\STEAM_0:0:15832208\ connected from address 89.157.254.220:27005
+L 12/27/2024 - 06:57:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 06:57:19: Dropped 143.42.54.115:27012 from server
+L 12/27/2024 - 06:57:19: Reason:  Client sent 'drop'
+L 12/27/2024 - 06:57:20: "143.42.54.115:27012<5><STEAM_0:0:15832208><>" STEAM USERID validated
+L 12/27/2024 - 06:57:20: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 06:57:20: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 06:57:20: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 06:57:20: \143.42.54.115:27012\STEAM_0:0:15832208\ connected from address 89.157.254.220:27005
+L 12/27/2024 - 06:57:20: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 06:57:26: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/27/2024 - 06:57:26: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 06:57:26: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/27/2024 - 06:57:26: \143.42.54.115:27012\STEAM_0:0:15832208\ entered the game as zombie(0,0)
+L 12/27/2024 - 06:57:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 06:57:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 06:57:26: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 06:57:29: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 06:57:29: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 06:57:29: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 06:57:29: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 06:57:29: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 06:57:29: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 06:57:30: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 06:57:30: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 06:57:30: \143.42.54.115:27012\STEAM_0:0:15832208\ Client version: Half-Life (OpenGL)
+L 12/27/2024 - 06:57:37: \143.42.54.115:27012\STEAM_0:0:15832208\ killed "Zombie" with "gluon gun"
+L 12/27/2024 - 06:59:36: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/27/2024 - 06:59:36: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/27/2024 - 06:59:36: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/27/2024 - 06:59:36: \143.42.54.115:27012\STEAM_0:0:15832208\ disconnected with 4 points
+L 12/27/2024 - 06:59:36: Dropped 143.42.54.115:27012 from server
+L 12/27/2024 - 06:59:36: Reason:  Client sent 'drop'
+L 12/27/2024 - 08:58:38: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 08:58:38: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 08:58:38: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 08:58:38: \SL_1056\STEAM_0:1:711337036\ connected from address 91.193.178.154:3434
+L 12/27/2024 - 08:58:38: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 08:58:38: "SL_1056<6><STEAM_0:1:711337036><>" STEAM USERID validated
+L 12/27/2024 - 08:58:45: Dropped SL_1056 from server
+L 12/27/2024 - 08:58:45: Reason:  Client sent 'drop'
+L 12/27/2024 - 09:00:35: "SL_1056<7><STEAM_0:1:711337036><>" STEAM USERID validated
+L 12/27/2024 - 09:00:35: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 09:00:35: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 09:00:35: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 09:00:35: \SL_1056\STEAM_0:1:711337036\ connected from address 91.193.178.154:3434
+L 12/27/2024 - 09:00:35: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 09:00:41: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/27/2024 - 09:00:41: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 09:00:41: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/27/2024 - 09:00:41: \SL_1056\STEAM_0:1:711337036\ entered the game as gordon(30,6)
+L 12/27/2024 - 09:00:42: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 09:00:42: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 09:00:42: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 09:00:45: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 09:00:45: \SL_1056\STEAM_0:1:711337036\ Client version: Half-Life (OpenGL)
+L 12/27/2024 - 09:00:50: \SL_1056\STEAM_0:1:711337036\ killed "Zombie" with "gluon gun"
+L 12/27/2024 - 09:00:52: \SL_1056\STEAM_0:1:711337036\ killed by "Zombie"
+L 12/27/2024 - 09:01:05: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/27/2024 - 09:01:05: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/27/2024 - 09:01:05: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/27/2024 - 09:01:05: \SL_1056\STEAM_0:1:711337036\ disconnected with 7 points
+L 12/27/2024 - 09:01:05: Dropped SL_1056 from server
+L 12/27/2024 - 09:01:05: Reason:  Client sent 'drop'
+L 12/27/2024 - 10:09:18: "Otto Fankin<8><STEAM_0:1:630235861><>" STEAM USERID validated
+L 12/27/2024 - 10:09:18: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:09:18: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:09:18: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 10:09:18: \Otto Fankin\STEAM_0:1:630235861\ connected from address 181.53.96.41:25281
+L 12/27/2024 - 10:09:18: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 10:09:22: Dropped Otto Fankin from server
+L 12/27/2024 - 10:09:22: Reason:  Client sent 'drop'
+L 12/27/2024 - 10:09:48: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:09:48: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:09:48: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 10:09:48: \Otto Fankin\STEAM_0:1:630235861\ connected from address 181.53.96.41:25281
+L 12/27/2024 - 10:09:48: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 10:09:48: "Otto Fankin<9><STEAM_0:1:630235861><>" STEAM USERID validated
+L 12/27/2024 - 10:09:57: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/27/2024 - 10:09:57: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:09:57: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/27/2024 - 10:09:57: \Otto Fankin\STEAM_0:1:630235861\ entered the game as gordon(30,6)
+L 12/27/2024 - 10:09:57: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:09:57: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:09:57: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:10:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:10:00: \Otto Fankin\STEAM_0:1:630235861\ Client version: Half-Life (OpenGL)
+L 12/27/2024 - 10:10:47: \Otto Fankin\STEAM_0:1:630235861\ committed suicide with "gluon gun"
+L 12/27/2024 - 10:10:51: \Otto Fankin\STEAM_0:1:630235861\ committed suicide with "gluon gun"
+L 12/27/2024 - 10:11:00: \Otto Fankin\STEAM_0:1:630235861\ committed suicide with "gluon gun"
+L 12/27/2024 - 10:11:03: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/27/2024 - 10:11:03: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/27/2024 - 10:11:03: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/27/2024 - 10:11:03: \Otto Fankin\STEAM_0:1:630235861\ disconnected with 5 points
+L 12/27/2024 - 10:11:03: Dropped Otto Fankin from server
+L 12/27/2024 - 10:11:03: Reason:  Client sent 'drop'
+L 12/27/2024 - 10:27:47: "1<10><STEAM_0:1:711337036><>" STEAM USERID validated
+L 12/27/2024 - 10:27:47: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:27:47: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:27:47: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 10:27:47: \1\STEAM_0:1:711337036\ connected from address 91.193.178.154:4354
+L 12/27/2024 - 10:27:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 10:27:52: Dropped 1 from server
+L 12/27/2024 - 10:27:52: Reason:  Client sent 'drop'
+L 12/27/2024 - 10:27:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:27:53: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 10:27:53: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 10:27:53: \1\STEAM_0:1:711337036\ connected from address 91.193.178.154:4354
+L 12/27/2024 - 10:27:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 10:27:53: "1<11><STEAM_0:1:711337036><>" STEAM USERID validated
+L 12/27/2024 - 10:27:59: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/27/2024 - 10:27:59: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:27:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/27/2024 - 10:27:59: \1\STEAM_0:1:711337036\ entered the game as gman(30,6)
+L 12/27/2024 - 10:28:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:28:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:28:00: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:28:03: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:28:03: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:28:03: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:28:03: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:28:03: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:28:03: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/27/2024 - 10:28:04: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/27/2024 - 10:28:04: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/27/2024 - 10:28:04: \1\STEAM_0:1:711337036\ Client version: Half-Life (OpenGL)
+L 12/27/2024 - 10:28:06: \1\STEAM_0:1:711337036\ killed by "Zombie"
+L 12/27/2024 - 10:28:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/27/2024 - 10:28:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/27/2024 - 10:28:14: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/27/2024 - 10:28:14: \1\STEAM_0:1:711337036\ disconnected with 5 points
+L 12/27/2024 - 10:28:14: Dropped 1 from server
+L 12/27/2024 - 10:28:14: Reason:  Client sent 'drop'
+L 12/27/2024 - 18:29:41: "Mata cabros<12><STEAM_0:0:635136569><>" STEAM USERID validated
+L 12/27/2024 - 18:29:41: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 18:29:41: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/27/2024 - 18:29:41: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/27/2024 - 18:29:41: \Mata cabros\STEAM_0:0:635136569\ connected from address 190.8.61.122:60684
+L 12/27/2024 - 18:29:41: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/27/2024 - 18:29:47: Dropped Mata cabros from server
+L 12/27/2024 - 18:29:47: Reason:  Client sent 'drop'
+L 12/28/2024 - 02:10:12: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 02:10:12: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 02:10:12: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 02:10:12: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 02:10:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 02:10:13: "glitch31415<13><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 02:10:14: Dropped glitch31415 from server
+L 12/28/2024 - 02:10:14: Reason:  Client sent 'drop'
+L 12/28/2024 - 02:10:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 02:10:14: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 02:10:14: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 02:10:14: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 02:10:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 02:10:14: "glitch31415<14><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 02:10:17: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/28/2024 - 02:10:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 02:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/28/2024 - 02:10:17: \glitch31415\STEAM_0:0:743386914\ entered the game as WireFrame(76,76)
+L 12/28/2024 - 02:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 02:10:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 02:10:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 02:10:18: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 02:10:18: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/28/2024 - 02:10:27: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:10:27: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:10:31: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:10:41: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:10:42: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:10:46: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:10:48: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:10:51: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:11:03: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:11:04: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:11:05: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:11:12: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:11:15: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/28/2024 - 02:11:19: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/28/2024 - 02:11:20: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:11:24: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/28/2024 - 02:11:29: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:11:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:11:43: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 12/28/2024 - 02:11:57: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 12/28/2024 - 02:11:57: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 12/28/2024 - 02:12:02: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 12/28/2024 - 02:12:09: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 12/28/2024 - 02:12:09: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 12/28/2024 - 02:12:09: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 12/28/2024 - 02:12:34: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:12:44: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:12:48: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:12:53: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:12:54: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 12/28/2024 - 02:13:08: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:13:11: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:13:12: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:13:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:13:18: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:13:22: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 12/28/2024 - 02:13:29: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 12/28/2024 - 02:13:36: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 1

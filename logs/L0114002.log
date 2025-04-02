@@ -1,0 +1,95 @@
+L 01/14/2025 - 12:57:03: Log file started (file "logs/L0114002.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 01/14/2025 - 12:57:03: Loading map "d1_town_01"
+L 01/14/2025 - 12:57:03: Server cvar "mp_soundvariety" = "0"
+L 01/14/2025 - 12:57:03: Server cvar "mp_soundvariety" = "1"
+L 01/14/2025 - 12:57:03: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 01/14/2025 - 12:57:03: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 01/14/2025 - 12:57:03: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 01/14/2025 - 12:57:03: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 01/14/2025 - 12:57:03: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 01/14/2025 - 12:57:03: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 01/14/2025 - 12:57:03: [META] (debug:3) Calling server.so:ServerActivate()
+L 01/14/2025 - 12:57:03: Server cvar "mp_nextmap" = "e1m1"
+L 01/14/2025 - 12:57:03: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 01/14/2025 - 12:57:03: Enemy stats: 34k health, 116 npcs
+L 01/14/2025 - 12:57:04: Started map "d1_town_01" (CRC "-1532292870")
+L 01/14/2025 - 12:57:07: \bot1\BOT\ connected from address 127.0.0.1
+L 01/14/2025 - 12:57:07: \bot1\BOT\ entered the game as ld_gordon(166,54)
+L 01/14/2025 - 12:57:07: \bot2\BOT\ connected from address 127.0.0.1
+L 01/14/2025 - 12:57:07: \bot2\BOT\ entered the game as ld_gordon(52,27)
+L 01/14/2025 - 12:57:07: \bot3\BOT\ connected from address 127.0.0.1
+L 01/14/2025 - 12:57:07: \bot3\BOT\ entered the game as ld_gordon(99,7)
+L 01/15/2025 - 05:08:25: "умер мистор гадю<4><STEAM_0:1:582725397><>" STEAM USERID validated
+L 01/15/2025 - 05:08:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:08:25: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:08:25: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/15/2025 - 05:08:25: \умер мистор гадю\STEAM_0:1:582725397\ connected from address 91.146.54.43:27005
+L 01/15/2025 - 05:08:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/15/2025 - 05:08:31: Dropped умер мистор гадю from server
+L 01/15/2025 - 05:08:31: Reason:  Client sent 'drop'
+L 01/15/2025 - 05:08:34: "умер мистор гадю<5><STEAM_0:1:582725397><>" STEAM USERID validated
+L 01/15/2025 - 05:08:34: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:08:34: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:08:34: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/15/2025 - 05:08:34: \умер мистор гадю\STEAM_0:1:582725397\ connected from address 91.146.54.43:27005
+L 01/15/2025 - 05:08:34: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/15/2025 - 05:08:43: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/15/2025 - 05:08:43: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:08:43: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/15/2025 - 05:08:43: \умер мистор гадю\STEAM_0:1:582725397\ entered the game as gman(30,6)
+L 01/15/2025 - 05:08:43: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:08:43: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:08:43: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:08:46: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:08:46: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:08:46: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:08:47: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:08:47: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:08:47: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:08:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:08:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:08:48: \умер мистор гадю\STEAM_0:1:582725397\ Client version: Half-Life (OpenGL)
+L 01/15/2025 - 05:08:55: \умер мистор гадю\STEAM_0:1:582725397\ killed by "Zombie"
+L 01/15/2025 - 05:09:07: \умер мистор гадю\STEAM_0:1:582725397\ killed "Zombie" with "gluon gun"
+L 01/15/2025 - 05:09:14: \умер мистор гадю\STEAM_0:1:582725397\ killed by "Injury"
+L 01/15/2025 - 05:10:58: \умер мистор гадю\STEAM_0:1:582725397\ killed "Headcrab" with "9mmAR"
+L 01/15/2025 - 05:11:16: \умер мистор гадю\STEAM_0:1:582725397\ killed by "Zombie"
+L 01/15/2025 - 05:13:10: \умер мистор гадю\STEAM_0:1:582725397\ killed by "Zombie"
+L 01/15/2025 - 05:13:57: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/15/2025 - 05:13:57: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/15/2025 - 05:13:57: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/15/2025 - 05:13:57: \умер мистор гадю\STEAM_0:1:582725397\ disconnected
+L 01/15/2025 - 05:13:57: Dropped умер мистор гадю from server
+L 01/15/2025 - 05:13:57: Reason:  Client sent 'drop'
+L 01/15/2025 - 05:13:58: "умер мистор гадю<6><STEAM_0:1:582725397><>" STEAM USERID validated
+L 01/15/2025 - 05:13:58: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:13:58: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:13:58: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/15/2025 - 05:13:58: \умер мистор гадю\STEAM_0:1:582725397\ connected from address 91.146.54.43:27005
+L 01/15/2025 - 05:13:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/15/2025 - 05:14:03: Dropped умер мистор гадю from server
+L 01/15/2025 - 05:14:03: Reason:  Client sent 'drop'
+L 01/15/2025 - 05:14:04: "умер мистор гадю<7><STEAM_0:1:582725397><>" STEAM USERID validated
+L 01/15/2025 - 05:14:04: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:14:04: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/15/2025 - 05:14:04: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/15/2025 - 05:14:04: \умер мистор гадю\STEAM_0:1:582725397\ connected from address 91.146.54.43:27005
+L 01/15/2025 - 05:14:04: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/15/2025 - 05:14:09: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/15/2025 - 05:14:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:14:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/15/2025 - 05:14:09: \умер мистор гадю\STEAM_0:1:582725397\ entered the game as gman(30,6)
+L 01/15/2025 - 05:14:09: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:14:09: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:14:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:14:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:14:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:14:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:14:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:14:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:14:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/15/2025 - 05:14:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/15/2025 - 05:14:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/15/2025 - 05:14:13: \умер мистор гадю\STEAM_0:1:582725397\ Client version: Half-Life (OpenGL)
+L 01/15/2025 - 05:14:26: \умер мистор гадю\STEAM_0:1:582725397\ killed "Zombie" with "gluon gun"
+L 01/15/2025 - 05:14:42: [META] (debug:3) Calling amxmodx_mm_i

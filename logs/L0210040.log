@@ -1,0 +1,80 @@
+L 02/10/2025 - 17:27:47: Log file started (file "logs/L0210040.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/10/2025 - 17:27:47: Loading map "hl_c01_a2"
+L 02/10/2025 - 17:27:47: Server cvar "mp_soundvariety" = "0"
+L 02/10/2025 - 17:27:47: Server cvar "mp_soundvariety" = "1"
+L 02/10/2025 - 17:27:47: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/10/2025 - 17:27:47: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/10/2025 - 17:27:47: Enemy stats: 0k health, 14 npcs
+L 02/10/2025 - 17:27:47: Started map "hl_c01_a2" (CRC "1581270535")
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/10/2025 - 17:27:47: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/10/2025 - 17:27:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/10/2025 - 17:27:48: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 17:27:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 17:27:48: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/10/2025 - 17:27:50: \bot1\BOT\ connected from address 127.0.0.1
+L 02/10/2025 - 17:27:50: \bot1\BOT\ entered the game as ld_gordon(47,192)
+L 02/10/2025 - 17:27:50: \bot3\BOT\ connected from address 127.0.0.1
+L 02/10/2025 - 17:27:50: \bot3\BOT\ entered the game as ld_gordon(125,243)
+L 02/10/2025 - 17:27:50: \bot2\BOT\ connected from address 127.0.0.1
+L 02/10/2025 - 17:27:50: \bot2\BOT\ entered the game as ld_gordon(221,133)
+L 02/10/2025 - 17:33:11: Server cvar "mp_nextmap" = "hl_c02_a1"
+L 02/10/2025 - 17:33:11: Server cvar "mp_chattime" = "5.000000"
+L 02/10/2025 - 17:33:14: Kick: "bot1<23><STEAM_0:0:9><>" was kicked by "Console"
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: Dropped bot1 from server
+L 02/10/2025 - 17:33:14: Reason:  Kicked
+L 02/10/2025 - 17:33:14: Kick: "bot3<24><STEAM_0:1:9><>" was kicked by "Console"
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: Dropped bot3 from server
+L 02/10/2025 - 17:33:14: Reason:  Kicked
+L 02/10/2025 - 17:33:14: Kick: "bot2<25><STEAM_0:0:10><>" was kicked by "Console"
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: Dropped bot2 from server
+L 02/10/2025 - 17:33:14: Reason:  Kicked
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 02/10/2025 - 17:33:14: Server cvar "mp_chattime" = "3.000000"
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 02/10/2025 - 17:33:14: \glitch31415\STEAM_0:0:743386914\ 0 points, 0 deaths
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 02/10/2025 - 17:33:14: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 02/10/2025 - 17:33:14: [META] ini: Read plugin config for: AMX Mod X
+L 02/10/2025 - 17:33:14: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 02/10/2025 - 17:33:14: [META] dll: Updating plugins...
+L 02/10/2025 - 17:33:14: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 02/10/2025 - 17:33:14: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/10/2025 - 17:33:14: Log file closed
+
+-------------------------------------------------------------------------------
+

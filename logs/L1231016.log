@@ -1,0 +1,206 @@
+L 12/31/2024 - 22:15:37: Log file started (file "logs/L1231016.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/31/2024 - 22:15:37: Loading map "d1_trainstation_02"
+L 12/31/2024 - 22:15:37: Server cvar "mp_soundvariety" = "0"
+L 12/31/2024 - 22:15:37: Server cvar "mp_soundvariety" = "1"
+L 12/31/2024 - 22:15:37: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/31/2024 - 22:15:37: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/31/2024 - 22:15:37: [META] ERROR: Couldn't find game entity 'env_model' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: env_model
+L 12/31/2024 - 22:15:37: [META] ERROR: Couldn't find game entity 'motion_manager' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: motion_manager
+L 12/31/2024 - 22:15:37: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/31/2024 - 22:15:37: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/31/2024 - 22:15:37: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/31/2024 - 22:15:37: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/31/2024 - 22:15:37: Server cvar "mp_nextmap" = "d1_town_01"
+L 12/31/2024 - 22:15:37: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/31/2024 - 22:15:37: Server cvar "amx_nextmap" = "d1_town_01"
+L 12/31/2024 - 22:15:37: Enemy stats: 0k health, 0 npcs
+L 12/31/2024 - 22:15:37: Started map "d1_trainstation_02" (CRC "652026196")
+L 12/31/2024 - 22:15:38: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 22:15:38: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 22:15:38: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/31/2024 - 22:15:38: \Virtualpunk\STEAM_0:0:102397735\ connected from address 37.112.171.175:27005
+L 12/31/2024 - 22:15:38: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/31/2024 - 22:15:40: \bot1\BOT\ connected from address 127.0.0.1
+L 12/31/2024 - 22:15:40: \bot1\BOT\ entered the game as ld_gordon(12,187)
+L 12/31/2024 - 22:15:40: \bot2\BOT\ connected from address 127.0.0.1
+L 12/31/2024 - 22:15:40: \bot2\BOT\ entered the game as ld_gordon(71,167)
+L 12/31/2024 - 22:15:40: \bot3\BOT\ connected from address 127.0.0.1
+L 12/31/2024 - 22:15:40: \bot3\BOT\ entered the game as ld_gordon(174,18)
+L 12/31/2024 - 22:15:43: Dropped Virtualpunk from server
+L 12/31/2024 - 22:15:43: Reason:  Client sent 'drop'
+L 12/31/2024 - 22:15:44: "Virtualpunk<9><STEAM_0:0:102397735><>" STEAM USERID validated
+L 12/31/2024 - 22:15:44: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 22:15:44: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 22:15:44: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/31/2024 - 22:15:44: \Virtualpunk\STEAM_0:0:102397735\ connected from address 37.112.171.175:27005
+L 12/31/2024 - 22:15:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/31/2024 - 22:15:50: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/31/2024 - 22:15:50: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 22:15:50: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/31/2024 - 22:15:50: \Virtualpunk\STEAM_0:0:102397735\ entered the game as barney(0,104)
+L 12/31/2024 - 22:15:50: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 22:15:50: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 22:15:50: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 22:15:52: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 22:15:52: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 22:15:52: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 22:15:52: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 22:15:52: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 22:15:52: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 22:15:53: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 22:15:53: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 22:15:53: \Virtualpunk\STEAM_0:0:102397735\ Client version: Half-Life (OpenGL)
+L 12/31/2024 - 22:16:00: \Virtualpunk\STEAM_0:0:102397735\ committed suicide with "rpg_rocket"
+L 12/31/2024 - 22:16:00: \Virtualpunk\STEAM_0:0:102397735\ killed "Scientist" with "rpg_rocket"
+L 12/31/2024 - 22:16:07: \Virtualpunk\STEAM_0:0:102397735\ killed "Scientist" with "gluon gun"
+L 12/31/2024 - 22:16:07: \Virtualpunk\STEAM_0:0:102397735\ killed "Scientist" with "gluon gun"
+L 12/31/2024 - 22:16:23: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/31/2024 - 22:16:23: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/31/2024 - 22:16:23: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/31/2024 - 22:16:23: \Virtualpunk\STEAM_0:0:102397735\ disconnected with 14 points
+L 12/31/2024 - 22:16:23: Dropped Virtualpunk from server
+L 12/31/2024 - 22:16:23: Reason:  Client sent 'drop'
+L 01/01/2025 - 11:57:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/01/2025 - 11:57:17: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/01/2025 - 11:57:17: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/01/2025 - 11:57:17: \143.42.54.115:27012\STEAM_0:0:145384402\ connected from address 38.25.17.240:60027
+L 01/01/2025 - 11:57:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/01/2025 - 11:57:17: "143.42.54.115:27012<10><STEAM_0:0:145384402><>" STEAM USERID validated
+L 01/01/2025 - 11:57:21: Dropped 143.42.54.115:27012 from server
+L 01/01/2025 - 11:57:21: Reason:  Client sent 'drop'
+L 01/01/2025 - 11:57:52: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/01/2025 - 11:57:52: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/01/2025 - 11:57:52: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/01/2025 - 11:57:52: \143.42.54.115:27012\STEAM_0:0:145384402\ connected from address 38.25.17.240:60027
+L 01/01/2025 - 11:57:52: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/01/2025 - 11:57:52: "143.42.54.115:27012<11><STEAM_0:0:145384402><>" STEAM USERID validated
+L 01/01/2025 - 11:57:57: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/01/2025 - 11:57:57: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/01/2025 - 11:57:57: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/01/2025 - 11:57:57: \143.42.54.115:27012\STEAM_0:0:145384402\ entered the game as gordon(30,6)
+L 01/01/2025 - 11:57:58: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/01/2025 - 11:57:58: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/01/2025 - 11:57:58: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/01/2025 - 11:57:59: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/01/2025 - 11:57:59: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/01/2025 - 11:57:59: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/01/2025 - 11:57:59: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/01/2025 - 11:57:59: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/01/2025 - 11:57:59: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/01/2025 - 11:58:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/01/2025 - 11:58:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/01/2025 - 11:58:00: \143.42.54.115:27012\STEAM_0:0:145384402\ Client version: Half-Life (OpenGL)
+L 01/01/2025 - 12:01:59: \143.42.54.115:27012\STEAM_0:0:145384402\ committed suicide with "grenade"
+L 01/01/2025 - 12:06:05: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/01/2025 - 12:06:05: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/01/2025 - 12:06:05: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/01/2025 - 12:06:05: \143.42.54.115:27012\STEAM_0:0:145384402\ disconnected with 13 points
+L 01/01/2025 - 12:06:05: Dropped 143.42.54.115:27012 from server
+L 01/01/2025 - 12:06:05: Reason:  Client sent 'drop'
+L 01/02/2025 - 06:11:00: "Banan<12><STEAM_0:1:88389653><>" STEAM USERID validated
+L 01/02/2025 - 06:11:00: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/02/2025 - 06:11:00: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/02/2025 - 06:11:00: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/02/2025 - 06:11:00: \Banan\STEAM_0:1:88389653\ connected from address 178.219.169.51:63132
+L 01/02/2025 - 06:11:00: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/02/2025 - 06:11:05: Dropped Banan from server
+L 01/02/2025 - 06:11:05: Reason:  Client sent 'drop'
+L 01/02/2025 - 06:11:38: "Banan<13><STEAM_0:1:88389653><>" STEAM USERID validated
+L 01/02/2025 - 06:11:38: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/02/2025 - 06:11:38: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/02/2025 - 06:11:38: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/02/2025 - 06:11:38: \Banan\STEAM_0:1:88389653\ connected from address 178.219.169.51:63132
+L 01/02/2025 - 06:11:38: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/02/2025 - 06:11:47: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/02/2025 - 06:11:47: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/02/2025 - 06:11:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/02/2025 - 06:11:47: \Banan\STEAM_0:1:88389653\ entered the game as helmet(78,30)
+L 01/02/2025 - 06:11:47: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/02/2025 - 06:11:47: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/02/2025 - 06:11:47: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/02/2025 - 06:11:49: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/02/2025 - 06:11:49: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/02/2025 - 06:11:49: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/02/2025 - 06:11:50: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/02/2025 - 06:11:50: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/02/2025 - 06:11:50: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/02/2025 - 06:11:50: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/02/2025 - 06:11:50: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/02/2025 - 06:11:50: \Banan\STEAM_0:1:88389653\ Client version: Half-Life (OpenGL)
+L 01/02/2025 - 06:13:06: \Banan\STEAM_0:1:88389653\ killed "Scientist" with "gluon gun"
+L 01/02/2025 - 06:13:33: \Banan\STEAM_0:1:88389653\ killed "Scientist" with "gluon gun"
+L 01/02/2025 - 06:17:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/02/2025 - 06:17:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/02/2025 - 06:17:07: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/02/2025 - 06:17:07: \Banan\STEAM_0:1:88389653\ disconnected with 3 points
+L 01/02/2025 - 06:17:07: Dropped Banan from server
+L 01/02/2025 - 06:17:07: Reason:  Client sent 'drop'
+L 01/03/2025 - 01:38:39: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/03/2025 - 01:38:39: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/03/2025 - 01:38:39: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/03/2025 - 01:38:39: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 01/03/2025 - 01:38:39: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/03/2025 - 01:38:39: "glitch31415<14><STEAM_0:0:743386914><>" STEAM USERID validated
+L 01/03/2025 - 01:38:40: Dropped glitch31415 from server
+L 01/03/2025 - 01:38:40: Reason:  Client sent 'drop'
+L 01/03/2025 - 01:38:41: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/03/2025 - 01:38:41: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/03/2025 - 01:38:41: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/03/2025 - 01:38:41: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 01/03/2025 - 01:38:41: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/03/2025 - 01:38:41: "glitch31415<15><STEAM_0:0:743386914><>" STEAM USERID validated
+L 01/03/2025 - 01:38:43: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/03/2025 - 01:38:43: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/03/2025 - 01:38:43: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/03/2025 - 01:38:43: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 01/03/2025 - 01:38:43: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/03/2025 - 01:38:43: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/03/2025 - 01:38:43: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/03/2025 - 01:38:44: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/03/2025 - 01:38:44: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 01/03/2025 - 01:38:53: Rcon: "rcon 308525930 "5pgW37D7ad" restart" from "127.0.0.1:27005"
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: \bot1\BOT\ disconnected
+L 01/03/2025 - 01:38:53: Dropped bot1 from server
+L 01/03/2025 - 01:38:53: Reason:  Dropping fakeclient on level change
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: \bot2\BOT\ disconnected
+L 01/03/2025 - 01:38:53: Dropped bot2 from server
+L 01/03/2025 - 01:38:53: Reason:  Dropping fakeclient on level change
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: \bot3\BOT\ disconnected
+L 01/03/2025 - 01:38:53: Dropped bot3 from server
+L 01/03/2025 - 01:38:53: Reason:  Dropping fakeclient on level change
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 01/03/2025 - 01:38:53: \glitch31415\STEAM_0:0:743386914\ 0 points, 0 deaths
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 01/03/2025 - 01:38:53: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 01/03/2025 - 01:38:53: [META] ini: Read plugin config for: AMX Mod X
+L 01/03/2025 - 01:38:53: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 01/03/2025 - 01:38:53: [META] dll: Updating plugins...
+L 01/03/2025 - 01:38:53: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 01/03/2025 - 01:38:53: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/03/2025 - 01:38:53: \glitch31415\STEAM_0:0:743386914\ disconnected
+L 01/03/2025 - 01:38:53: Log file closed
+
+-------------------------------------------------------------------------------
+

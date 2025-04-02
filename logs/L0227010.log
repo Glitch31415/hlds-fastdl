@@ -1,0 +1,202 @@
+L 02/27/2025 - 17:38:16: Log file started (file "logs/L0227010.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/27/2025 - 17:38:16: Loading map "sandbox"
+L 02/27/2025 - 17:38:16: [META] (debug:2) Resolved 'addons/amxmodx/modules/engine_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/engine_amxx_i386.so'
+L 02/27/2025 - 17:38:16: [ENGINE] dev: called: Meta_Query; version=5:13, ours=5:13
+L 02/27/2025 - 17:38:16: [ENGINE] dev: called: GetNewDLLFunctions; version=1
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Engine': Found GetNewDLLFunctions
+L 02/27/2025 - 17:38:16: [ENGINE] dev: called: GetNewDLLFunctions_Post; version=1
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Engine': Found GetNewDLLFunctions_Post
+L 02/27/2025 - 17:38:16: [ENGINE] dev: called: GetEntityAPI2; version=140
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Engine': Found GetEntityAPI2
+L 02/27/2025 - 17:38:16: [ENGINE] dev: called: GetEntityAPI2_Post; version=140
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Engine': Found GetEntityAPI2_Post
+L 02/27/2025 - 17:38:16: [ENGINE] dev: called: GetEngineFunctions; version=138
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Engine': Found GetEngineFunctions
+L 02/27/2025 - 17:38:16: [ENGINE] dev: called: GetEngineFunctions_Post; version=138
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Engine': Found GetEngineFunctions_Post
+L 02/27/2025 - 17:38:16: [META] dll: Loaded plugin 'Engine': Engine v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 02/27/2025 - 17:38:16: [META] (debug:1) Loaded plugin 'Engine' successfully
+L 02/27/2025 - 17:38:16: [META] (debug:2) Resolved 'addons/amxmodx/modules/fun_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/fun_amxx_i386.so'
+L 02/27/2025 - 17:38:16: [FUN] dev: called: Meta_Query; version=5:13, ours=5:13
+L 02/27/2025 - 17:38:16: [FUN] dev: called: GetNewDLLFunctions; version=1
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Fun': Found GetNewDLLFunctions
+L 02/27/2025 - 17:38:16: [FUN] dev: called: GetNewDLLFunctions_Post; version=1
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Fun': Found GetNewDLLFunctions_Post
+L 02/27/2025 - 17:38:16: [FUN] dev: called: GetEntityAPI2; version=140
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Fun': Found GetEntityAPI2
+L 02/27/2025 - 17:38:16: [FUN] dev: called: GetEntityAPI2_Post; version=140
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Fun': Found GetEntityAPI2_Post
+L 02/27/2025 - 17:38:16: [FUN] dev: called: GetEngineFunctions; version=138
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Fun': Found GetEngineFunctions
+L 02/27/2025 - 17:38:16: [FUN] dev: called: GetEngineFunctions_Post; version=138
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'Fun': Found GetEngineFunctions_Post
+L 02/27/2025 - 17:38:16: [META] dll: Loaded plugin 'Fun': Fun v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 02/27/2025 - 17:38:16: [META] (debug:1) Loaded plugin 'Fun' successfully
+L 02/27/2025 - 17:38:16: [META] (debug:2) Resolved 'addons/amxmodx/modules/fakemeta_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/fakemeta_amxx_i386.so'
+L 02/27/2025 - 17:38:16: [FAKEMETA] dev: called: Meta_Query; version=5:13, ours=5:13
+L 02/27/2025 - 17:38:16: [FAKEMETA] dev: called: GetNewDLLFunctions; version=1
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetNewDLLFunctions
+L 02/27/2025 - 17:38:16: [FAKEMETA] dev: called: GetNewDLLFunctions_Post; version=1
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetNewDLLFunctions_Post
+L 02/27/2025 - 17:38:16: [FAKEMETA] dev: called: GetEntityAPI2; version=140
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEntityAPI2
+L 02/27/2025 - 17:38:16: [FAKEMETA] dev: called: GetEntityAPI2_Post; version=140
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEntityAPI2_Post
+L 02/27/2025 - 17:38:16: [FAKEMETA] dev: called: GetEngineFunctions; version=138
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEngineFunctions
+L 02/27/2025 - 17:38:16: [FAKEMETA] dev: called: GetEngineFunctions_Post; version=138
+L 02/27/2025 - 17:38:16: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEngineFunctions_Post
+L 02/27/2025 - 17:38:16: [META] dll: Loaded plugin 'FakeMeta': FakeMeta v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 02/27/2025 - 17:38:16: [META] (debug:1) Loaded plugin 'FakeMeta' successfully
+L 02/27/2025 - 17:38:16: Server cvar "amxmodx_version" = "1.8.2"
+L 02/27/2025 - 17:38:16: Server cvar "mp_mergemodels" = "1"
+L 02/27/2025 - 17:38:16: Server cvar "sv_aim" = "0"
+L 02/27/2025 - 17:38:16: Server cvar "sv_clienttrace" = "3.5"
+L 02/27/2025 - 17:38:16: Server cvar "sv_ledgesize" = "64"
+L 02/27/2025 - 17:38:16: Server cvar "mp_chattime" = "3"
+L 02/27/2025 - 17:38:16: Server cvar "mp_friendlyfire" = "1"
+L 02/27/2025 - 17:38:16: Server cvar "mp_weaponstay" = "1"
+L 02/27/2025 - 17:38:16: Server cvar "pausable" = "0"
+L 02/27/2025 - 17:38:16: Server cvar "starthealth" = "100"
+L 02/27/2025 - 17:38:16: Server cvar "sv_allow_autoaim" = "0"
+L 02/27/2025 - 17:38:16: Server cvar "sv_maxrate" = "60000000"
+L 02/27/2025 - 17:38:16: Server cvar "sv_minrate" = "59999999"
+L 02/27/2025 - 17:38:16: Server cvar "mp_soundvariety" = "1"
+L 02/27/2025 - 17:38:16: Server cvar "mp_teamlist" = ""
+L 02/27/2025 - 17:38:16: Server cvar "mp_killfeed" = "3"
+L 02/27/2025 - 17:38:16: Server cvar "mp_respawndelay" = "0"
+L 02/27/2025 - 17:38:16: [META] (debug:3) Calling engine:AddServerCommand()
+L 02/27/2025 - 17:38:16: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/27/2025 - 17:38:16: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 17:38:16: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 17:38:16: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/27/2025 - 17:38:16: [META] ERROR: Couldn't find game entity 'monster_penguin' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_penguin
+L 02/27/2025 - 17:38:16: [META] ERROR: Couldn't find game entity 'monster_geneworm' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_geneworm
+L 02/27/2025 - 17:38:16: [META] ERROR: Couldn't find game entity 'monster_pitworm' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_pitworm
+L 02/27/2025 - 17:38:16: [META] ERROR: Couldn't find game entity 'monster_pitworm_up' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_pitworm_up
+L 02/27/2025 - 17:38:16: Server cvar "mp_nextmap" = "sc_test"
+L 02/27/2025 - 17:38:16: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/27/2025 - 17:38:16: Server cvar "amx_language" = "en"
+L 02/27/2025 - 17:38:16: Server cvar "amx_client_languages" = "1"
+L 02/27/2025 - 17:38:16: Server cvar "gal_version" = "v5.9.1-926"
+L 02/27/2025 - 17:38:16: Server cvar "Building_Blocks" = "1.4"
+L 02/27/2025 - 17:38:16: Server cvar "amx_client_languages" = "0"
+L 02/27/2025 - 17:38:16: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 02/27/2025 - 17:38:16: Server cvar "amx_nextmap" = "d1_trainstation_02"
+L 02/27/2025 - 17:38:17: Server cvar "amx_nextmap" = "d1_town_01"
+L 02/27/2025 - 17:38:17: Enemy stats: 33k health, 46+ npcs
+L 02/27/2025 - 17:38:17: Started map "sandbox" (CRC "1323732680")
+L 02/27/2025 - 17:38:17: Server cvar "mp_soundvariety" = "0"
+L 02/27/2025 - 17:38:17: Server cvar "mp_soundvariety" = "1"
+L 02/27/2025 - 17:38:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 17:38:17: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 17:38:17: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 17:38:17: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 17:38:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 17:38:18: "glitch31415<1><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/27/2025 - 17:38:18: Dropped glitch31415 from server
+L 02/27/2025 - 17:38:18: Reason:  Client sent 'drop'
+L 02/27/2025 - 17:38:19: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 17:38:19: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 17:38:19: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 17:38:19: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 17:38:19: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 17:38:19: "glitch31415<2><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/27/2025 - 17:38:20: \bot3\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 17:38:20: \bot3\BOT\ entered the game as ld_gordon(124,205)
+L 02/27/2025 - 17:38:20: \bot2\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 17:38:20: \bot2\BOT\ entered the game as ld_gordon(211,130)
+L 02/27/2025 - 17:38:20: \bot1\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 17:38:20: \bot1\BOT\ entered the game as ld_gordon(83,58)
+L 02/27/2025 - 17:38:21: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 17:38:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 17:38:21: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 17:38:21: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/27/2025 - 17:38:21: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 17:38:21: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 17:38:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 17:38:22: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 17:38:22: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/27/2025 - 17:38:29: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 17:38:29: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 17:38:29: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 17:38:30: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 17:38:37: \glitch31415\STEAM_0:0:743386914\ killed by "Apache"
+L 02/27/2025 - 17:38:38: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "grenade"
+L 02/27/2025 - 17:38:38: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "grenade"
+L 02/27/2025 - 17:38:38: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "grenade"
+L 02/27/2025 - 17:38:38: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 02/27/2025 - 17:38:38: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "grenade"
+L 02/27/2025 - 17:38:38: \glitch31415\STEAM_0:0:743386914\ killed "Alien Controller" with "grenade"
+L 02/27/2025 - 17:38:42: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:42: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:42: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:43: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:43: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:43: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "gluon gun"
+L 02/27/2025 - 17:38:44: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 02/27/2025 - 17:38:44: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:45: \glitch31415\STEAM_0:0:743386914\ killed "Bullsquid" with "gluon gun"
+L 02/27/2025 - 17:38:45: \glitch31415\STEAM_0:0:743386914\ killed "Big Momma" with "gluon gun"
+L 02/27/2025 - 17:38:45: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:46: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Baby Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Rat" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Rat" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "gluon gun"
+L 02/27/2025 - 17:38:47: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "gluon gun"
+L 02/27/2025 - 17:38:49: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "gluon gun"
+L 02/27/2025 - 17:38:50: \glitch31415\STEAM_0:0:743386914\ killed "Nihilanth" with "gluon gun"
+L 02/27/2025 - 17:38:57: \glitch31415\STEAM_0:0:743386914\ killed by "Big Momma"
+L 02/27/2025 - 17:39:06: \glitch31415\STEAM_0:0:743386914\ killed by "Big Momma"
+L 02/27/2025 - 17:39:08: Rcon: "rcon 740477752 "5pgW37D7ad" changelevel d1_trainstation_02" from "127.0.0.1:27005"
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: \bot3\BOT\ disconnected
+L 02/27/2025 - 17:39:08: Dropped bot3 from server
+L 02/27/2025 - 17:39:08: Reason:  Dropping fakeclient on level change
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: \bot2\BOT\ disconnected
+L 02/27/2025 - 17:39:08: Dropped bot2 from server
+L 02/27/2025 - 17:39:08: Reason:  Dropping fakeclient on level change
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: \bot1\BOT\ disconnected
+L 02/27/2025 - 17:39:08: Dropped bot1 from server
+L 02/27/2025 - 17:39:08: Reason:  Dropping fakeclient on level change
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 02/27/2025 - 17:39:08: \glitch31415\STEAM_0:0:743386914\ 70 points, 3 deaths
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 02/27/2025 - 17:39:08: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 02/27/2025 - 17:39:08: [META] ini: Read plugin config for: AMX Mod X
+L 02/27/2025 - 17:39:08: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 02/27/2025 - 17:39:08: [META] dll: Updating plugins...
+L 02/27/2025 - 17:39:08: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 02/27/2025 - 17:39:08: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 17:39:08: \glitch31415\STEAM_0:0:743386914\ disconnected with 70 points
+L 02/27/2025 - 17:39:08: Log file closed
+
+-------------------------------------------------------------------------------
+

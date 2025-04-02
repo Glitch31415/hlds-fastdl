@@ -1,0 +1,104 @@
+L 12/26/2024 - 20:07:09: Log file started (file "logs/L1226005.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/26/2024 - 20:07:09: Loading map "coolrig"
+L 12/26/2024 - 20:07:09: Server cvar "mp_soundvariety" = "0"
+L 12/26/2024 - 20:07:09: Server cvar "mp_soundvariety" = "1"
+L 12/26/2024 - 20:07:09: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/26/2024 - 20:07:09: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/26/2024 - 20:07:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/26/2024 - 20:07:09: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/26/2024 - 20:07:09: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/26/2024 - 20:07:09: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/26/2024 - 20:07:09: Server cvar "mp_nextmap" = "c1a0"
+L 12/26/2024 - 20:07:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/26/2024 - 20:07:09: Enemy stats: 0k health, 0 npcs
+L 12/26/2024 - 20:07:09: Started map "coolrig" (CRC "123047971")
+L 12/26/2024 - 20:07:12: \bot2\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 20:07:12: \bot2\BOT\ entered the game as ld_gordon(68,87)
+L 12/26/2024 - 20:07:12: \bot1\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 20:07:12: \bot1\BOT\ entered the game as ld_gordon(245,25)
+L 12/26/2024 - 20:07:12: \bot3\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 20:07:12: \bot3\BOT\ entered the game as ld_gordon(189,79)
+L 12/26/2024 - 20:56:05: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:05: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:05: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 20:56:05: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 20:56:05: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 20:56:05: "koolaid<4><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 20:56:09: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:09: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:09: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 20:56:09: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/26/2024 - 20:56:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 20:56:09: "glitch31415<5><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/26/2024 - 20:56:09: Dropped koolaid from server
+L 12/26/2024 - 20:56:09: Reason:  Client sent 'drop'
+L 12/26/2024 - 20:56:11: Dropped glitch31415 from server
+L 12/26/2024 - 20:56:11: Reason:  Client sent 'drop'
+L 12/26/2024 - 20:56:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 20:56:11: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/26/2024 - 20:56:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 20:56:11: "glitch31415<6><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/26/2024 - 20:56:14: \glitch31415\STEAM_0:0:743386914\ entered the game as WireFrame(76,76)
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 20:56:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 20:56:14: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/26/2024 - 20:56:23: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:23: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:23: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 20:56:23: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 20:56:23: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 20:56:23: "koolaid<7><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 20:56:43: Dropped koolaid from server
+L 12/26/2024 - 20:56:43: Reason:  Client sent 'drop'
+L 12/26/2024 - 20:56:58: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:58: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:56:58: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 20:56:58: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 20:56:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 20:56:59: "koolaid<8><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 20:57:03: Dropped koolaid from server
+L 12/26/2024 - 20:57:03: Reason:  Client sent 'drop'
+L 12/26/2024 - 20:57:09: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:57:09: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 20:57:09: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 20:57:09: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 20:57:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 20:57:09: "koolaid<9><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 21:07:29: Dropped koolaid from server
+L 12/26/2024 - 21:07:29: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:08:31: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:08:31: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:08:31: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:08:31: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 21:08:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:08:32: "koolaid<10><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 21:08:37: Dropped koolaid from server
+L 12/26/2024 - 21:08:37: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:08:47: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:08:47: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:08:47: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:08:47: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 21:08:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:08:47: "koolaid<11><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 21:13:28: \glitch31415\STEAM_0:0:743386914\ killed by "Door"
+L 12/26/2024 - 21:18:03: Dropped koolaid from server
+L 12/26/2024 - 21:18:03: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:18:05: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:18:05: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:18:05: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:18:05: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 21:18:05: [META] (debug:

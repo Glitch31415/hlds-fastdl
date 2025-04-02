@@ -1,0 +1,51 @@
+L 01/16/2025 - 16:08:45: Log file started (file "logs/L0116002.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 01/16/2025 - 16:08:45: Loading map "d1_town_01"
+L 01/16/2025 - 16:08:45: Server cvar "mp_soundvariety" = "0"
+L 01/16/2025 - 16:08:45: Server cvar "mp_soundvariety" = "1"
+L 01/16/2025 - 16:08:45: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 01/16/2025 - 16:08:45: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 01/16/2025 - 16:08:45: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 01/16/2025 - 16:08:45: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 01/16/2025 - 16:08:45: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 01/16/2025 - 16:08:45: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 01/16/2025 - 16:08:45: [META] (debug:3) Calling server.so:ServerActivate()
+L 01/16/2025 - 16:08:45: Server cvar "mp_nextmap" = "e1m1"
+L 01/16/2025 - 16:08:45: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 01/16/2025 - 16:08:46: Enemy stats: 34k health, 116 npcs
+L 01/16/2025 - 16:08:46: Started map "d1_town_01" (CRC "-1532292870")
+L 01/16/2025 - 16:08:49: \bot2\BOT\ connected from address 127.0.0.1
+L 01/16/2025 - 16:08:49: \bot2\BOT\ entered the game as ld_gordon(249,187)
+L 01/16/2025 - 16:08:49: \bot3\BOT\ connected from address 127.0.0.1
+L 01/16/2025 - 16:08:49: \bot3\BOT\ entered the game as ld_gordon(226,127)
+L 01/16/2025 - 16:08:50: \bot1\BOT\ connected from address 127.0.0.1
+L 01/16/2025 - 16:08:50: \bot1\BOT\ entered the game as ld_gordon(77,171)
+L 01/16/2025 - 17:39:49: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/16/2025 - 17:39:49: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/16/2025 - 17:39:49: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/16/2025 - 17:39:49: \roxy\STEAM_0:1:5863416\ connected from address 76.169.29.51:27005
+L 01/16/2025 - 17:39:49: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/16/2025 - 17:39:49: "roxy<4><STEAM_0:1:5863416><>" STEAM USERID validated
+L 01/16/2025 - 17:39:51: Dropped roxy from server
+L 01/16/2025 - 17:39:51: Reason:  Client sent 'drop'
+L 01/16/2025 - 17:39:55: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/16/2025 - 17:39:55: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/16/2025 - 17:39:55: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/16/2025 - 17:39:55: \roxy\STEAM_0:1:5863416\ connected from address 76.169.29.51:27005
+L 01/16/2025 - 17:39:55: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/16/2025 - 17:39:55: "roxy<5><STEAM_0:1:5863416><>" STEAM USERID validated
+L 01/16/2025 - 17:39:58: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/16/2025 - 17:39:58: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/16/2025 - 17:39:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/16/2025 - 17:39:59: \roxy\STEAM_0:1:5863416\ entered the game as gordon(162,189)
+L 01/16/2025 - 17:39:59: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/16/2025 - 17:39:59: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/16/2025 - 17:39:59: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/16/2025 - 17:40:00: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/16/2025 - 17:40:00

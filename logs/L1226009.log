@@ -1,0 +1,48 @@
+L 12/26/2024 - 21:21:28: Log file started (file "logs/L1226009.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/26/2024 - 21:21:28: Loading map "d1_trainstation_02"
+L 12/26/2024 - 21:21:28: Server cvar "mp_soundvariety" = "0"
+L 12/26/2024 - 21:21:28: Server cvar "mp_soundvariety" = "1"
+L 12/26/2024 - 21:21:28: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/26/2024 - 21:21:28: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/26/2024 - 21:21:28: [META] ERROR: Couldn't find game entity 'env_model' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: env_model
+L 12/26/2024 - 21:21:28: [META] ERROR: Couldn't find game entity 'motion_manager' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: motion_manager
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/26/2024 - 21:21:28: Server cvar "mp_nextmap" = "d1_town_01"
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/26/2024 - 21:21:28: Server cvar "amx_nextmap" = "d1_town_01"
+L 12/26/2024 - 21:21:28: Enemy stats: 0k health, 0 npcs
+L 12/26/2024 - 21:21:28: Started map "d1_trainstation_02" (CRC "652026196")
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:21:28: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:21:28: \Heisenberg\STEAM_0:0:246380363\ connected from address 190.109.45.142:27005
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:21:30: Dropped glitch31415 from server
+L 12/26/2024 - 21:21:30: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:21:30: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:30: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:30: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:21:30: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/26/2024 - 21:21:30: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:21:30: "glitch31415<12><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/26/2024 - 21:21:31: \bot1\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 21:21:31: \bot1\BOT\ entered the game as ld_gordon(47,21)
+L 12/26/2024 - 21:21:31: \bot3\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 21:21:31: \bot3\BOT\ entered the game as ld_gordon(134,14)
+L 12/26/2024 - 21:21:31: \bot2\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 21:21:31: \bot2\BOT\ entered the game as ld_gordon(212,188)
+L 12/26/2024 - 21:21:31: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/26/2024 - 21:21:31: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:21:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/26/2024 - 21:21:32: \glitch31415\STEAM_0:0:743386914\ entered the game as WireFrame(76,76)
+L 12/26/2024 - 21:21:32: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:21:32: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:21:32: [META] (debug:3) C

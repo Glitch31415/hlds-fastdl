@@ -1,0 +1,51 @@
+L 02/10/2025 - 13:37:06: Log file started (file "logs/L0210011.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/10/2025 - 13:37:06: Loading map "hl_c01_a1"
+L 02/10/2025 - 13:37:06: Server cvar "mp_soundvariety" = "0"
+L 02/10/2025 - 13:37:06: Server cvar "mp_soundvariety" = "1"
+L 02/10/2025 - 13:37:06: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/10/2025 - 13:37:06: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/10/2025 - 13:37:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/10/2025 - 13:37:06: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/10/2025 - 13:37:06: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/10/2025 - 13:37:06: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/10/2025 - 13:37:06: Server cvar "mp_nextmap" = "d1_trainstation_02"
+L 02/10/2025 - 13:37:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/10/2025 - 13:37:06: Enemy stats: 0k health, 0 npcs
+L 02/10/2025 - 13:37:06: Started map "hl_c01_a1" (CRC "-2111489946")
+L 02/10/2025 - 13:37:09: \bot1\BOT\ connected from address 127.0.0.1
+L 02/10/2025 - 13:37:09: \bot1\BOT\ entered the game as ld_gordon(110,188)
+L 02/10/2025 - 13:37:09: \bot3\BOT\ connected from address 127.0.0.1
+L 02/10/2025 - 13:37:09: \bot3\BOT\ entered the game as ld_gordon(253,206)
+L 02/10/2025 - 13:37:09: \bot2\BOT\ connected from address 127.0.0.1
+L 02/10/2025 - 13:37:09: \bot2\BOT\ entered the game as ld_gordon(140,71)
+L 02/10/2025 - 13:38:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/10/2025 - 13:38:08: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/10/2025 - 13:38:08: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/10/2025 - 13:38:08: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/10/2025 - 13:38:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/10/2025 - 13:38:09: "glitch31415<4><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/10/2025 - 13:38:10: Dropped glitch31415 from server
+L 02/10/2025 - 13:38:10: Reason:  Client sent 'drop'
+L 02/10/2025 - 13:38:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/10/2025 - 13:38:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/10/2025 - 13:38:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/10/2025 - 13:38:10: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/10/2025 - 13:38:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/10/2025 - 13:38:10: "glitch31415<5><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/10/2025 - 13:38:11: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/10/2025 - 13:38:11: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 13:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/10/2025 - 13:38:11: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/10/2025 - 13:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 13:38:11: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 13:38:11: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/10/2025 - 13:38:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/10/2025 - 13:38:12: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/10/2025 - 13:38:33: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "sh

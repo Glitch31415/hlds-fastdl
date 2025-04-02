@@ -1,0 +1,50 @@
+L 03/27/2025 - 21:05:19: Log file started (file "logs/L0327021.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 03/27/2025 - 21:05:19: Loading map "boot_camp_sandbox"
+L 03/27/2025 - 21:05:19: Server cvar "mp_soundvariety" = "0"
+L 03/27/2025 - 21:05:19: Server cvar "mp_soundvariety" = "1"
+L 03/27/2025 - 21:05:19: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 03/27/2025 - 21:05:19: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 03/27/2025 - 21:05:19: [META] ERROR: Couldn't find game entity 'info_intermission' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_intermission
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling server.so:ServerActivate()
+L 03/27/2025 - 21:05:19: Server cvar "mp_nextmap" = "d1_town_03_sandbox"
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 03/27/2025 - 21:05:19: Enemy stats: 0k health, 0 npcs
+L 03/27/2025 - 21:05:19: Started map "boot_camp_sandbox" (CRC "-2076798411")
+L 03/27/2025 - 21:05:19: "glitch31415<1><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/27/2025 - 21:05:19: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/27/2025 - 21:05:19: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/27/2025 - 21:05:20: Dropped glitch31415 from server
+L 03/27/2025 - 21:05:20: Reason:  Client sent 'drop'
+L 03/27/2025 - 21:05:21: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/27/2025 - 21:05:21: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/27/2025 - 21:05:21: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/27/2025 - 21:05:21: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/27/2025 - 21:05:21: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/27/2025 - 21:05:21: "glitch31415<2><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/27/2025 - 21:05:22: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/27/2025 - 21:05:22: \bot3\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 21:05:22: \bot3\BOT\ entered the game as ld_gordon(124,236)
+L 03/27/2025 - 21:05:22: \bot2\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 21:05:22: \bot2\BOT\ entered the game as ld_gordon(218,129)
+L 03/27/2025 - 21:05:22: \bot1\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 21:05:22: \bot1\BOT\ entered the game as ld_gordon(119,40)
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/27/2025 - 21:05:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/27/2025 - 21:

@@ -1,0 +1,206 @@
+L 01/05/2025 - 10:31:59: Log file started (file "logs/L0105000.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 01/05/2025 - 10:31:59: Loading map "d1_town_01"
+L 01/05/2025 - 10:31:59: Server cvar "mp_soundvariety" = "0"
+L 01/05/2025 - 10:31:59: Server cvar "mp_soundvariety" = "1"
+L 01/05/2025 - 10:31:59: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 01/05/2025 - 10:31:59: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 01/05/2025 - 10:31:59: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling server.so:ServerActivate()
+L 01/05/2025 - 10:31:59: Server cvar "mp_nextmap" = "e1m1"
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 01/05/2025 - 10:31:59: Server cvar "amx_nextmap" = "sandbox"
+L 01/05/2025 - 10:31:59: Enemy stats: 34k health, 116 npcs
+L 01/05/2025 - 10:31:59: Started map "d1_town_01" (CRC "-1532292870")
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:31:59: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:31:59: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 01/05/2025 - 10:31:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:32:01: Dropped glitch31415 from server
+L 01/05/2025 - 10:32:01: Reason:  Client sent 'drop'
+L 01/05/2025 - 10:32:01: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:32:01: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:32:01: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:32:01: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 01/05/2025 - 10:32:01: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:32:01: "glitch31415<40><STEAM_0:0:743386914><>" STEAM USERID validated
+L 01/05/2025 - 10:32:02: \bot3\BOT\ connected from address 127.0.0.1
+L 01/05/2025 - 10:32:02: \bot3\BOT\ entered the game as ld_gordon(248,79)
+L 01/05/2025 - 10:32:02: Dropped koolaid from server
+L 01/05/2025 - 10:32:02: Reason:  Client sent 'drop'
+L 01/05/2025 - 10:32:02: \bot2\BOT\ connected from address 127.0.0.1
+L 01/05/2025 - 10:32:02: \bot2\BOT\ entered the game as ld_gordon(195,39)
+L 01/05/2025 - 10:32:02: \bot1\BOT\ connected from address 127.0.0.1
+L 01/05/2025 - 10:32:02: \bot1\BOT\ entered the game as ld_gordon(218,9)
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:32:03: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:32:03: "koolaid<44><STEAM_0:1:541489370><>" STEAM USERID validated
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/05/2025 - 10:32:03: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:03: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:04: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:04: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 01/05/2025 - 10:32:06: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:06: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/05/2025 - 10:32:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/05/2025 - 10:32:06: \koolaid\STEAM_0:1:541489370\ entered the game as tower(76,76)
+L 01/05/2025 - 10:32:06: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:06: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:07: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:07: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:07: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:07: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:07: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:07: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:07: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:32:08: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:32:08: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:32:08: \koolaid\STEAM_0:1:541489370\ Client version: Adrenaline Gamer (OpenGL)
+L 01/05/2025 - 10:32:08: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:09: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:14: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:14: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:17: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:17: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:17: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:17: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:21: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:21: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:21: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:21: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:22: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:32:23: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:32:24: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:32:24: \koolaid\STEAM_0:1:541489370\ killed "Headcrab" with "grenade"
+L 01/05/2025 - 10:32:25: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:32:27: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:32:29: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:32:29: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:29: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:29: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:30: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:32:34: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:32:34: \glitch31415\STEAM_0:0:743386914\ killed by \koolaid\STEAM_0:1:541489370\ with "grenade"
+L 01/05/2025 - 10:32:42: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:32:42: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:46: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:32:47: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:32:48: \koolaid\STEAM_0:1:541489370\ killed "Headcrab" with "9mmAR"
+L 01/05/2025 - 10:32:52: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:32:57: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:32:57: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:57: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:32:57: \glitch31415\STEAM_0:0:743386914\ killed by "Pushable Explosives"
+L 01/05/2025 - 10:33:03: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:33:03: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:33:11: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:33:12: \koolaid\STEAM_0:1:541489370\ say "damn how far can the explosives reach"
+L 01/05/2025 - 10:33:20: \koolaid\STEAM_0:1:541489370\ killed by "Injury"
+L 01/05/2025 - 10:33:23: \glitch31415\STEAM_0:0:743386914\ say "infinite, it just falls off"
+L 01/05/2025 - 10:33:36: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:33:36: \glitch31415\STEAM_0:0:743386914\ killed by "Pushable Explosives"
+L 01/05/2025 - 10:33:41: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "9mmAR"
+L 01/05/2025 - 10:33:43: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:33:45: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:33:45: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:33:51: \glitch31415\STEAM_0:0:743386914\ say "i might nerf it a bit, but it's pretty close"
+L 01/05/2025 - 10:33:54: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 01/05/2025 - 10:33:55: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 01/05/2025 - 10:33:56: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "shotgun"
+L 01/05/2025 - 10:34:08: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:34:27: \koolaid\STEAM_0:1:541489370\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:34:27: \koolaid\STEAM_0:1:541489370\ killed "Headcrab" with "grenade"
+L 01/05/2025 - 10:34:31: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:34:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:34:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:34:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:34:35: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:34:52: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:34:52: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:34:56: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:34:59: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:35:06: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "grenade"
+L 01/05/2025 - 10:35:13: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:35:19: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 01/05/2025 - 10:35:39: \glitch31415\STEAM_0:0:743386914\ committed suicide with "grenade"
+L 01/05/2025 - 10:35:39: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:35:46: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:35:46: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:35:48: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 01/05/2025 - 10:35:51: \koolaid\STEAM_0:1:541489370\ committed suicide with "grenade"
+L 01/05/2025 - 10:36:21: \glitch31415\STEAM_0:0:743386914\ say "you can spawn stuff in btw"
+L 01/05/2025 - 10:36:23: \glitch31415\STEAM_0:0:743386914\ say "cheats are on"
+L 01/05/2025 - 10:36:29: \koolaid\STEAM_0:1:541489370\ say "yea"
+L 01/05/2025 - 10:37:26: \koolaid\STEAM_0:1:541489370\ say "youy hjve spawend in some stuff"
+L 01/05/2025 - 10:37:30: \glitch31415\STEAM_0:0:743386914\ say "lmao"
+L 01/05/2025 - 10:37:31: \glitch31415\STEAM_0:0:743386914\ say "rtv"
+L 01/05/2025 - 10:37:58: \glitch31415\STEAM_0:0:743386914\ killed by "Nihilanth"
+L 01/05/2025 - 10:38:02: \glitch31415\STEAM_0:0:743386914\ killed by "Nihilanth"
+L 01/05/2025 - 10:38:07: Server cvar "amx_nextmap" = "d1_trainstation_02"
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: \bot3\BOT\ disconnected
+L 01/05/2025 - 10:38:11: Dropped bot3 from server
+L 01/05/2025 - 10:38:11: Reason:  Dropping fakeclient on level change
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: \bot2\BOT\ disconnected
+L 01/05/2025 - 10:38:11: Dropped bot2 from server
+L 01/05/2025 - 10:38:11: Reason:  Dropping fakeclient on level change
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: \bot1\BOT\ disconnected
+L 01/05/2025 - 10:38:11: Dropped bot1 from server
+L 01/05/2025 - 10:38:11: Reason:  Dropping fakeclient on level change
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 01/05/2025 - 10:38:11: \koolaid\STEAM_0:1:541489370\ 183 points, 11 deaths
+L 01/05/2025 - 10:38:11: \glitch31415\STEAM_0:0:743386914\ 302 points, 6 deaths
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 01/05/2025 - 10:38:11: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 01/05/2025 - 10:38:11: [META] ini: Read plugin config for: AMX Mod X
+L 01/05/2025 - 10:38:11: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 01/05/2025 - 10:38:11: [META] dll: Updating plugins...
+L 01/05/2025 - 10:38:11: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 01/05/2025 - 10:38:11: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: \koolaid\STEAM_0:1:541489370\ disconnected with 183 points
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:38:11: \glitch31415\STEAM_0:0:743386914\ disconnected with 302 points
+L 01/05/2025 - 10:38:11: Log file closed
+
+-------------------------------------------------------------------------------
+

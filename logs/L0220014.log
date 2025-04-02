@@ -1,0 +1,550 @@
+L 02/20/2025 - 15:49:25: Log file started (file "logs/L0220014.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/20/2025 - 15:49:25: Loading map "hldm_2fort"
+L 02/20/2025 - 15:49:25: Server cvar "mp_soundvariety" = "0"
+L 02/20/2025 - 15:49:25: Server cvar "mp_soundvariety" = "1"
+L 02/20/2025 - 15:49:25: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/20/2025 - 15:49:25: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/20/2025 - 15:49:25: Enemy stats: 0k health, 0 npcs
+L 02/20/2025 - 15:49:25: Started map "hldm_2fort" (CRC "579208788")
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/20/2025 - 15:49:25: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/20/2025 - 15:49:27: Dropped glitch31415 from server
+L 02/20/2025 - 15:49:27: Reason:  Client sent 'drop'
+L 02/20/2025 - 15:49:27: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:49:27: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:49:27: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/20/2025 - 15:49:27: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/20/2025 - 15:49:27: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/20/2025 - 15:49:28: "glitch31415<10><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/20/2025 - 15:49:28: \bot1\BOT\ connected from address 127.0.0.1
+L 02/20/2025 - 15:49:28: \bot1\BOT\ entered the game as ld_gordon(38,28)
+L 02/20/2025 - 15:49:28: \bot3\BOT\ connected from address 127.0.0.1
+L 02/20/2025 - 15:49:28: \bot3\BOT\ entered the game as ld_gordon(0,123)
+L 02/20/2025 - 15:49:29: \bot2\BOT\ connected from address 127.0.0.1
+L 02/20/2025 - 15:49:29: \bot2\BOT\ entered the game as ld_gordon(48,131)
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/20/2025 - 15:49:29: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:49:29: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:49:29: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/20/2025 - 15:49:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:33: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:33: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/20/2025 - 15:49:33: \glitch31415\STEAM_0:0:743386914\ disconnected
+L 02/20/2025 - 15:49:33: Dropped glitch31415 from server
+L 02/20/2025 - 15:49:33: Reason:  Client sent 'drop'
+L 02/22/2025 - 06:17:00: "emigamersepulveda ＃TF2EASY<14><STEAM_0:1:918988212><>" STEAM USERID validated
+L 02/22/2025 - 06:17:00: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 06:17:00: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 06:17:00: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/22/2025 - 06:17:00: \emigamersepulveda ＃TF2EASY\STEAM_0:1:918988212\ connected from address 186.105.34.161:27005
+L 02/22/2025 - 06:17:00: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/22/2025 - 06:17:04: Dropped emigamersepulveda ＃TF2EASY from server
+L 02/22/2025 - 06:17:04: Reason:  Client sent 'drop'
+L 02/22/2025 - 06:17:30: "emigamersepulveda ＃TF2EASY<15><STEAM_0:1:918988212><>" STEAM USERID validated
+L 02/22/2025 - 06:17:30: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 06:17:30: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 06:17:30: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/22/2025 - 06:17:30: \emigamersepulveda ＃TF2EASY\STEAM_0:1:918988212\ connected from address 186.105.34.161:27005
+L 02/22/2025 - 06:17:30: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/22/2025 - 06:17:32: Dropped emigamersepulveda ＃TF2EASY from server
+L 02/22/2025 - 06:17:32: Reason:  Client sent 'drop'
+L 02/22/2025 - 07:58:34: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 07:58:34: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 07:58:34: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/22/2025 - 07:58:34: \march\STEAM_0:0:773873532\ connected from address 181.64.193.6:26603
+L 02/22/2025 - 07:58:34: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/22/2025 - 07:58:34: "march<16><STEAM_0:0:773873532><>" STEAM USERID validated
+L 02/22/2025 - 07:58:38: Dropped march from server
+L 02/22/2025 - 07:58:38: Reason:  Client sent 'drop'
+L 02/22/2025 - 14:22:37: "robocop<17><STEAM_0:0:120992978><>" STEAM USERID validated
+L 02/22/2025 - 14:22:37: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 14:22:37: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 14:22:37: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/22/2025 - 14:22:37: \robocop\STEAM_0:0:120992978\ connected from address 73.45.137.95:27005
+L 02/22/2025 - 14:22:37: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/22/2025 - 14:22:41: Dropped robocop from server
+L 02/22/2025 - 14:22:41: Reason:  Client sent 'drop'
+L 02/22/2025 - 14:23:05: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 14:23:05: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 14:23:05: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/22/2025 - 14:23:05: \robocop\STEAM_0:0:120992978\ connected from address 73.45.137.95:27005
+L 02/22/2025 - 14:23:05: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/22/2025 - 14:23:05: "robocop<18><STEAM_0:0:120992978><>" STEAM USERID validated
+L 02/22/2025 - 14:23:15: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/22/2025 - 14:23:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 14:23:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/22/2025 - 14:23:15: \robocop\STEAM_0:0:120992978\ entered the game as robo(83,83)
+L 02/22/2025 - 14:23:15: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 14:23:15: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 14:23:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 14:23:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 14:23:17: \robocop\STEAM_0:0:120992978\ Client version: Half-Life (OpenGL)
+L 02/22/2025 - 14:24:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/22/2025 - 14:24:12: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/22/2025 - 14:24:12: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/22/2025 - 14:24:12: \robocop\STEAM_0:0:120992978\ disconnected
+L 02/22/2025 - 14:24:12: Dropped robocop from server
+L 02/22/2025 - 14:24:12: Reason:  Client sent 'drop'
+L 02/22/2025 - 22:01:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 22:01:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 22:01:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/22/2025 - 22:01:11: \danman\STEAM_0:1:456206633\ connected from address 154.5.50.158:27005
+L 02/22/2025 - 22:01:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/22/2025 - 22:01:11: "danman<19><STEAM_0:1:456206633><>" STEAM USERID validated
+L 02/22/2025 - 22:01:13: Dropped danman from server
+L 02/22/2025 - 22:01:13: Reason:  Client sent 'drop'
+L 02/22/2025 - 22:01:43: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 22:01:43: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/22/2025 - 22:01:43: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/22/2025 - 22:01:43: \danman\STEAM_0:1:456206633\ connected from address 154.5.50.158:27005
+L 02/22/2025 - 22:01:43: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/22/2025 - 22:01:43: "danman<20><STEAM_0:1:456206633><>" STEAM USERID validated
+L 02/22/2025 - 22:01:47: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/22/2025 - 22:01:47: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 22:01:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/22/2025 - 22:01:47: \danman\STEAM_0:1:456206633\ entered the game as gordon(0,8)
+L 02/22/2025 - 22:01:47: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 22:01:47: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 22:01:47: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/22/2025 - 22:01:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/22/2025 - 22:01:48: \danman\STEAM_0:1:456206633\ Client version: Half-Life (Software)
+L 02/22/2025 - 22:03:01: \danman\STEAM_0:1:456206633\ committed suicide with "gluon gun"
+L 02/22/2025 - 22:04:00: \danman\STEAM_0:1:456206633\ committed suicide with "grenade"
+L 02/22/2025 - 22:04:22: \danman\STEAM_0:1:456206633\ committed suicide with "gluon gun"
+L 02/22/2025 - 22:04:29: \danman\STEAM_0:1:456206633\ committed suicide with "gluon gun"
+L 02/22/2025 - 22:04:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/22/2025 - 22:04:31: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/22/2025 - 22:04:31: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/22/2025 - 22:04:31: \danman\STEAM_0:1:456206633\ disconnected
+L 02/22/2025 - 22:04:31: Dropped danman from server
+L 02/22/2025 - 22:04:31: Reason:  Client sent 'drop'
+L 02/23/2025 - 12:02:19: "Kitty<21><STEAM_0:0:913175507><>" STEAM USERID validated
+L 02/23/2025 - 12:02:19: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 12:02:19: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 12:02:19: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 12:02:19: \Kitty\STEAM_0:0:913175507\ connected from address 190.0.124.246:27005
+L 02/23/2025 - 12:02:19: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 12:02:26: Dropped Kitty from server
+L 02/23/2025 - 12:02:26: Reason:  Client sent 'drop'
+L 02/23/2025 - 12:02:41: "Kitty<22><STEAM_0:0:913175507><>" STEAM USERID validated
+L 02/23/2025 - 12:02:41: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 12:02:41: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 12:02:41: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 12:02:41: \Kitty\STEAM_0:0:913175507\ connected from address 190.0.124.246:27005
+L 02/23/2025 - 12:02:41: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 12:03:09: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/23/2025 - 12:03:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 12:03:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/23/2025 - 12:03:09: \Kitty\STEAM_0:0:913175507\ entered the game as zombie(14,222)
+L 02/23/2025 - 12:03:09: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 12:03:09: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 12:03:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 12:03:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 12:03:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 12:03:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 12:03:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 12:03:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 12:03:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 12:03:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 12:03:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 12:03:13: \Kitty\STEAM_0:0:913175507\ Client version: Half-Life (OpenGL)
+L 02/23/2025 - 12:03:43: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/23/2025 - 12:03:43: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/23/2025 - 12:03:43: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/23/2025 - 12:03:43: \Kitty\STEAM_0:0:913175507\ disconnected
+L 02/23/2025 - 12:03:43: Dropped Kitty from server
+L 02/23/2025 - 12:03:43: Reason:  Client sent 'drop'
+L 02/23/2025 - 13:34:39: "REYpoeta<23><STEAM_0:1:59336070><>" STEAM USERID validated
+L 02/23/2025 - 13:34:39: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 13:34:39: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 13:34:39: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 13:34:39: \REYpoeta\STEAM_0:1:59336070\ connected from address 201.230.249.179:27005
+L 02/23/2025 - 13:34:39: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 13:34:44: Dropped REYpoeta from server
+L 02/23/2025 - 13:34:44: Reason:  Client sent 'drop'
+L 02/23/2025 - 17:12:59: "glitch31415<24><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/23/2025 - 17:12:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:12:59: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:12:59: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 17:12:59: \glitch31415\STEAM_0:0:743386914\ connected from address 174.247.179.96:3602
+L 02/23/2025 - 17:12:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 17:13:05: Dropped glitch31415 from server
+L 02/23/2025 - 17:13:05: Reason:  Client sent 'drop'
+L 02/23/2025 - 17:13:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:13:07: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:13:07: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 17:13:07: \glitch31415\STEAM_0:0:743386914\ connected from address 174.247.179.96:3602
+L 02/23/2025 - 17:13:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 17:13:07: "glitch31415<25><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/23/2025 - 17:13:17: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/23/2025 - 17:13:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:13:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/23/2025 - 17:13:17: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/23/2025 - 17:13:18: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:13:18: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:13:18: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:13:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:13:19: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (Software)
+L 02/23/2025 - 17:14:26: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/23/2025 - 17:14:26: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/23/2025 - 17:14:26: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/23/2025 - 17:14:26: \glitch31415\STEAM_0:0:743386914\ disconnected
+L 02/23/2025 - 17:14:26: Dropped glitch31415 from server
+L 02/23/2025 - 17:14:26: Reason:  Timed out
+L 02/23/2025 - 17:19:15: "glitch31415<26><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/23/2025 - 17:19:15: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:19:15: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:19:15: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 17:19:15: \glitch31415\STEAM_0:0:743386914\ connected from address 174.247.179.96:3589
+L 02/23/2025 - 17:19:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 17:19:24: Dropped glitch31415 from server
+L 02/23/2025 - 17:19:24: Reason:  Client sent 'drop'
+L 02/23/2025 - 17:19:26: "glitch31415<27><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/23/2025 - 17:19:26: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:19:26: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 17:19:26: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 17:19:26: \glitch31415\STEAM_0:0:743386914\ connected from address 174.247.179.96:3589
+L 02/23/2025 - 17:19:26: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 17:19:39: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/23/2025 - 17:19:39: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:19:39: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/23/2025 - 17:19:39: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/23/2025 - 17:19:39: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:19:39: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:19:39: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 17:19:42: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 17:19:42: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (Software)
+L 02/23/2025 - 17:20:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/23/2025 - 17:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/23/2025 - 17:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/23/2025 - 17:21:14: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/23/2025 - 17:25:18: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/23/2025 - 17:25:18: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/23/2025 - 17:25:18: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/23/2025 - 17:25:18: \glitch31415\STEAM_0:0:743386914\ disconnected with 12 points
+L 02/23/2025 - 17:25:18: Dropped glitch31415 from server
+L 02/23/2025 - 17:25:18: Reason:  Client sent 'drop'
+L 02/23/2025 - 21:51:28: "HLDM.org N6409<28><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/23/2025 - 21:51:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:51:28: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:51:28: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 21:51:28: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/23/2025 - 21:51:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 21:51:35: Dropped HLDM.org N6409 from server
+L 02/23/2025 - 21:51:35: Reason:  Client sent 'drop'
+L 02/23/2025 - 21:51:41: "HLDM.org N6409<29><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/23/2025 - 21:51:41: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:51:41: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:51:41: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 21:51:41: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/23/2025 - 21:51:41: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 21:51:48: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/23/2025 - 21:51:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:51:48: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/23/2025 - 21:51:48: \HLDM.org N6409\STEAM_0:1:630237931\ entered the game as barney(158,161)
+L 02/23/2025 - 21:51:48: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:51:48: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:51:48: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:51:50: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:51:50: \HLDM.org N6409\STEAM_0:1:630237931\ Client version: Half-Life (OpenGL)
+L 02/23/2025 - 21:52:34: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "bolt"
+L 02/23/2025 - 21:52:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/23/2025 - 21:52:47: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/23/2025 - 21:52:47: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/23/2025 - 21:52:47: \HLDM.org N6409\STEAM_0:1:630237931\ disconnected
+L 02/23/2025 - 21:52:47: Dropped HLDM.org N6409 from server
+L 02/23/2025 - 21:52:47: Reason:  Client sent 'drop'
+L 02/23/2025 - 21:54:50: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:54:50: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:54:50: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 21:54:50: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/23/2025 - 21:54:50: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 21:54:50: "HLDM.org N6409<30><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/23/2025 - 21:54:55: Dropped HLDM.org N6409 from server
+L 02/23/2025 - 21:54:55: Reason:  Client sent 'drop'
+L 02/23/2025 - 21:54:56: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:54:56: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:54:56: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 21:54:56: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/23/2025 - 21:54:56: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 21:54:56: "HLDM.org N6409<31><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/23/2025 - 21:55:00: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/23/2025 - 21:55:00: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:55:00: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/23/2025 - 21:55:01: \HLDM.org N6409\STEAM_0:1:630237931\ entered the game as barney(158,161)
+L 02/23/2025 - 21:55:01: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:55:01: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:55:01: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:55:02: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:55:02: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:55:02: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:55:02: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:55:02: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:55:02: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:55:03: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:55:03: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:55:03: \HLDM.org N6409\STEAM_0:1:630237931\ Client version: Half-Life (OpenGL)
+L 02/23/2025 - 21:56:27: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/23/2025 - 21:56:27: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/23/2025 - 21:56:27: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/23/2025 - 21:56:27: \HLDM.org N6409\STEAM_0:1:630237931\ disconnected
+L 02/23/2025 - 21:56:27: Dropped HLDM.org N6409 from server
+L 02/23/2025 - 21:56:27: Reason:  Client sent 'drop'
+L 02/23/2025 - 21:57:06: "HLDM.org N6409<32><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/23/2025 - 21:57:06: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:57:06: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:57:06: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 21:57:06: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/23/2025 - 21:57:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 21:57:10: Dropped HLDM.org N6409 from server
+L 02/23/2025 - 21:57:10: Reason:  Client sent 'drop'
+L 02/23/2025 - 21:57:11: "HLDM.org N6409<33><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/23/2025 - 21:57:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:57:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/23/2025 - 21:57:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/23/2025 - 21:57:11: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/23/2025 - 21:57:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/23/2025 - 21:57:16: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/23/2025 - 21:57:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:57:16: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/23/2025 - 21:57:16: \HLDM.org N6409\STEAM_0:1:630237931\ entered the game as barney(158,161)
+L 02/23/2025 - 21:57:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:57:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:57:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/23/2025 - 21:57:18: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/23/2025 - 21:57:18: \HLDM.org N6409\STEAM_0:1:630237931\ Client version: Half-Life (OpenGL)
+L 02/23/2025 - 21:58:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/23/2025 - 21:58:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/23/2025 - 21:58:17: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/23/2025 - 21:58:17: \HLDM.org N6409\STEAM_0:1:630237931\ disconnected
+L 02/23/2025 - 21:58:17: Dropped HLDM.org N6409 from server
+L 02/23/2025 - 21:58:17: Reason:  Client sent 'drop'
+L 02/24/2025 - 03:25:00: "HLDM.org N6409<34><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/24/2025 - 03:25:00: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:25:00: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:25:00: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 03:25:00: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/24/2025 - 03:25:00: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 03:25:05: Dropped HLDM.org N6409 from server
+L 02/24/2025 - 03:25:05: Reason:  Client sent 'drop'
+L 02/24/2025 - 03:25:06: "HLDM.org N6409<35><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/24/2025 - 03:25:06: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:25:06: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:25:06: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 03:25:06: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/24/2025 - 03:25:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 03:25:14: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/24/2025 - 03:25:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:25:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/24/2025 - 03:25:14: \HLDM.org N6409\STEAM_0:1:630237931\ entered the game as barney(158,161)
+L 02/24/2025 - 03:25:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:25:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:25:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:25:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:25:19: \HLDM.org N6409\STEAM_0:1:630237931\ Client version: Half-Life (OpenGL)
+L 02/24/2025 - 03:25:30: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "gluon gun"
+L 02/24/2025 - 03:25:35: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:25:40: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "gluon gun"
+L 02/24/2025 - 03:25:45: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:26:03: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "bolt"
+L 02/24/2025 - 03:26:09: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "gluon gun"
+L 02/24/2025 - 03:26:53: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:27:05: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "satchel"
+L 02/24/2025 - 03:27:13: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:27:23: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "gluon gun"
+L 02/24/2025 - 03:27:26: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:27:30: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:27:33: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:27:37: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:27:42: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:27:51: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "grenade"
+L 02/24/2025 - 03:28:00: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "tripmine"
+L 02/24/2025 - 03:28:39: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "gluon gun"
+L 02/24/2025 - 03:28:48: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "gluon gun"
+L 02/24/2025 - 03:29:03: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:29:08: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:29:12: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:29:17: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "gluon gun"
+L 02/24/2025 - 03:29:44: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "bolt"
+L 02/24/2025 - 03:29:54: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "grenade"
+L 02/24/2025 - 03:30:04: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:30:15: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:31:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/24/2025 - 03:31:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/24/2025 - 03:31:11: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/24/2025 - 03:31:11: \HLDM.org N6409\STEAM_0:1:630237931\ disconnected
+L 02/24/2025 - 03:31:11: Dropped HLDM.org N6409 from server
+L 02/24/2025 - 03:31:11: Reason:  Client sent 'drop'
+L 02/24/2025 - 03:54:09: "HLDM.org N6409<36><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/24/2025 - 03:54:09: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:54:09: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:54:09: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 03:54:09: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/24/2025 - 03:54:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 03:54:14: Dropped HLDM.org N6409 from server
+L 02/24/2025 - 03:54:14: Reason:  Client sent 'drop'
+L 02/24/2025 - 03:54:14: "HLDM.org N6409<37><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/24/2025 - 03:54:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:54:14: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 03:54:14: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 03:54:14: \HLDM.org N6409\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/24/2025 - 03:54:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 03:54:19: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/24/2025 - 03:54:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:54:19: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/24/2025 - 03:54:19: \HLDM.org N6409\STEAM_0:1:630237931\ entered the game as barney(158,161)
+L 02/24/2025 - 03:54:20: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:54:20: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:54:20: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 03:54:21: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 03:54:21: \HLDM.org N6409\STEAM_0:1:630237931\ Client version: Half-Life (OpenGL)
+L 02/24/2025 - 03:54:43: \HLDM.org N6409\STEAM_0:1:630237931\ committed suicide with "rpg_rocket"
+L 02/24/2025 - 03:54:49: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/24/2025 - 03:54:49: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/24/2025 - 03:54:49: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/24/2025 - 03:54:49: \HLDM.org N6409\STEAM_0:1:630237931\ disconnected
+L 02/24/2025 - 03:54:49: Dropped HLDM.org N6409 from server
+L 02/24/2025 - 03:54:49: Reason:  Client sent 'drop'
+L 02/24/2025 - 04:37:11: "Hl.LaLeagane.Ro<38><STEAM_0:0:15832208><>" STEAM USERID validated
+L 02/24/2025 - 04:37:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 04:37:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 04:37:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 04:37:11: \Hl.LaLeagane.Ro\STEAM_0:0:15832208\ connected from address 89.157.254.220:27005
+L 02/24/2025 - 04:37:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 04:37:15: Dropped Hl.LaLeagane.Ro from server
+L 02/24/2025 - 04:37:15: Reason:  Client sent 'drop'
+L 02/24/2025 - 04:37:16: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 04:37:16: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 04:37:16: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 04:37:16: \Hl.LaLeagane.Ro\STEAM_0:0:15832208\ connected from address 89.157.254.220:27005
+L 02/24/2025 - 04:37:16: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 04:37:16: "Hl.LaLeagane.Ro<39><STEAM_0:0:15832208><>" STEAM USERID validated
+L 02/24/2025 - 04:37:21: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/24/2025 - 04:37:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 04:37:21: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/24/2025 - 04:37:21: \Hl.LaLeagane.Ro\STEAM_0:0:15832208\ entered the game as zombie(0,0)
+L 02/24/2025 - 04:37:21: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 04:37:21: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 04:37:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 04:37:23: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 04:37:23: \Hl.LaLeagane.Ro\STEAM_0:0:15832208\ Client version: Half-Life (OpenGL)
+L 02/24/2025 - 04:37:49: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/24/2025 - 04:37:49: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/24/2025 - 04:37:49: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/24/2025 - 04:37:49: \Hl.LaLeagane.Ro\STEAM_0:0:15832208\ disconnected
+L 02/24/2025 - 04:37:49: Dropped Hl.LaLeagane.Ro from server
+L 02/24/2025 - 04:37:49: Reason:  Client sent 'drop'
+L 02/24/2025 - 05:06:59: "143.42.54.115:27012<40><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/24/2025 - 05:06:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 05:06:59: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 05:06:59: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 05:06:59: \143.42.54.115:27012\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/24/2025 - 05:06:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 05:07:03: Dropped 143.42.54.115:27012 from server
+L 02/24/2025 - 05:07:03: Reason:  Client sent 'drop'
+L 02/24/2025 - 05:07:04: "143.42.54.115:27012<41><STEAM_0:1:630237931><>" STEAM USERID validated
+L 02/24/2025 - 05:07:04: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 05:07:04: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/24/2025 - 05:07:04: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/24/2025 - 05:07:04: \143.42.54.115:27012\STEAM_0:1:630237931\ connected from address 109.98.50.249:27005
+L 02/24/2025 - 05:07:04: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/24/2025 - 05:07:11: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/24/2025 - 05:07:11: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 05:07:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/24/2025 - 05:07:11: \143.42.54.115:27012\STEAM_0:1:630237931\ entered the game as barney(158,161)
+L 02/24/2025 - 05:07:11: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 05:07:11: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 05:07:11: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/24/2025 - 05:07:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/24/2025 - 05:07:13: \143.42.54.115:27012\STEAM_0:1:630237931\ Client version: Half-Life (OpenGL)
+L 02/24/2025 - 05:07:45: \143.42.54.115:27012\STEAM_0:1:630237931\ committed

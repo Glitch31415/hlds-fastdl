@@ -1,0 +1,299 @@
+L 02/27/2025 - 19:10:08: Log file started (file "logs/L0227031.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/27/2025 - 19:10:08: Loading map "hldm_2fort_sandbox"
+L 02/27/2025 - 19:10:08: Server cvar "mp_soundvariety" = "0"
+L 02/27/2025 - 19:10:08: Server cvar "mp_soundvariety" = "1"
+L 02/27/2025 - 19:10:08: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/27/2025 - 19:10:08: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/27/2025 - 19:10:08: Server cvar "mp_nextmap" = "dead-dust2_sandbox"
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/27/2025 - 19:10:08: Server cvar "amx_nextmap" = "boot_camp_sandbox"
+L 02/27/2025 - 19:10:08: Enemy stats: 0k health, 0 npcs
+L 02/27/2025 - 19:10:08: Started map "hldm_2fort_sandbox" (CRC "579208788")
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:08: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:08: \hollythefey\STEAM_0:1:25987363\ connected from address 68.190.133.9:19998
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:08: \Whom\STEAM_0:0:27203061\ connected from address 68.190.133.9:27005
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:08: \Super General Koopa\STEAM_0:0:177375497\ connected from address 23.235.1.80:27005
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:08: \Bill Opens Gates\STEAM_0:1:70255945\ connected from address 99.152.122.107:27005
+L 02/27/2025 - 19:10:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:09: Dropped glitch31415 from server
+L 02/27/2025 - 19:10:09: Reason:  Client sent 'drop'
+L 02/27/2025 - 19:10:10: Dropped Super General Koopa from server
+L 02/27/2025 - 19:10:10: Reason:  Client sent 'drop'
+L 02/27/2025 - 19:10:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:10: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 19:10:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:10: Dropped Whom from server
+L 02/27/2025 - 19:10:10: Reason:  Client sent 'drop'
+L 02/27/2025 - 19:10:10: Dropped hollythefey from server
+L 02/27/2025 - 19:10:10: Reason:  Client sent 'drop'
+L 02/27/2025 - 19:10:10: "glitch31415<14><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/27/2025 - 19:10:11: \bot3\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 19:10:11: \bot3\BOT\ entered the game as ld_gordon(8,95)
+L 02/27/2025 - 19:10:11: \bot1\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 19:10:11: \bot1\BOT\ entered the game as ld_gordon(185,221)
+L 02/27/2025 - 19:10:11: \bot2\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 19:10:11: \bot2\BOT\ entered the game as ld_gordon(98,107)
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 19:10:12: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:12: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:14: \hollythefey\STEAM_0:1:25987363\ connected from address 68.190.133.9:19998
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:14: \Whom\STEAM_0:0:27203061\ connected from address 68.190.133.9:27005
+L 02/27/2025 - 19:10:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:14: "hollythefey<18><STEAM_0:1:25987363><>" STEAM USERID validated
+L 02/27/2025 - 19:10:14: "Whom<19><STEAM_0:0:27203061><>" STEAM USERID validated
+L 02/27/2025 - 19:10:15: Dropped Bill Opens Gates from server
+L 02/27/2025 - 19:10:15: Reason:  Client sent 'drop'
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 19:10:16: \hollythefey\STEAM_0:1:25987363\ entered the game as gina(30,6)
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 19:10:16: \Whom\STEAM_0:0:27203061\ entered the game as gina(30,6)
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:17: \Super General Koopa\STEAM_0:0:177375497\ connected from address 23.235.1.80:27005
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:17: \hollythefey\STEAM_0:1:25987363\ Client version: Half-Life (OpenGL)
+L 02/27/2025 - 19:10:17: "Super General Koopa<20><STEAM_0:0:177375497><>" STEAM USERID validated
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:17: \Whom\STEAM_0:0:27203061\ Client version: Half-Life (OpenGL)
+L 02/27/2025 - 19:10:18: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:18: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 19:10:18: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 19:10:18: \Bill Opens Gates\STEAM_0:1:70255945\ connected from address 99.152.122.107:27005
+L 02/27/2025 - 19:10:18: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 19:10:18: "Bill Opens Gates<21><STEAM_0:1:70255945><>" STEAM USERID validated
+L 02/27/2025 - 19:10:19: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 19:10:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:19: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 19:10:19: \Super General Koopa\STEAM_0:0:177375497\ entered the game as gordon(30,6)
+L 02/27/2025 - 19:10:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:20: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:20: \Super General Koopa\STEAM_0:0:177375497\ Client version: Half-Life (OpenGL)
+L 02/27/2025 - 19:10:24: \glitch31415\STEAM_0:0:743386914\ killed by \Super General Koopa\STEAM_0:0:177375497\ with "gluon gun"
+L 02/27/2025 - 19:10:24: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 19:10:24: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:24: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 19:10:24: \Bill Opens Gates\STEAM_0:1:70255945\ entered the game as barney(25,6)
+L 02/27/2025 - 19:10:25: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:25: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:25: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 19:10:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 19:10:26: \Bill Opens Gates\STEAM_0:1:70255945\ Client version: Half-Life (OpenGL)
+L 02/27/2025 - 19:10:28: \Super General Koopa\STEAM_0:0:177375497\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:10:32: \hollythefey\STEAM_0:1:25987363\ killed by \Whom\STEAM_0:0:27203061\ with "gluon gun"
+L 02/27/2025 - 19:10:36: \Super General Koopa\STEAM_0:0:177375497\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:10:42: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \Whom\STEAM_0:0:27203061\ with "gluon gun"
+L 02/27/2025 - 19:10:49: \Whom\STEAM_0:0:27203061\ say "motd"
+L 02/27/2025 - 19:10:51: \hollythefey\STEAM_0:1:25987363\ killed by \glitch31415\STEAM_0:0:743386914\ with "shotgun"
+L 02/27/2025 - 19:10:54: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \glitch31415\STEAM_0:0:743386914\ with "shotgun"
+L 02/27/2025 - 19:10:59: \Bill Opens Gates\STEAM_0:1:70255945\ say "lmao"
+L 02/27/2025 - 19:11:00: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:11:02: \Whom\STEAM_0:0:27203061\ say "thank you noclip"
+L 02/27/2025 - 19:11:05: \Whom\STEAM_0:0:27203061\ killed by \Super General Koopa\STEAM_0:0:177375497\ with "gluon gun"
+L 02/27/2025 - 19:11:06: \Super General Koopa\STEAM_0:0:177375497\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:11:17: \glitch31415\STEAM_0:0:743386914\ say "why are there so many ppl joining at once lmao"
+L 02/27/2025 - 19:11:18: \hollythefey\STEAM_0:1:25987363\ killed by \Whom\STEAM_0:0:27203061\ with "gluon gun"
+L 02/27/2025 - 19:11:22: \Whom\STEAM_0:0:27203061\ say "friends lol"
+L 02/27/2025 - 19:11:23: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 19:11:23: \Whom\STEAM_0:0:27203061\ killed by "Human Grunt"
+L 02/27/2025 - 19:11:28: \hollythefey\STEAM_0:1:25987363\ killed by "Human Grunt"
+L 02/27/2025 - 19:11:32: \Whom\STEAM_0:0:27203061\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:11:34: \Bill Opens Gates\STEAM_0:1:70255945\ killed by "Human Grunt"
+L 02/27/2025 - 19:11:41: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 19:11:42: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 19:11:43: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 19:11:43: \Super General Koopa\STEAM_0:0:177375497\ say "le gamers have arrived"
+L 02/27/2025 - 19:11:44: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 19:11:49: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 19:11:51: \hollythefey\STEAM_0:1:25987363\ killed by \Whom\STEAM_0:0:27203061\ with "9mmAR"
+L 02/27/2025 - 19:11:56: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \glitch31415\STEAM_0:0:743386914\ with "shotgun"
+L 02/27/2025 - 19:12:07: \glitch31415\STEAM_0:0:743386914\ killed by \Bill Opens Gates\STEAM_0:1:70255945\ with "gluon gun"
+L 02/27/2025 - 19:12:09: \Whom\STEAM_0:0:27203061\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:12:12: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:12:19: \hollythefey\STEAM_0:1:25987363\ killed by \Bill Opens Gates\STEAM_0:1:70255945\ with "gluon gun"
+L 02/27/2025 - 19:12:21: \glitch31415\STEAM_0:0:743386914\ say "the shotgun and mp5 are op btw"
+L 02/27/2025 - 19:12:26: \Whom\STEAM_0:0:27203061\ killed by \Super General Koopa\STEAM_0:0:177375497\ with "gluon gun"
+L 02/27/2025 - 19:12:41: \Super General Koopa\STEAM_0:0:177375497\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:12:42: \glitch31415\STEAM_0:0:743386914\ committed suicide with "grenade"
+L 02/27/2025 - 19:12:49: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:12:49: \Whom\STEAM_0:0:27203061\ killed by \Super General Koopa\STEAM_0:0:177375497\ with "gluon gun"
+L 02/27/2025 - 19:12:51: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \Super General Koopa\STEAM_0:0:177375497\ with "gluon gun"
+L 02/27/2025 - 19:12:52: \glitch31415\STEAM_0:0:743386914\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:13:00: \Whom\STEAM_0:0:27203061\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:13:00: \hollythefey\STEAM_0:1:25987363\ committed suicide with "grenade"
+L 02/27/2025 - 19:13:04: \hollythefey\STEAM_0:1:25987363\ killed by \glitch31415\STEAM_0:0:743386914\ with "shotgun"
+L 02/27/2025 - 19:13:07: \Super General Koopa\STEAM_0:0:177375497\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:13:18: \Super General Koopa\STEAM_0:0:177375497\ killed by \Whom\STEAM_0:0:27203061\ with "grenade"
+L 02/27/2025 - 19:13:21: \Whom\STEAM_0:0:27203061\ killed by \Super General Koopa\STEAM_0:0:177375497\ with "gluon gun"
+L 02/27/2025 - 19:13:31: \Super General Koopa\STEAM_0:0:177375497\ committed suicide with "gluon gun"
+L 02/27/2025 - 19:13:31: \hollythefey\STEAM_0:1:25987363\ committed suicide with "rpg_rocket"
+L 02/27/2025 - 19:13:33: \Whom\STEAM_0:0:27203061\ killed by \Bill Opens Gates\STEAM_0:1:70255945\ with "gluon gun"
+L 02/27/2025 - 19:13:39: \Bill Opens Gates\STEAM_0:1:70255945\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:13:44: \Whom\STEAM_0:0:27203061\ killed by \Super General Koopa\STEAM_0:0:177375497\ with "gluon gun"
+L 02/27/2025 - 19:13:57: \Super General Koopa\STEAM_0:0:177375497\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:14:01: \Super General Koopa\STEAM_0:0:177375497\ killed by \glitch31415\STEAM_0:0:743386914\ with "9mmAR"
+L 02/27/2025 - 19:14:18: [META] (debug:3) Calling server.so:ClientKill()
+L 02/27/2025 - 19:14:18: \glitch31415\STEAM_0:0:743386914\ committed suicide with "skull"
+L 02/27/2025 - 19:14:19: \Super General Koopa\STEAM_0:0:177375497\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:14:25: \Super General Koopa\STEAM_0:0:177375497\ killed by \hollythefey\STEAM_0:1:25987363\ with "gluon gun"
+L 02/27/2025 - 19:14:38: \glitch31415\STEAM_0:0:743386914\ killed by \Whom\STEAM_0:0:27203061\ with "gluon gun"
+L 02/27/2025 - 19:14:43: \Super General Koopa\STEAM_0:0:177375497\ committed suicide with "gluon gun"
+L 02/27/2025 - 19:14:48: \Super General Koopa\STEAM_0:0:177375497\ killed by "Nihilanth"
+L 02/27/2025 - 19:14:56: \hollythefey\STEAM_0:1:25987363\ committed suicide with "gluon gun"
+L 02/27/2025 - 19:14:59: \Bill Opens Gates\STEAM_0:1:70255945\ say "this is the best server"
+L 02/27/2025 - 19:15:00: \Super General Koopa\STEAM_0:0:177375497\ committed suicide with "gluon gun"
+L 02/27/2025 - 19:15:08: \Bill Opens Gates\STEAM_0:1:70255945\ killed by "Nihilanth"
+L 02/27/2025 - 19:15:13: \Super General Koopa\STEAM_0:0:177375497\ say "that thing is scary"
+L 02/27/2025 - 19:15:15: \Bill Opens Gates\STEAM_0:1:70255945\ committed suicide with "gluon gun"
+L 02/27/2025 - 19:15:24: \Bill Opens Gates\STEAM_0:1:70255945\ committed suicide with "gluon gun"
+L 02/27/2025 - 19:15:34: \Bill Opens Gates\STEAM_0:1:70255945\ committed suicide with "rpg_rocket"
+L 02/27/2025 - 19:15:40: \Super General Koopa\STEAM_0:0:177375497\ say "why is eraserhead baby here"
+L 02/27/2025 - 19:15:46: \glitch31415\STEAM_0:0:743386914\ killed by "Nihilanth"
+L 02/27/2025 - 19:15:46: \Super General Koopa\STEAM_0:0:177375497\ killed by "Nihilanth"
+L 02/27/2025 - 19:15:54: \glitch31415\STEAM_0:0:743386914\ say "let's play an actual map"
+L 02/27/2025 - 19:15:56: \Whom\STEAM_0:0:27203061\ say "play Half-Life (1998) to find out"
+L 02/27/2025 - 19:15:59: Rcon: "rcon 1589516213 "5pgW37D7ad" changelevel infested" from "127.0.0.1:27005"
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \bot3\BOT\ disconnected
+L 02/27/2025 - 19:15:59: Dropped bot3 from server
+L 02/27/2025 - 19:15:59: Reason:  Dropping fakeclient on level change
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \bot1\BOT\ disconnected
+L 02/27/2025 - 19:15:59: Dropped bot1 from server
+L 02/27/2025 - 19:15:59: Reason:  Dropping fakeclient on level change
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \bot2\BOT\ disconnected
+L 02/27/2025 - 19:15:59: Dropped bot2 from server
+L 02/27/2025 - 19:15:59: Reason:  Dropping fakeclient on level change
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 02/27/2025 - 19:15:59: \glitch31415\STEAM_0:0:743386914\ 58 points, 8 deaths
+L 02/27/2025 - 19:15:59: \Bill Opens Gates\STEAM_0:1:70255945\ -27 points, 13 deaths
+L 02/27/2025 - 19:15:59: \Whom\STEAM_0:0:27203061\ -7 points, 10 deaths
+L 02/27/2025 - 19:15:59: \hollythefey\STEAM_0:1:25987363\ -40 points, 10 deaths
+L 02/27/2025 - 19:15:59: \Super General Koopa\STEAM_0:0:177375497\ -22 points, 15 deaths
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 02/27/2025 - 19:15:59: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 02/27/2025 - 19:15:59: [META] ini: Read plugin config for: AMX Mod X
+L 02/27/2025 - 19:15:59: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 02/27/2025 - 19:15:59: [META] dll: Updating plugins...
+L 02/27/2025 - 19:15:59: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 02/27/2025 - 19:15:59: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \glitch31415\STEAM_0:0:743386914\ disconnected with 58 points
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \Bill Opens Gates\STEAM_0:1:70255945\ disconnected
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \Whom\STEAM_0:0:27203061\ disconnected
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \hollythefey\STEAM_0:1:25987363\ disconnected
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/27/2025 - 19:15:59: \Super General Koopa\STEAM_0:0:177375497\ disconnected
+L 02/27/2025 - 19:15:59: Log file closed
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,47 @@
+L 03/27/2025 - 18:07:23: Log file started (file "logs/L0327010.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 03/27/2025 - 18:07:23: Loading map "d1_trainstation_02_sandbox"
+L 03/27/2025 - 18:07:23: Server cvar "mp_mergemodels" = "1"
+L 03/27/2025 - 18:07:23: Server cvar "mp_bigmap" = "1"
+L 03/27/2025 - 18:07:23: Server cvar "sv_aim" = "0"
+L 03/27/2025 - 18:07:23: Server cvar "sv_clienttrace" = "3.5"
+L 03/27/2025 - 18:07:23: Server cvar "sv_ledgesize" = "64"
+L 03/27/2025 - 18:07:23: Server cvar "mp_chattime" = "3"
+L 03/27/2025 - 18:07:23: Server cvar "mp_friendlyfire" = "1"
+L 03/27/2025 - 18:07:23: Server cvar "mp_weaponstay" = "1"
+L 03/27/2025 - 18:07:23: Server cvar "pausable" = "0"
+L 03/27/2025 - 18:07:23: Server cvar "starthealth" = "100"
+L 03/27/2025 - 18:07:23: Server cvar "sv_allow_autoaim" = "0"
+L 03/27/2025 - 18:07:23: Server cvar "sv_maxrate" = "60000000"
+L 03/27/2025 - 18:07:23: Server cvar "sv_minrate" = "59999999"
+L 03/27/2025 - 18:07:23: Server cvar "mp_soundvariety" = "1"
+L 03/27/2025 - 18:07:23: Server cvar "mp_teamlist" = ""
+L 03/27/2025 - 18:07:23: Server cvar "mp_killfeed" = "3"
+L 03/27/2025 - 18:07:23: Server cvar "mp_respawndelay" = "0"
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] ERROR: Couldn't find game entity 'env_model' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: env_model
+L 03/27/2025 - 18:07:23: [META] ERROR: Couldn't find game entity 'motion_manager' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: motion_manager
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling server.so:ServerActivate()
+L 03/27/2025 - 18:07:23: [META] ERROR: Couldn't find game entity 'monster_penguin' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_penguin
+L 03/27/2025 - 18:07:23: [META] ERROR: Couldn't find game entity 'monster_geneworm' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_geneworm
+L 03/27/2025 - 18:07:23: [META] ERROR: Couldn't find game entity 'monster_pitworm' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_pitworm
+L 03/27/2025 - 18:07:23: [META] ERROR: Couldn't find game entity 'monster_pitworm_up' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_pitworm_up
+L 03/27/2025 - 18:07:23: Server cvar "mp_nextmap" = "d1_town_01_sandbox"
+L 03/27/2025 - 18:07:23: Enemy stats: 0k health, 0 npcs
+L 03/27/2025 - 18:07:23: Started map "d1_trainstation_02_sandbox" (CRC "652026196")
+L 03/27/2025 - 18:07:23: Server cvar "mp_soundvariety" = "0"
+L 03/27/2025 - 18:07:23: Server cvar "mp_soundvariety" = "1"
+L 03/27/2025 - 18:07:26: \bot2\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 18:07:26: \bot2\BOT\ entered the game as ld_gordon(159,158)
+L 03/27/2025 - 18:07:26: \bot1\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 18:07:26: \bot1\BOT\ entered the game as ld_gordon(133,101)
+L 03/27/2025 - 18:07:26: \bot3\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 18:07:26: \bot3\BOT\ entered the game as ld_gordon(251,252)
+L 03/27/2025 - 18:07:27: \bot1\BOT\ killed by \bot3\BOT\ with "gluon gun"
+L 03/27/2025 - 18:07:28: \bot1\BOT\ killed by \bot3\BOT\ with "gluon gun"
+L 03/27/2025 - 18:07:29: \bot3\BOT\ committed suicide with "gluon gun"
+L 03/27/2025 - 18:07:42: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/27/2025 - 18:07:42: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/27/2025 - 18:07:42: "glitch31415<4><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/27/2025 - 18:07:43: Dropped glitch31415 from server
+L 03/27/2025 - 18:07:43: Reason:  Client sent 'drop'
+L 03/27/2025 - 18:07:43: [META] (debug:3) Calling server.so:ClientConnect(

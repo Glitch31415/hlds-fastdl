@@ -1,0 +1,51 @@
+L 02/27/2025 - 20:49:09: Log file started (file "logs/L0227045.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/27/2025 - 20:49:09: Loading map "d1_trainstation_02_sandbox"
+L 02/27/2025 - 20:49:09: Server cvar "mp_soundvariety" = "0"
+L 02/27/2025 - 20:49:09: Server cvar "mp_soundvariety" = "1"
+L 02/27/2025 - 20:49:09: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/27/2025 - 20:49:09: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/27/2025 - 20:49:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/27/2025 - 20:49:09: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 20:49:09: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 20:49:09: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/27/2025 - 20:49:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/27/2025 - 20:49:09: Enemy stats: 0k health, 0 npcs
+L 02/27/2025 - 20:49:09: Started map "d1_trainstation_02_sandbox" (CRC "652026196")
+L 02/27/2025 - 20:49:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:49:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:49:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 20:49:10: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 20:49:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 20:49:11: Dropped glitch31415 from server
+L 02/27/2025 - 20:49:11: Reason:  Client sent 'drop'
+L 02/27/2025 - 20:49:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:49:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:49:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 20:49:11: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 20:49:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 20:49:11: "glitch31415<6><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/27/2025 - 20:49:12: \bot3\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 20:49:12: \bot3\BOT\ entered the game as ld_gordon(191,118)
+L 02/27/2025 - 20:49:13: \bot2\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 20:49:13: \bot2\BOT\ entered the game as ld_gordon(233,185)
+L 02/27/2025 - 20:49:13: \bot1\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 20:49:13: \bot1\BOT\ entered the game as ld_gordon(158,99)
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 20:49:13: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:49:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:49:13: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/27/2025 - 20:49:31: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 02/27/2025 - 20:49:48: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/27/2025 - 20:49:48: [MET

@@ -1,0 +1,99 @@
+L 01/08/2025 - 11:51:58: Log file started (file "logs/L0108003.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 01/08/2025 - 11:51:58: Loading map "d1_trainstation_02"
+L 01/08/2025 - 11:51:58: Server cvar "mp_soundvariety" = "0"
+L 01/08/2025 - 11:51:58: Server cvar "mp_soundvariety" = "1"
+L 01/08/2025 - 11:51:58: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 01/08/2025 - 11:51:58: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 01/08/2025 - 11:51:58: [META] ERROR: Couldn't find game entity 'env_model' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: env_model
+L 01/08/2025 - 11:51:58: [META] ERROR: Couldn't find game entity 'motion_manager' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: motion_manager
+L 01/08/2025 - 11:51:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 01/08/2025 - 11:51:58: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 01/08/2025 - 11:51:58: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 01/08/2025 - 11:51:58: [META] (debug:3) Calling server.so:ServerActivate()
+L 01/08/2025 - 11:51:58: Server cvar "mp_nextmap" = "d1_town_01"
+L 01/08/2025 - 11:51:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 01/08/2025 - 11:51:58: Enemy stats: 0k health, 0 npcs
+L 01/08/2025 - 11:51:58: Started map "d1_trainstation_02" (CRC "652026196")
+L 01/08/2025 - 11:52:01: \bot1\BOT\ connected from address 127.0.0.1
+L 01/08/2025 - 11:52:01: \bot1\BOT\ entered the game as ld_gordon(4,70)
+L 01/08/2025 - 11:52:02: \bot3\BOT\ connected from address 127.0.0.1
+L 01/08/2025 - 11:52:02: \bot3\BOT\ entered the game as ld_gordon(82,227)
+L 01/08/2025 - 11:52:02: \bot2\BOT\ connected from address 127.0.0.1
+L 01/08/2025 - 11:52:02: \bot2\BOT\ entered the game as ld_gordon(34,113)
+L 01/08/2025 - 11:56:49: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 11:56:49: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 11:56:49: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/08/2025 - 11:56:49: \Arturo\STEAM_0:0:852783483\ connected from address 179.6.8.4:13495
+L 01/08/2025 - 11:56:49: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/08/2025 - 11:56:49: "Arturo<4><STEAM_0:0:852783483><>" STEAM USERID validated
+L 01/08/2025 - 11:56:53: Dropped Arturo from server
+L 01/08/2025 - 11:56:53: Reason:  Client sent 'drop'
+L 01/08/2025 - 11:56:58: "Arturo<5><STEAM_0:0:852783483><>" STEAM USERID validated
+L 01/08/2025 - 11:56:58: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 11:56:58: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 11:56:58: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/08/2025 - 11:56:58: \Arturo\STEAM_0:0:852783483\ connected from address 179.6.8.4:13495
+L 01/08/2025 - 11:56:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/08/2025 - 11:57:06: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/08/2025 - 11:57:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 11:57:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/08/2025 - 11:57:06: \Arturo\STEAM_0:0:852783483\ entered the game as skeleton(30,6)
+L 01/08/2025 - 11:57:06: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 11:57:06: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 11:57:06: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 11:57:08: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 11:57:08: \Arturo\STEAM_0:0:852783483\ Client version: Half-Life (OpenGL)
+L 01/08/2025 - 11:58:26: \Arturo\STEAM_0:0:852783483\ committed suicide with "gluon gun"
+L 01/08/2025 - 11:58:36: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/08/2025 - 11:58:36: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/08/2025 - 11:58:36: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/08/2025 - 11:58:36: \Arturo\STEAM_0:0:852783483\ disconnected
+L 01/08/2025 - 11:58:36: Dropped Arturo from server
+L 01/08/2025 - 11:58:36: Reason:  Client sent 'drop'
+L 01/08/2025 - 14:49:49: "Conrad<6><STEAM_0:1:50078280><>" STEAM USERID validated
+L 01/08/2025 - 14:49:49: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 14:49:49: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 14:49:49: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/08/2025 - 14:49:49: \Conrad\STEAM_0:1:50078280\ connected from address 112.205.25.141:27005
+L 01/08/2025 - 14:49:49: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/08/2025 - 14:49:54: Dropped Conrad from server
+L 01/08/2025 - 14:49:54: Reason:  Client sent 'drop'
+L 01/08/2025 - 14:50:46: "Conrad<7><STEAM_0:1:50078280><>" STEAM USERID validated
+L 01/08/2025 - 14:50:46: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 14:50:46: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/08/2025 - 14:50:46: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/08/2025 - 14:50:46: \Conrad\STEAM_0:1:50078280\ connected from address 112.205.25.141:27005
+L 01/08/2025 - 14:50:46: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/08/2025 - 14:50:51: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/08/2025 - 14:50:51: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 14:50:51: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/08/2025 - 14:50:51: \Conrad\STEAM_0:1:50078280\ entered the game as barney(182,181)
+L 01/08/2025 - 14:50:52: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 14:50:52: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 14:50:52: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 14:50:53: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 14:50:53: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 14:50:53: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 14:50:53: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 14:50:53: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 14:50:53: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/08/2025 - 14:50:54: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/08/2025 - 14:50:54: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/08/2025 - 14:50:54: \Conrad\STEAM_0:1:50078280\ Client version: Half-Life (OpenGL)
+L 01/08/2025 - 14:51:52: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "gluon gun"
+L 01/08/2025 - 14:52:22: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "bolt"
+L 01/08/2025 - 14:54:53: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "gluon gun"
+L 01/08/2025 - 14:54:54: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "gluon gun"
+L 01/08/2025 - 14:54:54: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "gluon gun"
+L 01/08/2025 - 14:56:22: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "rpg_rocket"
+L 01/08/2025 - 14:57:14: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "rpg_rocket"
+L 01/08/2025 - 14:57:14: \Conrad\STEAM_0:1:50078280\ killed "Scientist" with "rpg_rocket"
+L 01/08/2025 - 14:58:57: \Conrad\STEAM_0:1:50078280\ killed "Gargantua" with "gluon gun"
+L 01/08/2025 - 14:58:59: \Conrad\STEAM_0:1:50078

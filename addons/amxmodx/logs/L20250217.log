@@ -1,0 +1,41 @@
+L 02/17/2025 - 17:52:24: -------- Mapchange to sandbox --------
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] items/smallmedkit1.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] player/pl_wade1.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] player/pl_wade2.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] /hl2/cscanner/scanner_scan_loop2.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] /hl2/cscanner/scanner_photo1.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 02/17/2025 - 17:52:24: [testprecache.amxx] precaching file
+L 02/17/2025 - 17:52:24: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 02/17/2025 - 17:52:24: [galileo.amxx] 
+L 02/17/2025 - 17:52:24: [galileo.amxx] The server is jumping to the next map after the current map due more than 1 restarts on the map "d1_trainstation_02"
+L 02/17/2025 - 17:52:24: [galileo.amxx] 
+L 02/17/2025 - 23:34:44: -------- Mapchange to d1_trainstation_02 --------
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] items/smallmedkit1.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] player/pl_wade1.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] player/pl_wade2.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] hlcoop/shockroach/shock_idle3.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] hlcoop/shockroach/shock_idle2.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] /hl2/cscanner/scanner_scan_loop2.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] /hl2/cscanner/scanner_photo1.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav
+L 02/17/2025 - 23:34:44: [testprecache.amxx] precaching file
+L 02/17/2025 - 23:34:44: [testprecache.amxx] /hl2/cscanner/scanner_blip1.wav

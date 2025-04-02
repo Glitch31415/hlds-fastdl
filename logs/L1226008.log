@@ -1,0 +1,220 @@
+L 12/26/2024 - 21:18:46: Log file started (file "logs/L1226008.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/26/2024 - 21:18:46: Loading map "e1m1"
+L 12/26/2024 - 21:18:46: Server cvar "mp_soundvariety" = "0"
+L 12/26/2024 - 21:18:46: Server cvar "mp_soundvariety" = "1"
+L 12/26/2024 - 21:18:46: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/26/2024 - 21:18:46: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/26/2024 - 21:18:46: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 12/26/2024 - 21:18:46: [META] ERROR: Couldn't find game entity 'weapon_plasmarifle' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: weapon_plasmarifle
+L 12/26/2024 - 21:18:46: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/26/2024 - 21:18:46: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/26/2024 - 21:18:46: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/26/2024 - 21:18:46: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/26/2024 - 21:18:46: Server cvar "mp_nextmap" = "sandbox"
+L 12/26/2024 - 21:18:46: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/26/2024 - 21:18:46: Enemy stats: 5k health, 32 npcs
+L 12/26/2024 - 21:18:46: Started map "e1m1" (CRC "-1708525548")
+L 12/26/2024 - 21:18:49: \bot3\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 21:18:49: \bot3\BOT\ entered the game as ld_gordon(1,62)
+L 12/26/2024 - 21:18:49: \bot1\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 21:18:49: \bot1\BOT\ entered the game as ld_gordon(197,186)
+L 12/26/2024 - 21:18:49: \bot2\BOT\ connected from address 127.0.0.1
+L 12/26/2024 - 21:18:49: \bot2\BOT\ entered the game as ld_gordon(75,97)
+L 12/26/2024 - 21:18:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:18:53: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:18:53: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:18:53: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 21:18:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:18:53: "koolaid<4><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 21:18:57: Dropped koolaid from server
+L 12/26/2024 - 21:18:57: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:19:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:07: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:07: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:19:07: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/26/2024 - 21:19:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:19:07: "glitch31415<5><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/26/2024 - 21:19:08: Dropped glitch31415 from server
+L 12/26/2024 - 21:19:08: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:19:09: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:09: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:09: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:19:09: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/26/2024 - 21:19:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:19:09: "glitch31415<6><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/26/2024 - 21:19:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:19:10: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 21:19:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:19:10: "koolaid<7><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 21:19:10: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/26/2024 - 21:19:10: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/26/2024 - 21:19:11: \glitch31415\STEAM_0:0:743386914\ entered the game as WireFrame(76,76)
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:11: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:11: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/26/2024 - 21:19:15: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/26/2024 - 21:19:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/26/2024 - 21:19:15: \koolaid\STEAM_0:1:541489370\ entered the game as recon(125,250)
+L 12/26/2024 - 21:19:15: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:15: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:16: \koolaid\STEAM_0:1:541489370\ Client version: Half-Life (OpenGL)
+L 12/26/2024 - 21:19:18: \glitch31415\STEAM_0:0:743386914\ say "well, wrong map"
+L 12/26/2024 - 21:19:28: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/26/2024 - 21:19:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:19:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:19:28: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/26/2024 - 21:19:28: \koolaid\STEAM_0:1:541489370\ disconnected
+L 12/26/2024 - 21:19:28: Dropped koolaid from server
+L 12/26/2024 - 21:19:28: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:19:30: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:30: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:30: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:19:30: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 21:19:30: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:19:31: "koolaid<8><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 21:19:33: Dropped koolaid from server
+L 12/26/2024 - 21:19:33: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:19:33: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:33: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:19:33: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:19:33: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 12/26/2024 - 21:19:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:19:33: "koolaid<9><STEAM_0:1:541489370><>" STEAM USERID validated
+L 12/26/2024 - 21:19:37: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/26/2024 - 21:19:37: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:37: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/26/2024 - 21:19:37: \koolaid\STEAM_0:1:541489370\ entered the game as recon(125,250)
+L 12/26/2024 - 21:19:38: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:38: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:38: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:38: \koolaid\STEAM_0:1:541489370\ killed by "Human Grunt"
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:19:39: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:19:39: \koolaid\STEAM_0:1:541489370\ Client version: Half-Life (OpenGL)
+L 12/26/2024 - 21:19:42: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/26/2024 - 21:19:43: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/26/2024 - 21:19:52: \koolaid\STEAM_0:1:541489370\ killed "Shock Roach" with "gluon gun"
+L 12/26/2024 - 21:19:53: \koolaid\STEAM_0:1:541489370\ killed "Human Grunt" with "gluon gun"
+L 12/26/2024 - 21:19:53: \koolaid\STEAM_0:1:541489370\ killed by "Explosives"
+L 12/26/2024 - 21:19:53: \glitch31415\STEAM_0:0:743386914\ killed by "Explosives"
+L 12/26/2024 - 21:20:08: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 12/26/2024 - 21:20:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 12/26/2024 - 21:20:18: "Heisenberg<10><STEAM_0:0:246380363><>" STEAM USERID validated
+L 12/26/2024 - 21:20:18: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:20:18: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:20:18: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:20:18: \Heisenberg\STEAM_0:0:246380363\ connected from address 190.109.45.142:27005
+L 12/26/2024 - 21:20:18: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:20:22: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "9mmAR"
+L 12/26/2024 - 21:20:22: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "9mmAR"
+L 12/26/2024 - 21:20:23: Dropped Heisenberg from server
+L 12/26/2024 - 21:20:23: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:20:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/26/2024 - 21:20:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:20:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:20:28: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/26/2024 - 21:20:28: \koolaid\STEAM_0:1:541489370\ disconnected
+L 12/26/2024 - 21:20:28: Dropped koolaid from server
+L 12/26/2024 - 21:20:28: Reason:  Client sent 'drop'
+L 12/26/2024 - 21:20:46: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 12/26/2024 - 21:21:01: \glitch31415\STEAM_0:0:743386914\ killed "Headcrab" with "9mmAR"
+L 12/26/2024 - 21:21:02: "Heisenberg<11><STEAM_0:0:246380363><>" STEAM USERID validated
+L 12/26/2024 - 21:21:02: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:02: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/26/2024 - 21:21:02: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/26/2024 - 21:21:02: \Heisenberg\STEAM_0:0:246380363\ connected from address 190.109.45.142:27005
+L 12/26/2024 - 21:21:02: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/26/2024 - 21:21:05: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/26/2024 - 21:21:07: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/26/2024 - 21:21:07: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 12/26/2024 - 21:21:16: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/26/2024 - 21:21:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:21:16: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/26/2024 - 21:21:16: \Heisenberg\STEAM_0:0:246380363\ entered the game as skeleton(97,66)
+L 12/26/2024 - 21:21:17: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:21:17: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:21:17: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:21:18: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "9mmAR"
+L 12/26/2024 - 21:21:19: \glitch31415\STEAM_0:0:743386914\ killed "Alien Slave" with "9mmAR"
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/26/2024 - 21:21:20: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/26/2024 - 21:21:20: \Heisenberg\STEAM_0:0:246380363\ Client version: Half-Life (OpenGL)
+L 12/26/2024 - 21:21:20: \glitch31415\STEAM_0:0:743386914\ killed "Houndeye" with "9mmAR"
+L 12/26/2024 - 21:21:28: Rcon: "rcon 453101103 "5pgW37D7ad" changelevel d1_trainstation_02" from "127.0.0.1:27005"
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: \bot3\BOT\ disconnected
+L 12/26/2024 - 21:21:28: Dropped bot3 from server
+L 12/26/2024 - 21:21:28: Reason:  Dropping fakeclient on level change
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: \bot1\BOT\ disconnected
+L 12/26/2024 - 21:21:28: Dropped bot1 from server
+L 12/26/2024 - 21:21:28: Reason:  Dropping fakeclient on level change
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: \bot2\BOT\ disconnected
+L 12/26/2024 - 21:21:28: Dropped bot2 from server
+L 12/26/2024 - 21:21:28: Reason:  Dropping fakeclient on level change
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 12/26/2024 - 21:21:28: \glitch31415\STEAM_0:0:743386914\ 49 points, 2 deaths
+L 12/26/2024 - 21:21:28: \Heisenberg\STEAM_0:0:246380363\ 0 points, 0 deaths
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 12/26/2024 - 21:21:28: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 12/26/2024 - 21:21:28: [META] ini: Read plugin config for: AMX Mod X
+L 12/26/2024 - 21:21:28: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 12/26/2024 - 21:21:28: [META] dll: Updating plugins...
+L 12/26/2024 - 21:21:28: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 12/26/2024 - 21:21:28: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: \glitch31415\STEAM_0:0:743386914\ disconnected with 49 points
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/26/2024 - 21:21:28: \Heisenberg\STEAM_0:0:246380363\ disconnected
+L 12/26/2024 - 21:21:28: Log file closed
+
+-------------------------------------------------------------------------------
+

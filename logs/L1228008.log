@@ -1,0 +1,204 @@
+L 12/28/2024 - 20:23:15: Log file started (file "logs/L1228008.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/28/2024 - 20:23:15: Loading map "d1_trainstation_02"
+L 12/28/2024 - 20:23:15: Server cvar "mp_soundvariety" = "0"
+L 12/28/2024 - 20:23:15: Server cvar "mp_soundvariety" = "1"
+L 12/28/2024 - 20:23:15: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/28/2024 - 20:23:15: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/28/2024 - 20:23:15: [META] ERROR: Couldn't find game entity 'env_model' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: env_model
+L 12/28/2024 - 20:23:15: [META] ERROR: Couldn't find game entity 'motion_manager' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: motion_manager
+L 12/28/2024 - 20:23:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/28/2024 - 20:23:15: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/28/2024 - 20:23:15: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/28/2024 - 20:23:15: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/28/2024 - 20:23:15: Server cvar "mp_nextmap" = "d1_town_01"
+L 12/28/2024 - 20:23:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/28/2024 - 20:23:15: Server cvar "amx_nextmap" = "d1_town_01"
+L 12/28/2024 - 20:23:15: Enemy stats: 0k health, 0 npcs
+L 12/28/2024 - 20:23:15: Started map "d1_trainstation_02" (CRC "652026196")
+L 12/28/2024 - 20:23:18: \bot3\BOT\ connected from address 127.0.0.1
+L 12/28/2024 - 20:23:18: \bot3\BOT\ entered the game as ld_gordon(228,231)
+L 12/28/2024 - 20:23:18: \bot1\BOT\ connected from address 127.0.0.1
+L 12/28/2024 - 20:23:18: \bot1\BOT\ entered the game as ld_gordon(127,71)
+L 12/28/2024 - 20:23:19: \bot2\BOT\ connected from address 127.0.0.1
+L 12/28/2024 - 20:23:19: \bot2\BOT\ entered the game as ld_gordon(122,16)
+L 12/28/2024 - 20:40:09: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 20:40:09: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 20:40:09: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 20:40:09: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 20:40:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 20:40:09: "Gordon<4><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 20:40:10: Dropped Gordon from server
+L 12/28/2024 - 20:40:10: Reason:  Client sent 'drop'
+L 12/28/2024 - 20:40:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 20:40:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 20:40:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 20:40:11: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 20:40:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 20:40:11: "Gordon<5><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 20:40:13: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/28/2024 - 20:40:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 20:40:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/28/2024 - 20:40:13: \Gordon\STEAM_0:0:743386914\ entered the game as hgrunt(108,174)
+L 12/28/2024 - 20:40:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 20:40:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 20:40:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 20:40:14: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 20:40:14: \Gordon\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/28/2024 - 20:40:27: \Gordon\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 12/28/2024 - 20:40:29: \Gordon\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 12/28/2024 - 20:40:29: \Gordon\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 12/28/2024 - 20:40:51: \Gordon\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 12/28/2024 - 20:40:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/28/2024 - 20:40:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/28/2024 - 20:40:53: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/28/2024 - 20:40:53: \Gordon\STEAM_0:0:743386914\ disconnected with 11 points
+L 12/28/2024 - 20:40:53: Dropped Gordon from server
+L 12/28/2024 - 20:40:53: Reason:  Client sent 'drop'
+L 12/28/2024 - 20:56:26: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 20:56:26: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 20:56:26: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 20:56:26: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 20:56:26: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 20:56:26: "Gordon<6><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 20:56:26: Dropped Gordon from server
+L 12/28/2024 - 20:56:26: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:00:12: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:00:12: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:00:12: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:00:12: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:00:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:00:12: "Gordon<7><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:00:12: Dropped Gordon from server
+L 12/28/2024 - 21:00:12: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:00:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:00:14: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:00:14: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:00:14: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:00:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:00:14: "Gordon<8><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:00:14: Dropped Gordon from server
+L 12/28/2024 - 21:00:14: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:03:33: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:03:33: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:03:33: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:03:33: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:03:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:03:33: "Gordon<9><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:03:33: Dropped Gordon from server
+L 12/28/2024 - 21:03:33: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:03:34: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:03:34: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:03:34: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:03:34: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:03:34: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:03:34: "Gordon<10><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:03:35: Dropped Gordon from server
+L 12/28/2024 - 21:03:35: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:04:18: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:04:18: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:04:18: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:04:18: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:04:18: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:04:18: "Gordon<11><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:04:18: Dropped Gordon from server
+L 12/28/2024 - 21:04:18: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:04:23: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:04:23: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:04:23: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:04:23: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:04:23: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:04:23: "Gordon<12><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:04:24: Dropped Gordon from server
+L 12/28/2024 - 21:04:24: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:04:56: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:04:56: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:04:56: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:04:56: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:04:56: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:04:56: "Gordon<13><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:04:57: Dropped Gordon from server
+L 12/28/2024 - 21:04:57: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:05:47: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:05:47: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:05:47: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:05:47: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:05:47: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:05:47: "glitch31415<14><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:05:47: Dropped glitch31415 from server
+L 12/28/2024 - 21:05:47: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:06:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:06:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:06:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:06:11: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:06:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:06:11: "Gordon<15><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:06:12: Dropped Gordon from server
+L 12/28/2024 - 21:06:12: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:06:13: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:06:13: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:06:13: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:06:13: \Gordon\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:06:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:06:13: "Gordon<16><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/28/2024 - 21:06:15: \Gordon\STEAM_0:0:743386914\ entered the game as hgrunt(108,174)
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:06:15: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:06:15: \Gordon\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/28/2024 - 21:06:33: \Gordon\STEAM_0:0:743386914\ killed "Scientist" with "shotgun"
+L 12/28/2024 - 21:07:04: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/28/2024 - 21:07:04: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/28/2024 - 21:07:04: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/28/2024 - 21:07:04: \Gordon\STEAM_0:0:743386914\ disconnected with 14 points
+L 12/28/2024 - 21:07:04: Dropped Gordon from server
+L 12/28/2024 - 21:07:04: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:10:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:10:53: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:10:53: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:10:53: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:10:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:10:53: "glitch31415<17><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:10:54: Dropped glitch31415 from server
+L 12/28/2024 - 21:10:54: Reason:  Client sent 'drop'
+L 12/28/2024 - 21:10:55: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:10:55: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/28/2024 - 21:10:55: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/28/2024 - 21:10:55: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 12/28/2024 - 21:10:55: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/28/2024 - 21:10:55: "glitch31415<18><STEAM_0:0:743386914><>" STEAM USERID validated
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/28/2024 - 21:10:57: \glitch31415\STEAM_0:0:743386914\ entered the game as WireFrame(76,76)
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/28/2024 - 21:10:57: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/28/2024 - 21:10:57: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 12/28/2024 - 21:11:42: \glitch31415\STEAM_0:0:743386914\ committed suicide with "grenade"
+L 12/28/2024 - 21:12:24: [META]

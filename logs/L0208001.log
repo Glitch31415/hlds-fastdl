@@ -1,0 +1,95 @@
+L 02/08/2025 - 12:21:13: Log file started (file "logs/L0208001.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/08/2025 - 12:21:13: Loading map "sandbox"
+L 02/08/2025 - 12:21:13: [META] (debug:2) Resolved 'addons/amxmodx/modules/engine_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/engine_amxx_i386.so'
+L 02/08/2025 - 12:21:13: [ENGINE] dev: called: Meta_Query; version=5:13, ours=5:13
+L 02/08/2025 - 12:21:13: [ENGINE] dev: called: GetNewDLLFunctions; version=1
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Engine': Found GetNewDLLFunctions
+L 02/08/2025 - 12:21:13: [ENGINE] dev: called: GetNewDLLFunctions_Post; version=1
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Engine': Found GetNewDLLFunctions_Post
+L 02/08/2025 - 12:21:13: [ENGINE] dev: called: GetEntityAPI2; version=140
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Engine': Found GetEntityAPI2
+L 02/08/2025 - 12:21:13: [ENGINE] dev: called: GetEntityAPI2_Post; version=140
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Engine': Found GetEntityAPI2_Post
+L 02/08/2025 - 12:21:13: [ENGINE] dev: called: GetEngineFunctions; version=138
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Engine': Found GetEngineFunctions
+L 02/08/2025 - 12:21:13: [ENGINE] dev: called: GetEngineFunctions_Post; version=138
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Engine': Found GetEngineFunctions_Post
+L 02/08/2025 - 12:21:13: [META] dll: Loaded plugin 'Engine': Engine v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 02/08/2025 - 12:21:13: [META] (debug:1) Loaded plugin 'Engine' successfully
+L 02/08/2025 - 12:21:13: [META] (debug:2) Resolved 'addons/amxmodx/modules/fun_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/fun_amxx_i386.so'
+L 02/08/2025 - 12:21:13: [FUN] dev: called: Meta_Query; version=5:13, ours=5:13
+L 02/08/2025 - 12:21:13: [FUN] dev: called: GetNewDLLFunctions; version=1
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Fun': Found GetNewDLLFunctions
+L 02/08/2025 - 12:21:13: [FUN] dev: called: GetNewDLLFunctions_Post; version=1
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Fun': Found GetNewDLLFunctions_Post
+L 02/08/2025 - 12:21:13: [FUN] dev: called: GetEntityAPI2; version=140
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Fun': Found GetEntityAPI2
+L 02/08/2025 - 12:21:13: [FUN] dev: called: GetEntityAPI2_Post; version=140
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Fun': Found GetEntityAPI2_Post
+L 02/08/2025 - 12:21:13: [FUN] dev: called: GetEngineFunctions; version=138
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Fun': Found GetEngineFunctions
+L 02/08/2025 - 12:21:13: [FUN] dev: called: GetEngineFunctions_Post; version=138
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'Fun': Found GetEngineFunctions_Post
+L 02/08/2025 - 12:21:13: [META] dll: Loaded plugin 'Fun': Fun v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 02/08/2025 - 12:21:13: [META] (debug:1) Loaded plugin 'Fun' successfully
+L 02/08/2025 - 12:21:13: [META] (debug:2) Resolved 'addons/amxmodx/modules/fakemeta_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/fakemeta_amxx_i386.so'
+L 02/08/2025 - 12:21:13: [FAKEMETA] dev: called: Meta_Query; version=5:13, ours=5:13
+L 02/08/2025 - 12:21:13: [FAKEMETA] dev: called: GetNewDLLFunctions; version=1
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetNewDLLFunctions
+L 02/08/2025 - 12:21:13: [FAKEMETA] dev: called: GetNewDLLFunctions_Post; version=1
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetNewDLLFunctions_Post
+L 02/08/2025 - 12:21:13: [FAKEMETA] dev: called: GetEntityAPI2; version=140
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEntityAPI2
+L 02/08/2025 - 12:21:13: [FAKEMETA] dev: called: GetEntityAPI2_Post; version=140
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEntityAPI2_Post
+L 02/08/2025 - 12:21:13: [FAKEMETA] dev: called: GetEngineFunctions; version=138
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEngineFunctions
+L 02/08/2025 - 12:21:13: [FAKEMETA] dev: called: GetEngineFunctions_Post; version=138
+L 02/08/2025 - 12:21:13: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEngineFunctions_Post
+L 02/08/2025 - 12:21:13: [META] dll: Loaded plugin 'FakeMeta': FakeMeta v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 02/08/2025 - 12:21:13: [META] (debug:1) Loaded plugin 'FakeMeta' successfully
+L 02/08/2025 - 12:21:13: Server cvar "amxmodx_version" = "1.8.2"
+L 02/08/2025 - 12:21:13: Server cvar "mp_mergemodels" = "1"
+L 02/08/2025 - 12:21:13: Server cvar "sv_aim" = "0"
+L 02/08/2025 - 12:21:13: Server cvar "sv_clienttrace" = "3.5"
+L 02/08/2025 - 12:21:13: Server cvar "sv_ledgesize" = "64"
+L 02/08/2025 - 12:21:13: Server cvar "mp_chattime" = "3"
+L 02/08/2025 - 12:21:13: Server cvar "mp_friendlyfire" = "1"
+L 02/08/2025 - 12:21:13: Server cvar "mp_weaponstay" = "1"
+L 02/08/2025 - 12:21:13: Server cvar "pausable" = "0"
+L 02/08/2025 - 12:21:13: Server cvar "starthealth" = "100"
+L 02/08/2025 - 12:21:13: Server cvar "sv_allow_autoaim" = "0"
+L 02/08/2025 - 12:21:13: Server cvar "sv_maxrate" = "60000000"
+L 02/08/2025 - 12:21:13: Server cvar "sv_minrate" = "59999999"
+L 02/08/2025 - 12:21:13: Server cvar "mp_soundvariety" = "1"
+L 02/08/2025 - 12:21:13: Server cvar "mp_teamlist" = ""
+L 02/08/2025 - 12:21:13: Server cvar "mp_killfeed" = "3"
+L 02/08/2025 - 12:21:13: Server cvar "mp_respawndelay" = "0"
+L 02/08/2025 - 12:21:13: [META] (debug:3) Calling engine:AddServerCommand()
+L 02/08/2025 - 12:21:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/08/2025 - 12:21:13: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/08/2025 - 12:21:13: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/08/2025 - 12:21:13: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/08/2025 - 12:21:13: [META] ERROR: Couldn't find game entity 'monster_penguin' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_penguin
+L 02/08/2025 - 12:21:13: [META] ERROR: Couldn't find game entity 'monster_geneworm' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_geneworm
+L 02/08/2025 - 12:21:13: [META] ERROR: Couldn't find game entity 'monster_pitworm' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_pitworm
+L 02/08/2025 - 12:21:13: [META] ERROR: Couldn't find game entity 'monster_pitworm_up' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: monster_pitworm_up
+L 02/08/2025 - 12:21:13: Server cvar "mp_nextmap" = "sc_test"
+L 02/08/2025 - 12:21:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/08/2025 - 12:21:13: Server cvar "amx_language" = "en"
+L 02/08/2025 - 12:21:13: Server cvar "amx_client_languages" = "1"
+L 02/08/2025 - 12:21:13: Server cvar "gal_version" = "v5.9.1-926"
+L 02/08/2025 - 12:21:13: Server cvar "Building_Blocks" = "1.4"
+L 02/08/2025 - 12:21:13: Server cvar "amx_client_languages" = "0"
+L 02/08/2025 - 12:21:13: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 02/08/2025 - 12:21:14: Server cvar "amx_nextmap" = "c1a0"
+L 02/08/2025 - 12:21:14: Server cvar "amx_nextmap" = "d1_trainstation_02"
+L 02/08/2025 - 12:21:14: Enemy stats: 33k health, 46+ npcs
+L 02/08/2025 - 12:21:14: Started map "sandbox" (CRC "1323732680")
+L 02/08/2025 - 12:21:14: Server cvar "mp_soundvariety" = "0"
+L 02/08/2025 - 12:21:14: Server cvar "mp_soundvariety" = "1"
+L 02/08/2025 - 12:21:17: \bot3\BOT\ connected from address 127.0.0.1
+L 02/08/2025 - 12:21:17: \bot3\BOT\ entered the game as ld_gordon(154,137)
+L 02/08/2025 - 12:21:17: \bot1\BOT\ connected from address 127.0.0.1
+L 02/08/2025 - 12:21:17: \bot1\BOT\ entered the game as ld_gordon(57,178)
+L 02/08/2025

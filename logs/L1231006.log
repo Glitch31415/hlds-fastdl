@@ -1,0 +1,105 @@
+L 12/31/2024 - 15:44:11: Log file started (file "logs/L1231006.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/31/2024 - 15:44:11: Loading map "sc_test"
+L 12/31/2024 - 15:44:11: Server cvar "mp_soundvariety" = "0"
+L 12/31/2024 - 15:44:11: Server cvar "mp_soundvariety" = "1"
+L 12/31/2024 - 15:44:11: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/31/2024 - 15:44:11: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/31/2024 - 15:44:11: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/31/2024 - 15:44:11: Server cvar "mp_nextmap" = "crossfireXL"
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/31/2024 - 15:44:11: Server cvar "amx_nextmap" = "boot_camp"
+L 12/31/2024 - 15:44:11: Enemy stats: 2k health, 12+ npcs
+L 12/31/2024 - 15:44:11: Started map "sc_test" (CRC "1581495514")
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/31/2024 - 15:44:11: \Virtualpunk\STEAM_0:0:102397735\ connected from address 37.112.171.175:27005
+L 12/31/2024 - 15:44:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/31/2024 - 15:44:14: \bot2\BOT\ connected from address 127.0.0.1
+L 12/31/2024 - 15:44:14: \bot2\BOT\ entered the game as ld_gordon(120,127)
+L 12/31/2024 - 15:44:14: \bot3\BOT\ connected from address 127.0.0.1
+L 12/31/2024 - 15:44:14: \bot3\BOT\ entered the game as ld_gordon(54,216)
+L 12/31/2024 - 15:44:14: \bot1\BOT\ connected from address 127.0.0.1
+L 12/31/2024 - 15:44:14: \bot1\BOT\ entered the game as ld_gordon(18,167)
+L 12/31/2024 - 15:44:16: Dropped Virtualpunk from server
+L 12/31/2024 - 15:44:16: Reason:  Client sent 'drop'
+L 12/31/2024 - 15:44:18: "Virtualpunk<41><STEAM_0:0:102397735><>" STEAM USERID validated
+L 12/31/2024 - 15:44:18: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 15:44:18: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/31/2024 - 15:44:18: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/31/2024 - 15:44:18: \Virtualpunk\STEAM_0:0:102397735\ connected from address 37.112.171.175:27005
+L 12/31/2024 - 15:44:18: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/31/2024 - 15:44:24: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/31/2024 - 15:44:24: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 15:44:24: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/31/2024 - 15:44:24: \Virtualpunk\STEAM_0:0:102397735\ entered the game as barney(0,104)
+L 12/31/2024 - 15:44:24: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 15:44:24: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 15:44:24: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 15:44:25: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 15:44:25: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 15:44:25: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 15:44:25: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 15:44:25: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 15:44:25: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/31/2024 - 15:44:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/31/2024 - 15:44:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/31/2024 - 15:44:26: \Virtualpunk\STEAM_0:0:102397735\ Client version: Half-Life (OpenGL)
+L 12/31/2024 - 15:44:31: \Virtualpunk\STEAM_0:0:102397735\ killed "Grunt" with "crowbar"
+L 12/31/2024 - 15:44:40: \Virtualpunk\STEAM_0:0:102397735\ killed by "Human Grunt"
+L 12/31/2024 - 15:44:43: \Virtualpunk\STEAM_0:0:102397735\ killed "Human Grunt" with "gluon gun"
+L 12/31/2024 - 15:44:43: \Virtualpunk\STEAM_0:0:102397735\ killed by "Human Grunt"
+L 12/31/2024 - 15:44:46: \Virtualpunk\STEAM_0:0:102397735\ killed "Human Grunt" with "shotgun"
+L 12/31/2024 - 15:44:51: \Virtualpunk\STEAM_0:0:102397735\ killed "Human Grunt" with "shotgun"
+L 12/31/2024 - 15:45:12: \Virtualpunk\STEAM_0:0:102397735\ killed "Human Grunt" with "crowbar"
+L 12/31/2024 - 15:45:33: \Virtualpunk\STEAM_0:0:102397735\ killed "Osprey" with "9mmAR"
+L 12/31/2024 - 15:45:43: \Virtualpunk\STEAM_0:0:102397735\ killed "Ichthyosaur" with "9mmAR"
+L 12/31/2024 - 15:46:00: \Virtualpunk\STEAM_0:0:102397735\ killed by "Ichthyosaur"
+L 12/31/2024 - 15:46:12: \Virtualpunk\STEAM_0:0:102397735\ killed "Ichthyosaur" with "gluon gun"
+L 12/31/2024 - 15:46:28: \Virtualpunk\STEAM_0:0:102397735\ say "rtv"
+L 12/31/2024 - 15:46:48: \Virtualpunk\STEAM_0:0:102397735\ committed suicide with "gluon gun"
+L 12/31/2024 - 15:47:02: \Virtualpunk\STEAM_0:0:102397735\ committed suicide with "gluon gun"
+L 12/31/2024 - 15:47:04: Server cvar "amx_nextmap" = "crossfireXL"
+L 12/31/2024 - 15:47:07: \Virtualpunk\STEAM_0:0:102397735\ committed suicide with "gluon gun"
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: \bot2\BOT\ disconnected
+L 12/31/2024 - 15:47:08: Dropped bot2 from server
+L 12/31/2024 - 15:47:08: Reason:  Dropping fakeclient on level change
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: \bot3\BOT\ disconnected
+L 12/31/2024 - 15:47:08: Dropped bot3 from server
+L 12/31/2024 - 15:47:08: Reason:  Dropping fakeclient on level change
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: \bot1\BOT\ disconnected
+L 12/31/2024 - 15:47:08: Dropped bot1 from server
+L 12/31/2024 - 15:47:08: Reason:  Dropping fakeclient on level change
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 12/31/2024 - 15:47:08: \Virtualpunk\STEAM_0:0:102397735\ 76 points, 6 deaths
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 12/31/2024 - 15:47:08: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 12/31/2024 - 15:47:08: [META] ini: Read plugin config for: AMX Mod X
+L 12/31/2024 - 15:47:08: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 12/31/2024 - 15:47:08: [META] dll: Updating plugins...
+L 12/31/2024 - 15:47:08: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 12/31/2024 - 15:47:08: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/31/2024 - 15:47:08: \Virtualpunk\STEAM_0:0:102397735\ disconnected with 76 points
+L 12/31/2024 - 15:47:08: Log file closed
+
+-------------------------------------------------------------------------------
+

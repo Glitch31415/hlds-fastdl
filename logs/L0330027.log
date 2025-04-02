@@ -1,0 +1,51 @@
+L 03/30/2025 - 18:57:05: Log file started (file "logs/L0330027.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 03/30/2025 - 18:57:05: Loading map "hldm_2fort_sandbox"
+L 03/30/2025 - 18:57:05: Server cvar "mp_soundvariety" = "0"
+L 03/30/2025 - 18:57:05: Server cvar "mp_soundvariety" = "1"
+L 03/30/2025 - 18:57:05: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 03/30/2025 - 18:57:05: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 03/30/2025 - 18:57:05: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 03/30/2025 - 18:57:05: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 03/30/2025 - 18:57:05: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 03/30/2025 - 18:57:05: [META] (debug:3) Calling server.so:ServerActivate()
+L 03/30/2025 - 18:57:06: Server cvar "mp_nextmap" = "dead-dust2_sandbox"
+L 03/30/2025 - 18:57:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 03/30/2025 - 18:57:06: Server cvar "amx_nextmap" = "chaos_sandbox"
+L 03/30/2025 - 18:57:06: Enemy stats: 0k health, 0 npcs
+L 03/30/2025 - 18:57:06: Started map "hldm_2fort_sandbox" (CRC "579208788")
+L 03/30/2025 - 18:57:06: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/30/2025 - 18:57:06: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/30/2025 - 18:57:06: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/30/2025 - 18:57:06: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/30/2025 - 18:57:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/30/2025 - 18:57:07: Dropped glitch31415 from server
+L 03/30/2025 - 18:57:07: Reason:  Client sent 'drop'
+L 03/30/2025 - 18:57:07: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/30/2025 - 18:57:07: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/30/2025 - 18:57:07: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/30/2025 - 18:57:07: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/30/2025 - 18:57:07: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/30/2025 - 18:57:07: "glitch31415<6><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/30/2025 - 18:57:08: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/30/2025 - 18:57:08: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/30/2025 - 18:57:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/30/2025 - 18:57:08: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 03/30/2025 - 18:57:08: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/30/2025 - 18:57:08: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/30/2025 - 18:57:08: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/30/2025 - 18:57:09: \bot1\BOT\ connected from address 127.0.0.1
+L 03/30/2025 - 18:57:09: \bot1\BOT\ entered the game as ld_gordon(43,217)
+L 03/30/2025 - 18:57:09: \bot3\BOT\ connected from address 127.0.0.1
+L 03/30/2025 - 18:57:09: \bot3\BOT\ entered the game as ld_gordon(207,226)
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/30/2025 - 18:57:09: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/30/2025 - 18:57:09: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 03/30/2025 - 18:57:09: \bot2\BOT\ connected from address 127.0.0.1
+L 03/30/2025 - 18:57:09: \bot2\BOT\ entered the game as ld_gordon(220,140)
+L 03/30/2025 - 19:02:50: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "glu

@@ -1,0 +1,3 @@
+L 12/21/2024 - 14:17:31: [FUN] Invalid player 4
+L 12/21/2024 - 14:17:31: [AMXX] Run time error 10 (plugin "abd-old.amxx") (native "set_user_maxspeed") - debug not enabled!
+L 12/21/2024 - 14:17:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

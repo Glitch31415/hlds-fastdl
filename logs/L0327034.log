@@ -1,0 +1,437 @@
+L 03/27/2025 - 21:38:38: Log file started (file "logs/L0327034.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 03/27/2025 - 21:38:38: Loading map "hldm_2fort_sandbox"
+L 03/27/2025 - 21:38:38: Server cvar "mp_soundvariety" = "0"
+L 03/27/2025 - 21:38:38: Server cvar "mp_soundvariety" = "1"
+L 03/27/2025 - 21:38:38: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 03/27/2025 - 21:38:38: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 03/27/2025 - 21:38:38: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 03/27/2025 - 21:38:38: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 03/27/2025 - 21:38:38: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 03/27/2025 - 21:38:38: [META] (debug:3) Calling server.so:ServerActivate()
+L 03/27/2025 - 21:38:38: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 03/27/2025 - 21:38:38: Enemy stats: 0k health, 0 npcs
+L 03/27/2025 - 21:38:38: Started map "hldm_2fort_sandbox" (CRC "579208788")
+L 03/27/2025 - 21:38:39: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/27/2025 - 21:38:39: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/27/2025 - 21:38:39: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/27/2025 - 21:38:39: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/27/2025 - 21:38:39: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/27/2025 - 21:38:39: Dropped glitch31415 from server
+L 03/27/2025 - 21:38:39: Reason:  Client sent 'drop'
+L 03/27/2025 - 21:38:41: \bot2\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 21:38:41: \bot2\BOT\ entered the game as ld_gordon(103,59)
+L 03/27/2025 - 21:38:42: \bot3\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 21:38:42: \bot3\BOT\ entered the game as ld_gordon(81,122)
+L 03/27/2025 - 21:38:42: \bot1\BOT\ connected from address 127.0.0.1
+L 03/27/2025 - 21:38:42: \bot1\BOT\ entered the game as ld_gordon(203,22)
+L 03/28/2025 - 08:20:31: "143.42.54.115:27012<16><STEAM_0:1:427433233><>" STEAM USERID validated
+L 03/28/2025 - 08:20:31: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 08:20:31: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 08:20:31: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 08:20:31: \143.42.54.115:27012\STEAM_0:1:427433233\ connected from address 31.223.59.135:15183
+L 03/28/2025 - 08:20:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 08:20:37: Dropped 143.42.54.115:27012 from server
+L 03/28/2025 - 08:20:37: Reason:  Client sent 'drop'
+L 03/28/2025 - 08:20:58: "143.42.54.115:27012<17><STEAM_0:1:427433233><>" STEAM USERID validated
+L 03/28/2025 - 08:20:58: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 08:20:58: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 08:20:58: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 08:20:58: \143.42.54.115:27012\STEAM_0:1:427433233\ connected from address 31.223.59.135:15183
+L 03/28/2025 - 08:20:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 08:21:08: Dropped 143.42.54.115:27012 from server
+L 03/28/2025 - 08:21:08: Reason:  Client sent 'drop'
+L 03/28/2025 - 17:10:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:10:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:10:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 17:10:10: \Heinz Doofenshmirtz\STEAM_0:1:582993605\ connected from address 38.250.158.133:2625
+L 03/28/2025 - 17:10:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 17:10:10: "Heinz Doofenshmirtz<18><STEAM_0:1:582993605><>" STEAM USERID validated
+L 03/28/2025 - 17:10:15: Dropped Heinz Doofenshmirtz from server
+L 03/28/2025 - 17:10:15: Reason:  Client sent 'drop'
+L 03/28/2025 - 17:10:31: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:10:31: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:10:31: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 17:10:31: \Heinz Doofenshmirtz\STEAM_0:1:582993605\ connected from address 38.250.158.133:2625
+L 03/28/2025 - 17:10:31: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 17:10:31: "Heinz Doofenshmirtz<19><STEAM_0:1:582993605><>" STEAM USERID validated
+L 03/28/2025 - 17:11:38: Dropped Heinz Doofenshmirtz from server
+L 03/28/2025 - 17:11:38: Reason:  Client sent 'drop'
+L 03/28/2025 - 17:39:01: "OTTA<20><STEAM_0:0:535938544><>" STEAM USERID validated
+L 03/28/2025 - 17:39:01: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:39:01: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:39:01: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 17:39:01: \OTTA\STEAM_0:0:535938544\ connected from address 186.158.144.238:50979
+L 03/28/2025 - 17:39:01: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 17:39:06: Dropped OTTA from server
+L 03/28/2025 - 17:39:06: Reason:  Client sent 'drop'
+L 03/28/2025 - 17:39:21: "OTTA<21><STEAM_0:0:535938544><>" STEAM USERID validated
+L 03/28/2025 - 17:39:21: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:39:21: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 17:39:21: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 17:39:21: \OTTA\STEAM_0:0:535938544\ connected from address 186.158.144.238:50979
+L 03/28/2025 - 17:39:21: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 17:43:21: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/28/2025 - 17:43:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 17:43:21: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/28/2025 - 17:43:21: \OTTA\STEAM_0:0:535938544\ entered the game as gordon(30,6)
+L 03/28/2025 - 17:43:21: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 17:43:21: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 17:43:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 17:43:23: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 17:43:23: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 17:43:23: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 17:43:23: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 17:43:23: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 17:43:23: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 17:43:24: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 17:43:24: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 17:43:24: \OTTA\STEAM_0:0:535938544\ Client version: Half-Life (OpenGL)
+L 03/28/2025 - 17:46:39: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 17:46:39: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 17:46:39: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 17:46:39: \OTTA\STEAM_0:0:535938544\ disconnected
+L 03/28/2025 - 17:46:39: Dropped OTTA from server
+L 03/28/2025 - 17:46:39: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:05:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:05:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:05:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:05:10: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:05:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:05:10: "glitch31415<22><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:05:11: Dropped glitch31415 from server
+L 03/28/2025 - 22:05:11: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:05:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:05:11: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:05:11: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:05:11: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:05:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:05:11: "glitch31415<23><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/28/2025 - 22:05:13: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:05:13: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:05:13: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 03/28/2025 - 22:05:39: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 03/28/2025 - 22:05:44: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 03/28/2025 - 22:05:53: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 03/28/2025 - 22:05:54: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 03/28/2025 - 22:05:54: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 03/28/2025 - 22:05:55: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:05:59: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:06:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:06:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:06:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:06:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:06:26: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:06:29: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:06:37: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:06:48: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:06:50: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:07:19: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:07:22: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:07:29: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:07:38: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:07:44: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:07:57: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:08:03: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:08:14: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:08:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ committed suicide with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:27: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:09:32: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 03/28/2025 - 22:10:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 03/28/2025 - 22:10:04: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 03/28/2025 - 22:10:09: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 03/28/2025 - 22:10:09: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 03/28/2025 - 22:10:15: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:18: \glitch31415\STEAM_0:0:743386914\ committed suicide with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:28: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:38: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:38: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:38: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:38: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 03/28/2025 - 22:10:42: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:10:47: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:10:50: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:10:53: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:10:58: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:10:59: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:11:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:11:01: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:11:02: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:11:03: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:11:09: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:11:11: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 03/28/2025 - 22:11:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:11:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:11:17: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:11:17: \glitch31415\STEAM_0:0:743386914\ disconnected with 446 points
+L 03/28/2025 - 22:11:17: Dropped glitch31415 from server
+L 03/28/2025 - 22:11:17: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:13:59: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:13:59: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:13:59: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:13:59: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:13:59: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:13:59: "glitch31415<24><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:14:00: Dropped glitch31415 from server
+L 03/28/2025 - 22:14:00: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:14:00: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:14:00: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:14:00: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:14:00: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:14:00: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:14:01: "glitch31415<25><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/28/2025 - 22:14:02: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:02: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:02: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 03/28/2025 - 22:14:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:14:08: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:14:08: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:14:08: \glitch31415\STEAM_0:0:743386914\ disconnected with 446 points
+L 03/28/2025 - 22:14:08: Dropped glitch31415 from server
+L 03/28/2025 - 22:14:08: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:14:34: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:14:34: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:14:34: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:14:34: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:14:34: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:14:34: "glitch31415<26><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:14:35: Dropped glitch31415 from server
+L 03/28/2025 - 22:14:35: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:14:35: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:14:35: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:14:35: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:14:35: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:14:35: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:14:36: "glitch31415<27><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:14:37: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/28/2025 - 22:14:37: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:37: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/28/2025 - 22:14:37: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 03/28/2025 - 22:14:37: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:37: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:37: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:14:38: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:14:38: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 03/28/2025 - 22:14:56: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:57: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:57: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:57: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:57: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:14:59: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:15:04: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:15:05: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:15:14: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:15:26: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:15:29: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:15:30: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:15:34: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:16:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 03/28/2025 - 22:17:01: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmhandgun"
+L 03/28/2025 - 22:17:39: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:17:42: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:17:43: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:17:47: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:17:53: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:17:59: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:18:06: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 03/28/2025 - 22:18:08: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:18:13: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:19:02: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 03/28/2025 - 22:19:37: \glitch31415\STEAM_0:0:743386914\ killed "Shock Roach" with "rpg_rocket"
+L 03/28/2025 - 22:20:06: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:06: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:06: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:06: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:13: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:13: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:15: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:19: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:19: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:20: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "357"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:52: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:20:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "tau_cannon"
+L 03/28/2025 - 22:21:10: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:10: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:10: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:10: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:10: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:10: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:11: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:12: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:13: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 03/28/2025 - 22:21:25: Rcon: "rcon 2093540045 "5pgW37D7ad" changelevel sandbox" from "127.0.0.1:27005"
+L 03/28/2025 - 22:21:29: Rcon: "rcon 2093540045 "5pgW37D7ad" changelevel chaos_sandbox" from "127.0.0.1:27005"
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: \bot2\BOT\ disconnected
+L 03/28/2025 - 22:21:29: Dropped bot2 from server
+L 03/28/2025 - 22:21:29: Reason:  Dropping fakeclient on level change
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: \bot3\BOT\ disconnected
+L 03/28/2025 - 22:21:29: Dropped bot3 from server
+L 03/28/2025 - 22:21:29: Reason:  Dropping fakeclient on level change
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: \bot1\BOT\ disconnected
+L 03/28/2025 - 22:21:29: Dropped bot1 from server
+L 03/28/2025 - 22:21:29: Reason:  Dropping fakeclient on level change
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 03/28/2025 - 22:21:29: \glitch31415\STEAM_0:0:743386914\ 1050 points, 16 deaths
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 03/28/2025 - 22:21:29: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 03/28/2025 - 22:21:29: [META] ini: Read plugin config for: AMX Mod X
+L 03/28/2025 - 22:21:29: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 03/28/2025 - 22:21:29: [META] dll: Updating plugins...
+L 03/28/2025 - 22:21:29: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 03/28/2025 - 22:21:29: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:21:29: \glitch31415\STEAM_0:0:743386914\ disconnected with 1050 points
+L 03/28/2025 - 22:21:29: Log file closed
+
+-------------------------------------------------------------------------------
+

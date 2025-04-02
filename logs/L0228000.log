@@ -1,0 +1,52 @@
+L 02/28/2025 - 02:04:08: Log file started (file "logs/L0228000.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/28/2025 - 02:04:08: Loading map "chaos_sandbox"
+L 02/28/2025 - 02:04:08: Server cvar "mp_soundvariety" = "0"
+L 02/28/2025 - 02:04:08: Server cvar "mp_soundvariety" = "1"
+L 02/28/2025 - 02:04:08: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/28/2025 - 02:04:08: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/28/2025 - 02:04:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/28/2025 - 02:04:08: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/28/2025 - 02:04:08: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/28/2025 - 02:04:08: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/28/2025 - 02:04:08: Server cvar "mp_nextmap" = "sc_test_sandbox"
+L 02/28/2025 - 02:04:08: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/28/2025 - 02:04:09: Server cvar "amx_nextmap" = "crossfireXL_sandbox"
+L 02/28/2025 - 02:04:09: Enemy stats: 33k health, 46+ npcs
+L 02/28/2025 - 02:04:09: Started map "chaos_sandbox" (CRC "1323732680")
+L 02/28/2025 - 02:04:09: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/28/2025 - 02:04:09: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/28/2025 - 02:04:09: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/28/2025 - 02:04:09: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/28/2025 - 02:04:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/28/2025 - 02:04:10: Dropped glitch31415 from server
+L 02/28/2025 - 02:04:10: Reason:  Client sent 'drop'
+L 02/28/2025 - 02:04:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/28/2025 - 02:04:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/28/2025 - 02:04:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/28/2025 - 02:04:10: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/28/2025 - 02:04:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/28/2025 - 02:04:11: "glitch31415<35><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/28/2025 - 02:04:12: \bot2\BOT\ connected from address 127.0.0.1
+L 02/28/2025 - 02:04:12: \bot2\BOT\ entered the game as ld_gordon(89,152)
+L 02/28/2025 - 02:04:12: \bot3\BOT\ connected from address 127.0.0.1
+L 02/28/2025 - 02:04:12: \bot3\BOT\ entered the game as ld_gordon(72,247)
+L 02/28/2025 - 02:04:12: \bot1\BOT\ connected from address 127.0.0.1
+L 02/28/2025 - 02:04:12: \bot1\BOT\ entered the game as ld_gordon(227,168)
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/28/2025 - 02:04:12: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/28/2025 - 02:04:12: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/28/2025 - 02:04:12: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/28/2025 - 02:06:10: [META] (debug:3) Calling server.so:ClientKill()
+L 02/28/2025 - 02:0

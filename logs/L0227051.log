@@ -1,0 +1,96 @@
+L 02/27/2025 - 20:55:23: Log file started (file "logs/L0227051.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/27/2025 - 20:55:23: Loading map "infested"
+L 02/27/2025 - 20:55:23: Server cvar "mp_soundvariety" = "0"
+L 02/27/2025 - 20:55:23: Server cvar "mp_soundvariety" = "1"
+L 02/27/2025 - 20:55:23: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/27/2025 - 20:55:23: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/27/2025 - 20:55:23: Server cvar "mp_nextmap" = "d1_trainstation_02_sandbox"
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/27/2025 - 20:55:23: Server cvar "amx_nextmap" = "infested2"
+L 02/27/2025 - 20:55:23: Enemy stats: 40k health, 178+ npcs
+L 02/27/2025 - 20:55:23: Started map "infested" (CRC "1856797836")
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 20:55:23: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 20:55:23: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 20:55:24: Dropped glitch31415 from server
+L 02/27/2025 - 20:55:24: Reason:  Client sent 'drop'
+L 02/27/2025 - 20:55:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:55:25: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/27/2025 - 20:55:25: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/27/2025 - 20:55:25: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/27/2025 - 20:55:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/27/2025 - 20:55:25: "glitch31415<8><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/27/2025 - 20:55:26: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/27/2025 - 20:55:26: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:55:26: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/27/2025 - 20:55:26: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/27/2025 - 20:55:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:55:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:55:26: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:55:26: \bot2\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 20:55:26: \bot2\BOT\ entered the game as ld_gordon(140,36)
+L 02/27/2025 - 20:55:26: \bot3\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 20:55:26: \bot3\BOT\ entered the game as ld_gordon(66,253)
+L 02/27/2025 - 20:55:26: \bot1\BOT\ connected from address 127.0.0.1
+L 02/27/2025 - 20:55:26: \bot1\BOT\ entered the game as ld_gordon(102,196)
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/27/2025 - 20:55:27: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/27/2025 - 20:55:27: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/27/2025 - 20:56:46: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Gun" with "9mmAR"
+L 02/27/2025 - 20:56:57: \glitch31415\STEAM_0:0:743386914\ killed "Security Guard #1" with "rpg_rocket"
+L 02/27/2025 - 20:56:57: \glitch31415\STEAM_0:0:743386914\ killed "Security Guard #2" with "rpg_rocket"
+L 02/27/2025 - 20:57:06: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "9mmAR"
+L 02/27/2025 - 20:57:10: \glitch31415\STEAM_0:0:743386914\ killed "Enemy Medic" with "9mmAR"
+L 02/27/2025 - 20:57:11: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 20:57:20: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 20:57:26: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 20:57:34: \glitch31415\STEAM_0:0:743386914\ killed by "Heavy Weapons Grunt"
+L 02/27/2025 - 20:57:38: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Gun" with "shotgun"
+L 02/27/2025 - 20:57:39: \glitch31415\STEAM_0:0:743386914\ killed by "Heavy Weapons Grunt"
+L 02/27/2025 - 20:57:44: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 20:57:48: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 20:57:53: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 20:57:55: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 20:57:57: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "shotgun"
+L 02/27/2025 - 20:58:10: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 20:58:16: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 20:58:21: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 20:58:28: \glitch31415\STEAM_0:0:743386914\ killed by "Heavy Weapons Grunt"
+L 02/27/2025 - 20:58:31: \glitch31415\STEAM_0:0:743386914\ killed by "Heavy Weapons Grunt"
+L 02/27/2025 - 20:58:38: \glitch31415\STEAM_0:0:743386914\ killed "Heavy Weapons Grunt" with "shotgun"
+L 02/27/2025 - 20:58:40: \glitch31415\STEAM_0:0:743386914\ killed "Heavy Weapons Grunt" with "shotgun"
+L 02/27/2025 - 21:00:34: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "tripmine"
+L 02/27/2025 - 21:00:34: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "tripmine"
+L 02/27/2025 - 21:00:42: \glitch31415\STEAM_0:0:743386914\ killed "Sentry Turret" with "9mmAR"
+L 02/27/2025 - 21:01:03: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:01:07: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 21:01:09: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 21:01:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 21:01:27: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 21:02:25: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 21:02:53: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 21:02:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 21:03:05: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 21:03:46: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/27/2025 - 21:04:04: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/27/2025 - 21:04:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:06:20: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:06:59: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:07:02: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:07:02: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:07:16: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:07:21: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "9mmAR"
+L 02/27/2025 - 21:07:29: \glitch31415\STEAM_0:0:743386914\ killed "Security Guard" with "shotgun"
+L 02/27/2025 - 21:07:38: \g

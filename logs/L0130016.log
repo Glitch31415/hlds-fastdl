@@ -1,0 +1,100 @@
+L 01/30/2025 - 22:10:31: Log file started (file "logs/L0130016.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 01/30/2025 - 22:10:31: Loading map "sandbox"
+L 01/30/2025 - 22:10:31: [META] (debug:2) Resolved 'addons/amxmodx/modules/engine_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/engine_amxx_i386.so'
+L 01/30/2025 - 22:10:31: [ENGINE] dev: called: Meta_Query; version=5:13, ours=5:13
+L 01/30/2025 - 22:10:31: [ENGINE] dev: called: GetNewDLLFunctions; version=1
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Engine': Found GetNewDLLFunctions
+L 01/30/2025 - 22:10:31: [ENGINE] dev: called: GetNewDLLFunctions_Post; version=1
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Engine': Found GetNewDLLFunctions_Post
+L 01/30/2025 - 22:10:31: [ENGINE] dev: called: GetEntityAPI2; version=140
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Engine': Found GetEntityAPI2
+L 01/30/2025 - 22:10:31: [ENGINE] dev: called: GetEntityAPI2_Post; version=140
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Engine': Found GetEntityAPI2_Post
+L 01/30/2025 - 22:10:31: [ENGINE] dev: called: GetEngineFunctions; version=138
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Engine': Found GetEngineFunctions
+L 01/30/2025 - 22:10:31: [ENGINE] dev: called: GetEngineFunctions_Post; version=138
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Engine': Found GetEngineFunctions_Post
+L 01/30/2025 - 22:10:31: [META] dll: Loaded plugin 'Engine': Engine v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 01/30/2025 - 22:10:31: [META] (debug:1) Loaded plugin 'Engine' successfully
+L 01/30/2025 - 22:10:31: [META] (debug:2) Resolved 'addons/amxmodx/modules/fun_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/fun_amxx_i386.so'
+L 01/30/2025 - 22:10:31: [FUN] dev: called: Meta_Query; version=5:13, ours=5:13
+L 01/30/2025 - 22:10:31: [FUN] dev: called: GetNewDLLFunctions; version=1
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Fun': Found GetNewDLLFunctions
+L 01/30/2025 - 22:10:31: [FUN] dev: called: GetNewDLLFunctions_Post; version=1
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Fun': Found GetNewDLLFunctions_Post
+L 01/30/2025 - 22:10:31: [FUN] dev: called: GetEntityAPI2; version=140
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Fun': Found GetEntityAPI2
+L 01/30/2025 - 22:10:31: [FUN] dev: called: GetEntityAPI2_Post; version=140
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Fun': Found GetEntityAPI2_Post
+L 01/30/2025 - 22:10:31: [FUN] dev: called: GetEngineFunctions; version=138
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Fun': Found GetEngineFunctions
+L 01/30/2025 - 22:10:31: [FUN] dev: called: GetEngineFunctions_Post; version=138
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'Fun': Found GetEngineFunctions_Post
+L 01/30/2025 - 22:10:31: [META] dll: Loaded plugin 'Fun': Fun v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 01/30/2025 - 22:10:31: [META] (debug:1) Loaded plugin 'Fun' successfully
+L 01/30/2025 - 22:10:31: [META] (debug:2) Resolved 'addons/amxmodx/modules/fakemeta_amxx_i386.so' to file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/modules/fakemeta_amxx_i386.so'
+L 01/30/2025 - 22:10:31: [FAKEMETA] dev: called: Meta_Query; version=5:13, ours=5:13
+L 01/30/2025 - 22:10:31: [FAKEMETA] dev: called: GetNewDLLFunctions; version=1
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetNewDLLFunctions
+L 01/30/2025 - 22:10:31: [FAKEMETA] dev: called: GetNewDLLFunctions_Post; version=1
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetNewDLLFunctions_Post
+L 01/30/2025 - 22:10:31: [FAKEMETA] dev: called: GetEntityAPI2; version=140
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEntityAPI2
+L 01/30/2025 - 22:10:31: [FAKEMETA] dev: called: GetEntityAPI2_Post; version=140
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEntityAPI2_Post
+L 01/30/2025 - 22:10:31: [FAKEMETA] dev: called: GetEngineFunctions; version=138
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEngineFunctions
+L 01/30/2025 - 22:10:31: [FAKEMETA] dev: called: GetEngineFunctions_Post; version=138
+L 01/30/2025 - 22:10:31: [META] (debug:3) dll: Plugin 'FakeMeta': Found GetEngineFunctions_Post
+L 01/30/2025 - 22:10:31: [META] dll: Loaded plugin 'FakeMeta': FakeMeta v1.8.2 Feb 14 2013, AMX Mod X Dev Team
+L 01/30/2025 - 22:10:31: [META] (debug:1) Loaded plugin 'FakeMeta' successfully
+L 01/30/2025 - 22:10:31: Server cvar "amxmodx_version" = "1.8.2"
+L 01/30/2025 - 22:10:32: Server cvar "mp_mergemodels" = "1"
+L 01/30/2025 - 22:10:32: Server cvar "sv_aim" = "0"
+L 01/30/2025 - 22:10:32: Server cvar "sv_clienttrace" = "3.5"
+L 01/30/2025 - 22:10:32: Server cvar "sv_ledgesize" = "64"
+L 01/30/2025 - 22:10:32: Server cvar "mp_chattime" = "3"
+L 01/30/2025 - 22:10:32: Server cvar "mp_friendlyfire" = "1"
+L 01/30/2025 - 22:10:32: Server cvar "mp_weaponstay" = "1"
+L 01/30/2025 - 22:10:32: Server cvar "pausable" = "0"
+L 01/30/2025 - 22:10:32: Server cvar "starthealth" = "100"
+L 01/30/2025 - 22:10:32: Server cvar "sv_allow_autoaim" = "0"
+L 01/30/2025 - 22:10:32: Server cvar "sv_maxrate" = "60000000"
+L 01/30/2025 - 22:10:32: Server cvar "sv_minrate" = "59999999"
+L 01/30/2025 - 22:10:32: Server cvar "mp_soundvariety" = "1"
+L 01/30/2025 - 22:10:32: Server cvar "mp_teamlist" = ""
+L 01/30/2025 - 22:10:32: Server cvar "mp_killfeed" = "3"
+L 01/30/2025 - 22:10:32: Server cvar "mp_respawndelay" = "0"
+L 01/30/2025 - 22:10:32: [META] (debug:3) Calling engine:AddServerCommand()
+L 01/30/2025 - 22:10:32: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 01/30/2025 - 22:10:32: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 01/30/2025 - 22:10:32: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 01/30/2025 - 22:10:32: [META] (debug:3) Calling server.so:ServerActivate()
+L 01/30/2025 - 22:10:32: Server cvar "mp_nextmap" = "sc_test"
+L 01/30/2025 - 22:10:32: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 01/30/2025 - 22:10:32: Server cvar "amx_language" = "en"
+L 01/30/2025 - 22:10:32: Server cvar "amx_client_languages" = "1"
+L 01/30/2025 - 22:10:32: Server cvar "gal_version" = "v5.9.1-926"
+L 01/30/2025 - 22:10:32: Server cvar "Building_Blocks" = "1.4"
+L 01/30/2025 - 22:10:32: Server cvar "amx_client_languages" = "0"
+L 01/30/2025 - 22:10:32: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/30/2025 - 22:10:32: Server cvar "amx_nextmap" = "c1a0"
+L 01/30/2025 - 22:10:32: Server cvar "amx_nextmap" = "d1_trainstation_02"
+L 01/30/2025 - 22:10:32: Started map "sandbox" (CRC "1323732680")
+L 01/30/2025 - 22:10:32: Server cvar "mp_soundvariety" = "0"
+L 01/30/2025 - 22:10:32: Server cvar "mp_soundvariety" = "1"
+L 01/30/2025 - 22:10:34: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 01/30/2025 - 22:10:34: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 01/30/2025 - 22:10:34: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 01/30/2025 - 22:10:34: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 01/30/2025 - 22:10:34: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 01/30/2025 - 22:10:34: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 01/30/2025 - 22:10:34: [META] ini: Read plugin config for: AMX Mod X
+L 01/30/2025 - 22:10:34: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 01/30/2025 - 22:10:34: [META] dll: Updating plugins...
+L 01/30/2025 - 22:10:34: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 01/30/2025 - 22:10:34: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/30/2025 - 22:10:34: Log file closed
+
+-------------------------------------------------------------------------------
+

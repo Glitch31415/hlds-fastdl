@@ -1,0 +1,210 @@
+L 02/20/2025 - 15:37:41: Log file started (file "logs/L0220013.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 02/20/2025 - 15:37:41: Loading map "hldm_2fort"
+L 02/20/2025 - 15:37:42: Server cvar "mp_soundvariety" = "0"
+L 02/20/2025 - 15:37:42: Server cvar "mp_soundvariety" = "1"
+L 02/20/2025 - 15:37:42: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 02/20/2025 - 15:37:42: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling server.so:ServerActivate()
+L 02/20/2025 - 15:37:42: Server cvar "mp_nextmap" = "dead-dust2"
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 02/20/2025 - 15:37:42: Server cvar "amx_nextmap" = "e1m1"
+L 02/20/2025 - 15:37:42: Enemy stats: 0k health, 0 npcs
+L 02/20/2025 - 15:37:42: Started map "hldm_2fort" (CRC "579208788")
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/20/2025 - 15:37:42: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/20/2025 - 15:37:42: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/20/2025 - 15:37:44: Dropped glitch31415 from server
+L 02/20/2025 - 15:37:44: Reason:  Client sent 'drop'
+L 02/20/2025 - 15:37:44: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:37:44: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 02/20/2025 - 15:37:44: [META] (debug:3) Calling server.so:ClientConnect()
+L 02/20/2025 - 15:37:44: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 02/20/2025 - 15:37:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 02/20/2025 - 15:37:44: "glitch31415<6><STEAM_0:0:743386914><>" STEAM USERID validated
+L 02/20/2025 - 15:37:45: \bot3\BOT\ connected from address 127.0.0.1
+L 02/20/2025 - 15:37:45: \bot3\BOT\ entered the game as ld_gordon(14,207)
+L 02/20/2025 - 15:37:45: \bot2\BOT\ connected from address 127.0.0.1
+L 02/20/2025 - 15:37:45: \bot2\BOT\ entered the game as ld_gordon(186,122)
+L 02/20/2025 - 15:37:45: \bot1\BOT\ connected from address 127.0.0.1
+L 02/20/2025 - 15:37:45: \bot1\BOT\ entered the game as ld_gordon(168,46)
+L 02/20/2025 - 15:37:46: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 02/20/2025 - 15:37:46: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:37:46: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 02/20/2025 - 15:37:46: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 02/20/2025 - 15:37:46: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:37:46: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:37:46: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 02/20/2025 - 15:37:47: [META] (debug:3) Calling server.so:CvarValue2()
+L 02/20/2025 - 15:37:47: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 02/20/2025 - 15:38:26: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/20/2025 - 15:38:36: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/20/2025 - 15:38:47: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/20/2025 - 15:38:50: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/20/2025 - 15:39:16: \glitch31415\STEAM_0:0:743386914\ killed by "Human Grunt"
+L 02/20/2025 - 15:39:41: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/20/2025 - 15:39:50: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "shotgun"
+L 02/20/2025 - 15:41:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 02/20/2025 - 15:41:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 02/20/2025 - 15:41:23: \glitch31415\STEAM_0:0:743386914\ killed "Human Grunt" with "grenade"
+L 02/20/2025 - 15:42:07: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:42:07: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:42:12: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:42:12: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:42:12: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:42:12: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:42:12: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:42:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:42:20: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:42:21: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:42:25: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:42:30: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:42:32: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:42:35: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:42:36: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:42:37: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:42:38: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:43:17: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:43:17: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:43:17: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:43:17: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:43:25: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:43:25: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:43:25: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:43:56: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:00: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:05: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:05: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:05: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:08: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:08: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:08: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:44:13: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:44:19: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:44:20: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:44:21: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:44:23: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:44:26: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "shotgun"
+L 02/20/2025 - 15:46:59: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "crowbar"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 02/20/2025 - 15:48:16: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 02/20/2025 - 15:48:23: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:48:23: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:48:50: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:48:50: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:48:52: \glitch31415\STEAM_0:0:743386914\ killed "Zombie" with "9mmAR"
+L 02/20/2025 - 15:49:16: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 02/20/2025 - 15:49:16: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 02/20/2025 - 15:49:16: \glitch31415\STEAM_0:0:743386914\ killed "Barney" with "grenade"
+L 02/20/2025 - 15:49:25: Rcon: "rcon 183789297 "5pgW37D7ad" restart" from "127.0.0.1:27005"
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: \bot3\BOT\ disconnected
+L 02/20/2025 - 15:49:25: Dropped bot3 from server
+L 02/20/2025 - 15:49:25: Reason:  Dropping fakeclient on level change
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: \bot2\BOT\ disconnected
+L 02/20/2025 - 15:49:25: Dropped bot2 from server
+L 02/20/2025 - 15:49:25: Reason:  Dropping fakeclient on level change
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: \bot1\BOT\ disconnected
+L 02/20/2025 - 15:49:25: Dropped bot1 from server
+L 02/20/2025 - 15:49:25: Reason:  Dropping fakeclient on level change
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 02/20/2025 - 15:49:25: \glitch31415\STEAM_0:0:743386914\ 1123 points, 5 deaths
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 02/20/2025 - 15:49:25: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 02/20/2025 - 15:49:25: [META] ini: Read plugin config for: AMX Mod X
+L 02/20/2025 - 15:49:25: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 02/20/2025 - 15:49:25: [META] dll: Updating plugins...
+L 02/20/2025 - 15:49:25: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 02/20/2025 - 15:49:25: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 02/20/2025 - 15:49:25: \glitch31415\STEAM_0:0:743386914\ disconnected with 1123 points
+L 02/20/2025 - 15:49:25: Log file closed
+
+-------------------------------------------------------------------------------
+

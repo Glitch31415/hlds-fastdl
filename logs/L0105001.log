@@ -1,0 +1,149 @@
+L 01/05/2025 - 10:38:11: Log file started (file "logs/L0105001.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 01/05/2025 - 10:38:11: Loading map "d1_trainstation_02"
+L 01/05/2025 - 10:38:11: Server cvar "mp_soundvariety" = "0"
+L 01/05/2025 - 10:38:11: Server cvar "mp_soundvariety" = "1"
+L 01/05/2025 - 10:38:11: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 01/05/2025 - 10:38:11: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling server.so:ServerActivate()
+L 01/05/2025 - 10:38:11: Server cvar "mp_nextmap" = "d1_town_01"
+L 01/05/2025 - 10:38:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 01/05/2025 - 10:38:11: Server cvar "amx_nextmap" = "sc_test"
+L 01/05/2025 - 10:38:12: Enemy stats: 0k health, 0 npcs
+L 01/05/2025 - 10:38:12: Started map "d1_trainstation_02" (CRC "652026196")
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:38:12: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:38:12: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 01/05/2025 - 10:38:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:38:13: Dropped glitch31415 from server
+L 01/05/2025 - 10:38:13: Reason:  Client sent 'drop'
+L 01/05/2025 - 10:38:13: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:13: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:13: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:38:13: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 01/05/2025 - 10:38:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:38:14: "glitch31415<45><STEAM_0:0:743386914><>" STEAM USERID validated
+L 01/05/2025 - 10:38:15: Dropped koolaid from server
+L 01/05/2025 - 10:38:15: Reason:  Client sent 'drop'
+L 01/05/2025 - 10:38:15: \bot3\BOT\ connected from address 127.0.0.1
+L 01/05/2025 - 10:38:15: \bot3\BOT\ entered the game as ld_gordon(123,229)
+L 01/05/2025 - 10:38:15: \bot2\BOT\ connected from address 127.0.0.1
+L 01/05/2025 - 10:38:15: \bot2\BOT\ entered the game as ld_gordon(50,147)
+L 01/05/2025 - 10:38:15: \bot1\BOT\ connected from address 127.0.0.1
+L 01/05/2025 - 10:38:15: \bot1\BOT\ entered the game as ld_gordon(165,5)
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/05/2025 - 10:38:15: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling server.so:ClientConnect()
+L 01/05/2025 - 10:38:15: \koolaid\STEAM_0:1:541489370\ connected from address 97.115.239.149:27005
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:15: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:15: "koolaid<49><STEAM_0:1:541489370><>" STEAM USERID validated
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:16: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:16: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 01/05/2025 - 10:38:18: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 01/05/2025 - 10:38:18: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:18: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 01/05/2025 - 10:38:18: \koolaid\STEAM_0:1:541489370\ entered the game as tower(76,76)
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 01/05/2025 - 10:38:19: [META] (debug:3) Calling server.so:CvarValue2()
+L 01/05/2025 - 10:38:19: \koolaid\STEAM_0:1:541489370\ Client version: Adrenaline Gamer (OpenGL)
+L 01/05/2025 - 10:38:21: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 01/05/2025 - 10:38:25: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 01/05/2025 - 10:38:26: \glitch31415\STEAM_0:0:743386914\ killed by \koolaid\STEAM_0:1:541489370\ with "9mmAR"
+L 01/05/2025 - 10:38:37: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 01/05/2025 - 10:38:50: \koolaid\STEAM_0:1:541489370\ say "i like these open maps"
+L 01/05/2025 - 10:38:53: \glitch31415\STEAM_0:0:743386914\ killed "Scientist" with "9mmAR"
+L 01/05/2025 - 10:39:04: \glitch31415\STEAM_0:0:743386914\ say "yeah this would be a great deathmatch map if it had multiple spawns"
+L 01/05/2025 - 10:39:08: \koolaid\STEAM_0:1:541489370\ say "damn the revolver"
+L 01/05/2025 - 10:39:10: \glitch31415\STEAM_0:0:743386914\ killed by \koolaid\STEAM_0:1:541489370\ with "357"
+L 01/05/2025 - 10:39:14: \koolaid\STEAM_0:1:541489370\ say "finally"
+L 01/05/2025 - 10:39:18: \koolaid\STEAM_0:1:541489370\ killed "Scientist" with "357"
+L 01/05/2025 - 10:39:23: \glitch31415\STEAM_0:0:743386914\ say "you have to hit the torso or head, everywhere else has a damage cap"
+L 01/05/2025 - 10:39:30: \koolaid\STEAM_0:1:541489370\ say "ah"
+L 01/05/2025 - 10:39:32: \glitch31415\STEAM_0:0:743386914\ say "and below that it only deals one damage"
+L 01/05/2025 - 10:39:42: \koolaid\STEAM_0:1:541489370\ killed by "worldspawn"
+L 01/05/2025 - 10:39:47: \glitch31415\STEAM_0:0:743386914\ killed by \koolaid\STEAM_0:1:541489370\ with "357"
+L 01/05/2025 - 10:39:50: \glitch31415\STEAM_0:0:743386914\ say "bc it's like, you already turned my arm into swiss cheese, you can't do any more damage by shooting it more"
+L 01/05/2025 - 10:40:12: \koolaid\STEAM_0:1:541489370\ killed by \glitch31415\STEAM_0:0:743386914\ with "357"
+L 01/05/2025 - 10:40:19: \glitch31415\STEAM_0:0:743386914\ say "afk"
+L 01/05/2025 - 10:40:22: \koolaid\STEAM_0:1:541489370\ killed by "Vehicle"
+L 01/05/2025 - 10:40:22: \glitch31415\STEAM_0:0:743386914\ killed by "Vehicle"
+L 01/05/2025 - 10:40:34: \koolaid\STEAM_0:1:541489370\ killed by "Vehicle"
+L 01/05/2025 - 10:40:47: \koolaid\STEAM_0:1:541489370\ killed by \glitch31415\STEAM_0:0:743386914\ with "grenade"
+L 01/05/2025 - 10:40:47: \glitch31415\STEAM_0:0:743386914\ committed suicide with "grenade"
+L 01/05/2025 - 10:41:00: \glitch31415\STEAM_0:0:743386914\ committed suicide with "rpg_rocket"
+L 01/05/2025 - 10:41:11: \glitch31415\STEAM_0:0:743386914\ killed by \koolaid\STEAM_0:1:541489370\ with "grenade"
+L 01/05/2025 - 10:41:17: Rcon: "rcon 1608141599 "5pgW37D7ad" restart" from "127.0.0.1:27005"
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: \bot3\BOT\ disconnected
+L 01/05/2025 - 10:41:17: Dropped bot3 from server
+L 01/05/2025 - 10:41:17: Reason:  Dropping fakeclient on level change
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: \bot2\BOT\ disconnected
+L 01/05/2025 - 10:41:17: Dropped bot2 from server
+L 01/05/2025 - 10:41:17: Reason:  Dropping fakeclient on level change
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: \bot1\BOT\ disconnected
+L 01/05/2025 - 10:41:17: Dropped bot1 from server
+L 01/05/2025 - 10:41:17: Reason:  Dropping fakeclient on level change
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling engine_amxx_i386.so:ServerDeactivate()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling server.so:ServerDeactivate()
+L 01/05/2025 - 10:41:17: \koolaid\STEAM_0:1:541489370\ 23 points, 5 deaths
+L 01/05/2025 - 10:41:17: \glitch31415\STEAM_0:0:743386914\ 18 points, 7 deaths
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerDeactivate_Post()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerDeactivate_Post()
+L 01/05/2025 - 10:41:17: [META] ini: Begin re-reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 01/05/2025 - 10:41:17: [META] ini: Read plugin config for: AMX Mod X
+L 01/05/2025 - 10:41:17: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins
+L 01/05/2025 - 10:41:17: [META] dll: Updating plugins...
+L 01/05/2025 - 10:41:17: [META] (debug:1) Keeping plugin 'AMX Mod X'
+L 01/05/2025 - 10:41:17: [META] dll: Finished updating 5 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: \koolaid\STEAM_0:1:541489370\ disconnected with 23 points
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 01/05/2025 - 10:41:17: \glitch31415\STEAM_0:0:743386914\ disconnected with 18 points
+L 01/05/2025 - 10:41:17: Log file closed
+
+-------------------------------------------------------------------------------
+

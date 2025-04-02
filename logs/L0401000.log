@@ -1,0 +1,52 @@
+L 04/01/2025 - 17:54:51: Log file started (file "logs/L0401000.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 04/01/2025 - 17:54:51: Loading map "coolrig_sandbox"
+L 04/01/2025 - 17:54:51: Server cvar "mp_soundvariety" = "0"
+L 04/01/2025 - 17:54:51: Server cvar "mp_soundvariety" = "1"
+L 04/01/2025 - 17:54:51: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 04/01/2025 - 17:54:51: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling server.so:ServerActivate()
+L 04/01/2025 - 17:54:51: Server cvar "mp_nextmap" = "infested"
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 04/01/2025 - 17:54:51: Server cvar "amx_nextmap" = "sc_test_sandbox"
+L 04/01/2025 - 17:54:51: Enemy stats: 0k health, 0 npcs
+L 04/01/2025 - 17:54:51: Started map "coolrig_sandbox" (CRC "123047971")
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling server.so:ClientConnect()
+L 04/01/2025 - 17:54:51: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 04/01/2025 - 17:54:51: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 04/01/2025 - 17:54:52: Dropped glitch31415 from server
+L 04/01/2025 - 17:54:52: Reason:  Client sent 'drop'
+L 04/01/2025 - 17:54:53: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 04/01/2025 - 17:54:53: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 04/01/2025 - 17:54:53: [META] (debug:3) Calling server.so:ClientConnect()
+L 04/01/2025 - 17:54:53: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 04/01/2025 - 17:54:53: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 04/01/2025 - 17:54:53: "glitch31415<17><STEAM_0:0:743386914><>" STEAM USERID validated
+L 04/01/2025 - 17:54:54: \bot3\BOT\ connected from address 127.0.0.1
+L 04/01/2025 - 17:54:54: \bot3\BOT\ entered the game as ld_gordon(57,11)
+L 04/01/2025 - 17:54:54: \bot1\BOT\ connected from address 127.0.0.1
+L 04/01/2025 - 17:54:54: \bot1\BOT\ entered the game as ld_gordon(24,40)
+L 04/01/2025 - 17:54:54: \bot2\BOT\ connected from address 127.0.0.1
+L 04/01/2025 - 17:54:54: \bot2\BOT\ entered the game as ld_gordon(45,171)
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 04/01/2025 - 17:54:55: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling server.so:CvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling server.so:CvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling server.so:CvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 04/01/2025 - 17:54:55: [META] (debug:3) Calling server.so:CvarValue2()
+L 04/01/2025 - 17:54:55: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 04/01/2025 - 18:00:22: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 04/01/2025 - 18:00

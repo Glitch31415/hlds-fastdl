@@ -1,0 +1,146 @@
+L 12/19/2024 - 02:09:58: Log file started (file "logs/L1219002.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 12/19/2024 - 02:09:58: Loading map "sc_test"
+L 12/19/2024 - 02:09:58: Server cvar "mp_soundvariety" = "0"
+L 12/19/2024 - 02:09:58: Server cvar "mp_soundvariety" = "1"
+L 12/19/2024 - 02:09:58: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 12/19/2024 - 02:09:58: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 12/19/2024 - 02:09:58: [META] ERROR: Couldn't find game entity 'info_texlights' in game DLL 'valve': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so: undefined symbol: info_texlights
+L 12/19/2024 - 02:09:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 12/19/2024 - 02:09:58: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 12/19/2024 - 02:09:58: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 12/19/2024 - 02:09:58: [META] (debug:3) Calling server.so:ServerActivate()
+L 12/19/2024 - 02:09:58: Server cvar "mp_nextmap" = "crossfireXL"
+L 12/19/2024 - 02:09:58: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 12/19/2024 - 02:09:58: Enemy stats: 2k health, 12+ npcs
+L 12/19/2024 - 02:09:59: Started map "sc_test" (CRC "1581495514")
+L 12/19/2024 - 02:10:02: \bot2\BOT\ connected from address 127.0.0.1
+L 12/19/2024 - 02:10:02: \bot2\BOT\ entered the game as ld_gordon(185,35)
+L 12/19/2024 - 02:10:02: \bot3\BOT\ connected from address 127.0.0.1
+L 12/19/2024 - 02:10:02: \bot3\BOT\ entered the game as ld_gordon(93,221)
+L 12/19/2024 - 02:10:02: \bot1\BOT\ connected from address 127.0.0.1
+L 12/19/2024 - 02:10:02: \bot1\BOT\ entered the game as ld_gordon(155,138)
+L 12/19/2024 - 08:34:14: "Slaapbol<4><STEAM_0:0:90705641><>" STEAM USERID validated
+L 12/19/2024 - 08:34:15: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:34:15: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:34:15: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/19/2024 - 08:34:15: \Slaapbol\STEAM_0:0:90705641\ connected from address 188.162.65.217:33244
+L 12/19/2024 - 08:34:15: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/19/2024 - 08:34:31: Dropped Slaapbol from server
+L 12/19/2024 - 08:34:31: Reason:  Client sent 'drop'
+L 12/19/2024 - 08:36:13: "gray<5><STEAM_0:0:811751876><>" STEAM USERID validated
+L 12/19/2024 - 08:36:14: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:36:14: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:36:14: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/19/2024 - 08:36:14: \gray\STEAM_0:0:811751876\ connected from address 88.236.66.5:30153
+L 12/19/2024 - 08:36:14: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/19/2024 - 08:36:18: Dropped gray from server
+L 12/19/2024 - 08:36:18: Reason:  Client sent 'drop'
+L 12/19/2024 - 08:37:01: "gray<6><STEAM_0:0:811751876><>" STEAM USERID validated
+L 12/19/2024 - 08:37:01: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:37:01: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:37:01: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/19/2024 - 08:37:01: \gray\STEAM_0:0:811751876\ connected from address 88.236.66.5:30153
+L 12/19/2024 - 08:37:01: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/19/2024 - 08:37:09: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/19/2024 - 08:37:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:37:09: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/19/2024 - 08:37:09: \gray\STEAM_0:0:811751876\ entered the game as gordon(30,6)
+L 12/19/2024 - 08:37:09: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:37:09: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:37:09: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:37:10: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:37:10: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:37:10: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:37:10: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:37:10: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:37:10: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:37:11: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:37:11: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:37:11: \gray\STEAM_0:0:811751876\ Client version: Half-Life (OpenGL)
+L 12/19/2024 - 08:38:03: \gray\STEAM_0:0:811751876\ killed by "Human Grunt"
+L 12/19/2024 - 08:38:10: \gray\STEAM_0:0:811751876\ killed "Human Grunt" with "gluon gun"
+L 12/19/2024 - 08:38:11: \gray\STEAM_0:0:811751876\ killed "Human Grunt" with "gluon gun"
+L 12/19/2024 - 08:38:27: \gray\STEAM_0:0:811751876\ killed "Human Grunt" with "gluon gun"
+L 12/19/2024 - 08:38:29: \gray\STEAM_0:0:811751876\ killed "Human Grunt" with "gluon gun"
+L 12/19/2024 - 08:38:30: \gray\STEAM_0:0:811751876\ committed suicide with "gluon gun"
+L 12/19/2024 - 08:39:00: \gray\STEAM_0:0:811751876\ killed "Ichthyosaur" with "gluon gun"
+L 12/19/2024 - 08:39:06: \gray\STEAM_0:0:811751876\ killed "Ichthyosaur" with "gluon gun"
+L 12/19/2024 - 08:39:12: "Slaapbol<7><STEAM_0:0:90705641><>" STEAM USERID validated
+L 12/19/2024 - 08:39:13: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:39:13: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 08:39:13: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/19/2024 - 08:39:13: \Slaapbol\STEAM_0:0:90705641\ connected from address 188.162.65.217:24572
+L 12/19/2024 - 08:39:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/19/2024 - 08:39:21: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 12/19/2024 - 08:39:21: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:39:21: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 12/19/2024 - 08:39:21: \Slaapbol\STEAM_0:0:90705641\ entered the game as skeleton(90,255)
+L 12/19/2024 - 08:39:22: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:39:22: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:39:22: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:39:23: \Slaapbol\STEAM_0:0:90705641\ killed by \gray\STEAM_0:0:811751876\ with "gluon gun"
+L 12/19/2024 - 08:39:25: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:39:25: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:39:25: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:39:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:39:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:39:26: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 12/19/2024 - 08:39:26: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 12/19/2024 - 08:39:26: [META] (debug:3) Calling server.so:CvarValue2()
+L 12/19/2024 - 08:39:26: \Slaapbol\STEAM_0:0:90705641\ Client version: Half-Life (OpenGL)
+L 12/19/2024 - 08:39:32: \Slaapbol\STEAM_0:0:90705641\ killed by \gray\STEAM_0:0:811751876\ with "gluon gun"
+L 12/19/2024 - 08:39:37: \gray\STEAM_0:0:811751876\ killed by \Slaapbol\STEAM_0:0:90705641\ with "9mmAR"
+L 12/19/2024 - 08:40:01: \Slaapbol\STEAM_0:0:90705641\ killed by \gray\STEAM_0:0:811751876\ with "gluon gun"
+L 12/19/2024 - 08:40:26: \Slaapbol\STEAM_0:0:90705641\ killed by \gray\STEAM_0:0:811751876\ with "gluon gun"
+L 12/19/2024 - 08:40:46: \Slaapbol\STEAM_0:0:90705641\ killed by \gray\STEAM_0:0:811751876\ with "gluon gun"
+L 12/19/2024 - 08:40:59: \Slaapbol\STEAM_0:0:90705641\ killed by \gray\STEAM_0:0:811751876\ with "gluon gun"
+L 12/19/2024 - 08:41:00: \gray\STEAM_0:0:811751876\ committed suicide with "gluon gun"
+L 12/19/2024 - 08:41:07: \Slaapbol\STEAM_0:0:90705641\ killed by \gray\STEAM_0:0:811751876\ with "gluon gun"
+L 12/19/2024 - 08:41:09: \gray\STEAM_0:0:811751876\ committed suicide with "gluon gun"
+L 12/19/2024 - 08:41:18: \gray\STEAM_0:0:811751876\ committed suicide with "gluon gun"
+L 12/19/2024 - 08:41:57: \gray\STEAM_0:0:811751876\ killed by \Slaapbol\STEAM_0:0:90705641\ with "rpg_rocket"
+L 12/19/2024 - 08:41:57: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:42:25: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/19/2024 - 08:42:25: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/19/2024 - 08:42:25: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/19/2024 - 08:42:25: \gray\STEAM_0:0:811751876\ disconnected with 5 points
+L 12/19/2024 - 08:42:25: Dropped gray from server
+L 12/19/2024 - 08:42:25: Reason:  Client sent 'drop'
+L 12/19/2024 - 08:43:06: \Slaapbol\STEAM_0:0:90705641\ killed by "worldspawn"
+L 12/19/2024 - 08:43:35: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "gluon gun"
+L 12/19/2024 - 08:43:50: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "grenade"
+L 12/19/2024 - 08:44:27: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:44:27: \Slaapbol\STEAM_0:0:90705641\ killed "Osprey" with "rpg_rocket"
+L 12/19/2024 - 08:45:16: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:45:26: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "gluon gun"
+L 12/19/2024 - 08:45:32: \Slaapbol\STEAM_0:0:90705641\ killed "Osprey" with "rpg_rocket"
+L 12/19/2024 - 08:45:38: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:45:43: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:45:50: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:45:56: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "grenade"
+L 12/19/2024 - 08:46:05: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:46:11: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:47:25: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:49:18: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "grenade"
+L 12/19/2024 - 08:49:22: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:49:27: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:49:31: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:49:37: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:49:37: \Slaapbol\STEAM_0:0:90705641\ killed "Osprey" with "rpg_rocket"
+L 12/19/2024 - 08:49:42: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:52:08: \Slaapbol\STEAM_0:0:90705641\ committed suicide with "rpg_rocket"
+L 12/19/2024 - 08:52:11: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 12/19/2024 - 08:52:11: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 12/19/2024 - 08:52:11: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 12/19/2024 - 08:52:11: \Slaapbol\STEAM_0:0:90705641\ disconnected with 104 points
+L 12/19/2024 - 08:52:11: Dropped Slaapbol from server
+L 12/19/2024 - 08:52:11: Reason:  Client sent 'drop'
+L 12/19/2024 - 10:00:06: "Drakukla45666<8><STEAM_0:1:19859710><>" STEAM USERID validated
+L 12/19/2024 - 10:00:06: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 10:00:06: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 12/19/2024 - 10:00:06: [META] (debug:3) Calling server.so:ClientConnect()
+L 12/19/2024 - 10:00:06: \Drakukla45666\STEAM_0:1:19859710\ connected from address 78.80.80.46:30357
+L 12/19/2024 - 10:00:06: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 12/19/2024 - 10:00:12: Dropped Drakukla45666 from server
+L 12/19/2024 - 10:00:12: Reason:  Client sent 'drop'
+L 12/19/2024 - 10:00:14: "Drakukla45666<9><STEAM_0:1:19859710><>

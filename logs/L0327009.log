@@ -1,0 +1,47 @@
+L 03/27/2025 - 18:07:13: Log file started (file "logs/L0327009.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 03/27/2025 - 18:07:13: b>[META] dev: Set engine code range: start address = 0xf72a9000, end address = 0xf735e7c8
+L 03/27/2025 - 18:07:13: [META] dev: called: GiveFnptrsToDll
+L 03/27/2025 - 18:07:13: [META] Metamod v1.20  2013-02-16
+L 03/27/2025 - 18:07:13: [META] by Will Day <willday@metamod.org>
+L 03/27/2025 - 18:07:13: [META]    http://www.metamod.org/
+L 03/27/2025 - 18:07:13: [META] compiled: Feb 16 2013, 17:11:35 +0100 (optimized)
+L 03/27/2025 - 18:07:13: [META] engine: i486
+L 03/27/2025 - 18:07:23: [META] (debug:3) set config int: debuglevel = 0
+L 03/27/2025 - 18:07:23: [META] (debug:3) set config path: plugins_file = /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 03/27/2025 - 18:07:23: [META] (debug:3) set config string: exec_cfg = addons/metamod/exec.cfg
+L 03/27/2025 - 18:07:23: [META] (debug:2) Loading from config file: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/config.ini
+L 03/27/2025 - 18:07:23: [META] (debug:3) set config path: gamedll = /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/dlls/server.so
+L 03/27/2025 - 18:07:23: [META] Overriding game 'valve' with dllfile 'server.so'
+L 03/27/2025 - 18:07:23: [META] (debug:3) dll: Game 'valve': Called GiveFnptrsToDll
+L 03/27/2025 - 18:07:23: [META] (debug:3) dll: Game 'valve': Found GetNewDLLFunctions
+L 03/27/2025 - 18:07:23: [META] (debug:3) dll: Game 'valve': Found GetEntityAPI2
+L 03/27/2025 - 18:07:23: [META] Game DLL for 'server.so (override)' loaded successfully
+L 03/27/2025 - 18:07:23: [META] ini: Begin reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini
+L 03/27/2025 - 18:07:23: [META] ini: Read plugin config for: <amxmodx_mm_i386.so>
+L 03/27/2025 - 18:07:23: [META] ini: Finished reading plugins list: /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/metamod/plugins.ini; Found 1 plugins to load
+L 03/27/2025 - 18:07:23: [META] dll: Loading plugins...
+L 03/27/2025 - 18:07:23: [META] ERROR: dll: Failed query plugin '<amxmodx_mm_i386.so>'; Couldn't open file '/home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/dlls/amxmodx_mm_i386.so': /home/glitch/.steam/debian-installation/steamapps/common/hlds/valve/addons/amxmodx/dlls/amxmodx_mm_i386.so: cannot enable executable stack as shared object requires: Invalid argument
+L 03/27/2025 - 18:07:23: [META] ERROR: dll: Skipping plugin '<amxmodx_mm_i386.so>'; couldn't query
+L 03/27/2025 - 18:07:23: [META] ERROR: dll: Failed to load plugin 'amxmodx_mm_i386.so'
+L 03/27/2025 - 18:07:23: [META] dll: Finished loading 0 plugins
+L 03/27/2025 - 18:07:23: [META] (debug:3) called: GetEntityAPI2; version=140
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling server.so:GameDLLInit()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: [META] (debug:3) Calling engine:AddServerCommand()
+L 03/27/2025 - 18:07:23: Log file closed
+
+-------------------------------------------------------------------------------
+

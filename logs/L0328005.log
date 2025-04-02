@@ -1,0 +1,103 @@
+L 03/28/2025 - 22:29:33: Log file started (file "logs/L0328005.log") (game "valve") (version "48/1.1.2.2/Stdio/3897")
+L 03/28/2025 - 22:29:33: Loading map "hldm_2fort_sandbox"
+L 03/28/2025 - 22:29:33: Server cvar "mp_soundvariety" = "0"
+L 03/28/2025 - 22:29:33: Server cvar "mp_soundvariety" = "1"
+L 03/28/2025 - 22:29:33: [META] (debug:3) user message registered again: name=VoiceMask, msgid=64
+L 03/28/2025 - 22:29:33: [META] (debug:3) user message registered again: name=ReqState, msgid=65
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate()
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling engine_amxx_i386.so:ServerActivate()
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling fakemeta_amxx_i386.so:ServerActivate()
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling server.so:ServerActivate()
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ServerActivate_Post()
+L 03/28/2025 - 22:29:33: Enemy stats: 0k health, 0 npcs
+L 03/28/2025 - 22:29:33: Started map "hldm_2fort_sandbox" (CRC "579208788")
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:29:33: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:29:33: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:29:34: Dropped glitch31415 from server
+L 03/28/2025 - 22:29:34: Reason:  Client sent 'drop'
+L 03/28/2025 - 22:29:35: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:29:35: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/28/2025 - 22:29:35: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/28/2025 - 22:29:35: \glitch31415\STEAM_0:0:743386914\ connected from address 127.0.0.1:27005
+L 03/28/2025 - 22:29:35: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/28/2025 - 22:29:35: "glitch31415<39><STEAM_0:0:743386914><>" STEAM USERID validated
+L 03/28/2025 - 22:29:36: \bot2\BOT\ connected from address 127.0.0.1
+L 03/28/2025 - 22:29:36: \bot2\BOT\ entered the game as ld_gordon(26,7)
+L 03/28/2025 - 22:29:36: \bot3\BOT\ connected from address 127.0.0.1
+L 03/28/2025 - 22:29:36: \bot3\BOT\ entered the game as ld_gordon(111,211)
+L 03/28/2025 - 22:29:36: \bot1\BOT\ connected from address 127.0.0.1
+L 03/28/2025 - 22:29:36: \bot1\BOT\ entered the game as ld_gordon(138,111)
+L 03/28/2025 - 22:29:36: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/28/2025 - 22:29:36: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:29:36: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientPutInServer_Post()
+L 03/28/2025 - 22:29:36: \glitch31415\STEAM_0:0:743386914\ entered the game as wireframe(76,76)
+L 03/28/2025 - 22:29:36: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:29:36: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:29:36: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling amxmodx_mm_i386.so:CvarValue2()
+L 03/28/2025 - 22:29:37: [META] (debug:3) Calling server.so:CvarValue2()
+L 03/28/2025 - 22:29:37: \glitch31415\STEAM_0:0:743386914\ Client version: Adrenaline Gamer (OpenGL)
+L 03/28/2025 - 22:34:04: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:34:04: [META] (debug:3) Calling engine_amxx_i386.so:ClientDisconnect()
+L 03/28/2025 - 22:34:04: [META] (debug:3) Calling server.so:ClientDisconnect()
+L 03/28/2025 - 22:34:04: \glitch31415\STEAM_0:0:743386914\ disconnected
+L 03/28/2025 - 22:34:04: Dropped glitch31415 from server
+L 03/28/2025 - 22:34:04: Reason:  Client sent 'drop'
+L 03/29/2025 - 07:11:10: "lcnera<43><STEAM_0:0:816608745><>" STEAM USERID validated
+L 03/29/2025 - 07:11:10: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 07:11:10: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 07:11:10: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/29/2025 - 07:11:10: \lcnera\STEAM_0:0:816608745\ connected from address 77.239.219.188:27005
+L 03/29/2025 - 07:11:10: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/29/2025 - 07:11:17: Dropped lcnera from server
+L 03/29/2025 - 07:11:17: Reason:  Client sent 'drop'
+L 03/29/2025 - 07:11:43: "lcnera<44><STEAM_0:0:816608745><>" STEAM USERID validated
+L 03/29/2025 - 07:11:43: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 07:11:43: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 07:11:43: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/29/2025 - 07:11:43: \lcnera\STEAM_0:0:816608745\ connected from address 77.239.219.188:27005
+L 03/29/2025 - 07:11:43: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/29/2025 - 07:12:13: Dropped lcnera from server
+L 03/29/2025 - 07:12:13: Reason:  Client sent 'drop'
+L 03/29/2025 - 14:01:44: "Dani<45><STEAM_0:0:541671218><>" STEAM USERID validated
+L 03/29/2025 - 14:01:44: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:01:44: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:01:44: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/29/2025 - 14:01:44: \Dani\STEAM_0:0:541671218\ connected from address 157.100.198.191:18640
+L 03/29/2025 - 14:01:44: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/29/2025 - 14:01:49: Dropped Dani from server
+L 03/29/2025 - 14:01:49: Reason:  Client sent 'drop'
+L 03/29/2025 - 14:02:12: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:02:12: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:02:12: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/29/2025 - 14:02:12: \Dani\STEAM_0:0:541671218\ connected from address 157.100.198.191:18640
+L 03/29/2025 - 14:02:12: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/29/2025 - 14:02:13: "Dani<46><STEAM_0:0:541671218><>" STEAM USERID validated
+L 03/29/2025 - 14:04:09: Dropped Dani from server
+L 03/29/2025 - 14:04:09: Reason:  Client sent 'drop'
+L 03/29/2025 - 14:09:01: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:09:01: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:09:01: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/29/2025 - 14:09:01: \Heinz Doofenshmirtz\STEAM_0:1:582993605\ connected from address 38.250.158.133:20505
+L 03/29/2025 - 14:09:01: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/29/2025 - 14:09:01: "Heinz Doofenshmirtz<47><STEAM_0:1:582993605><>" STEAM USERID validated
+L 03/29/2025 - 14:09:09: Dropped Heinz Doofenshmirtz from server
+L 03/29/2025 - 14:09:09: Reason:  Client sent 'drop'
+L 03/29/2025 - 14:09:13: "Heinz Doofenshmirtz<48><STEAM_0:1:582993605><>" STEAM USERID validated
+L 03/29/2025 - 14:09:13: [META] (debug:3) Calling engine_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:09:13: [META] (debug:3) Calling fun_amxx_i386.so:ClientConnect()
+L 03/29/2025 - 14:09:13: [META] (debug:3) Calling server.so:ClientConnect()
+L 03/29/2025 - 14:09:13: \Heinz Doofenshmirtz\STEAM_0:1:582993605\ connected from address 38.250.158.133:20505
+L 03/29/2025 - 14:09:13: [META] (debug:3) Calling amxmodx_mm_i386.so:ClientConnect_Post()
+L 03/29/2025 - 14:12:29: [META] (debug:3) Calling server.so:ClientPutInServer()
+L 03/29/2025 - 14:12:29: [META] (debug:3) Calling engine:QueryClientCvarValue2()
+L 03/29/2025 - 14:12:29: [META] (debug:3) Calli
