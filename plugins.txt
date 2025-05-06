@@ -11,4 +11,3 @@
 // Any lines beginning with "//" are ignored,
 
 // AntiBlock
-rcbot/dlls/rcbot

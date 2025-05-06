@@ -163,11 +163,16 @@ gonome/gonome_pain1.wav						hlcoop/gonome/gonome_pain1.wav
 gonome/gonome_pain2.wav						hlcoop/gonome/gonome_pain2.wav
 gonome/gonome_pain3.wav						hlcoop/gonome/gonome_pain3.wav
 gonome/gonome_pain4.wav						hlcoop/gonome/gonome_pain4.wav
+gonome/gonome_step1.wav						hlcoop/gonome/gonome_run.wav
+gonome/gonome_step2.wav						hlcoop/gonome/gonome_run.wav
 hassault/hw_shoot2.wav						hlcoop/hassault/hw_shoot2.wav
 hassault/hw_shoot3.wav						hlcoop/hassault/hw_shoot3.wav
 hassault/hw_spindown.wav					hlcoop/hassault/hw_spindown.wav
 hassault/hw_spinup.wav						hlcoop/hassault/hw_spinup.wav
 items/tfc/itembk2.wav						hlcoop/items/tfc/itembk2.wav
+items/nightvision1.wav						hlcoop/items/nightvision1.wav
+items/nightvision2.wav						hlcoop/items/nightvision2.wav
+kingpin/kingpin_move.wav					hlcoop/kingpin/kingpin_move.wav
 massn/covered.wav							hlcoop/massn/covered.wav
 massn/yeah.wav								hlcoop/massn/yeah.wav
 otis/aliencombat.wav						hlcoop/otis/aliencombat.wav
@@ -379,6 +384,9 @@ weapons/distant/explode3.wav				hlcoop/weapons/distant/explode3.wav
 weapons/distant/explode4.wav				hlcoop/weapons/distant/explode4.wav
 weapons/distant/explode5.wav				hlcoop/weapons/distant/explode5.wav
 weapons/glock_reload.wav					hlcoop/weapons/glock_reload.wav
+weapons/knife1.wav							hlcoop/weapons/knife1.wav
+weapons/knife2.wav							hlcoop/weapons/knife2.wav
+weapons/knife3.wav							hlcoop/weapons/knife3.wav
 weapons/ofmortar.wav						hlcoop/weapons/ofmortar.wav
 weapons/pwrench_big_hit1.wav				hlcoop/weapons/pwrench_big_hit1.wav
 weapons/pwrench_big_hit2.wav				hlcoop/weapons/pwrench_big_hit2.wav
@@ -673,3 +681,5 @@ shocktrooper/pur.wav						hlcoop/shocktrooper/pur.wav
 shocktrooper/ras.wav						hlcoop/shocktrooper/ras.wav
 shocktrooper/thirv.wav						hlcoop/shocktrooper/thirv.wav
 shocktrooper/wirt.wav						hlcoop/shocktrooper/wirt.wav
+weather/rain.wav							hlcoop/weather/rain.wav
+weather/rain_glass.wav						hlcoop/weather/rain_glass.wav
